@@ -43,7 +43,7 @@ DEBUG_ARGS = --verbose
 
 ARGS = $(TOC) $(MATH_FORMULAS) $(METADATA_ARGS) $(FILTER_ARGS) $(DEBUG_ARGS)
 	
-PANDOC_COMMAND = pandoc --lua-filter=templates/verse-sections.lua
+PANDOC_COMMAND = pandoc --lua-filter=filters/verse-sections.lua
 
 # Per-format options
 

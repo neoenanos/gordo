@@ -2,7 +2,7 @@
 
 ## DÉCIMAS
 
-### I {.verse}
+### I
 
 La mañana que no es mía
 se quedaba en mí, mas,
