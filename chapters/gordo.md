@@ -6250,7 +6250,7 @@ figuras. Al aumentar tan poderosamente la cariátide rnayor la proyección de la
 luz, hará aparecer por momentos a los movimientos como spintrias y peces ciegos
 rapidísimos.
 
-::: verse
+::: {.verse}
 
 El esturión con flaca tinta borrosa
 preparando los tapetes rajados de las consagraciones,
@@ -6291,8 +6291,6 @@ los acercamientos a las crecidas aclaradas por las rotaciones
 del seis, y cuando la mano izquierda entresaca
 del mijo las seis cápsulas del vino y del aceite,
 se endurecen en el sortilegio del ojo salado del buey.
-
-:::
 
 La anchurosa memoria alcanzadas por las tablas de la casa,
 y las analogías del mijo culebreando la hililla de oro,
@@ -7028,7 +7026,6 @@ En el Salón Alaska, con una toalla enrollada
 en el brazo izquierdo, para taparse de las estocadas
 de los hilos. Se afeitará en el baño tibio.
 Pero no, ya está frente al espejo y mientras
-
 pasea por sus mejillas, el perro lo descifra
 desde el primer salón. El infierno es eso:
 los guantes, los epigramas, las espinas milenarias,
@@ -7039,6 +7036,8 @@ la puerta que se cierra como un tutti orquestal en el vacío,
 mientras el japonés en smoking se inclina, ;
 para recoger el clavel frappé, en el bostezo
 de la cuarta dinastía de sus sandalias charoladas.
+
+:::
 
 ### LAS HORAS REGLADAS {.verse}
 

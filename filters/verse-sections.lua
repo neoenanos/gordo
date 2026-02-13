@@ -58,3 +58,29 @@ function Pandoc(doc)
 
   return pandoc.Pandoc(newblocks, doc.meta)
 end
+
+function Div(el)
+  if el.classes:includes("verse") then
+
+    -- convert softbreaks inside paragraphs
+    for _, block in ipairs(el.content) do
+      if block.t == "Para" then
+        local newcontent = {}
+        for _, inline in ipairs(block.content) do
+          if inline.t == "SoftBreak" then
+            table.insert(newcontent, pandoc.LineBreak())
+          else
+            table.insert(newcontent, inline)
+          end
+        end
+        block.content = newcontent
+      end
+    end
+
+    return {
+      pandoc.RawBlock("latex", "\\begin{verse}"),
+      table.unpack(el.content),
+      pandoc.RawBlock("latex", "\\end{verse}")
+    }
+  end
+end
