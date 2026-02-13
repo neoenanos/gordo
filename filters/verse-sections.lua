@@ -61,11 +61,14 @@ end
 
 function Div(el)
   if el.classes:includes("verse") then
+    local blocks = {}
 
-    -- convert softbreaks inside paragraphs
+    table.insert(blocks, pandoc.RawBlock("latex", "\\begin{verse}"))
+
     for _, block in ipairs(el.content) do
       if block.t == "Para" then
         local newcontent = {}
+
         for _, inline in ipairs(block.content) do
           if inline.t == "SoftBreak" then
             table.insert(newcontent, pandoc.LineBreak())
@@ -73,14 +76,15 @@ function Div(el)
             table.insert(newcontent, inline)
           end
         end
+
         block.content = newcontent
       end
+
+      table.insert(blocks, block)
     end
 
-    return {
-      pandoc.RawBlock("latex", "\\begin{verse}"),
-      table.unpack(el.content),
-      pandoc.RawBlock("latex", "\\end{verse}")
-    }
+    table.insert(blocks, pandoc.RawBlock("latex", "\\end{verse}"))
+
+    return blocks
   end
 end
