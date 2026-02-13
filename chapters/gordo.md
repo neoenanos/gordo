@@ -520,7 +520,9 @@ y la franja sepultada en el agua
 y la franja exprimida es la sangre y la sien
 que se hundan dormidas.
 
-# MUERTE DE NARCISO {.verse}
+# MUERTE DE NARCISO
+
+## MUERTE DE NARCISO {.verse}
 
 Dánae teje el tiempo dorado por el Nilo,
 envolviendo los labios que pasaban
@@ -859,7 +861,7 @@ que existen o no existen pero siempre aletean
 buscando la compuerta de un ruido virado
 por el exceso de trabajo, por la risa.
 
-::: {.indent}
+::: indent
 Que existen o no existen
 si tú fueras el primero
 a cazar en la nieve
@@ -878,7 +880,7 @@ que aceptan la prisa del humo deletreado
 y tus miradas se estilen en la orilla de los ríos
 reemplazando a los suicidas.
 
-::: {.indent}
+::: indent
 Y su suerte se ha quedado
 bajo los párpados pobres
 como un pellizco en la rosa
@@ -2057,7 +2059,6 @@ que va bruñendo y destruyendo las caderas sueltas en la cárcel del sueño,
 aprisionando el cuello de un caballo enterrado, intocable,
 hasta enseñar el belfo pellizcado, el donaire o la mirada de desprecio
 sobre el marinero nadando a los pies de un castillo
-
 o el hilo de ojos que el aire suelta en flechas
 quemadas en esta pradera donde los caballos adolescentes
 han roto sus belfos al borde de las fuentes para redimir a la tierra
@@ -3562,7 +3563,7 @@ paredón que se derrumba, como una aprobación que aplasta los morteros que
 vencen al círculo, por una penetración tan rápida como el fuego penga en
 parábola y el halcón cae sobre el toro penoso en la bodega del barco.
 
-# LA FIJEZA 
+# LA FIJEZA
 
 ## I 
 
@@ -13634,7 +13635,6 @@ En el espejo del tronco
 una amarilla ave de cetrería
 tolera al ave blanca masticando la nieve.
 Al pie del árbol, juramentos
-
 las tropas otomanas colocan arañas de rocío
 sobre el blanco lomo de los corceles austriacos.
 Dos espejos inclinados esperando,
@@ -13793,7 +13793,6 @@ al centro del bosque, pero ya el fuego
 había desarraigado el horizonte.
 La ciudad dormida evapora su lenguaje,
 el incendio rodaba como agua
-
 por los peldaños de los brazos.
 La nueva ondenanza indescifrable
 levantó la cabeza del náufrago que hablaba.
@@ -13887,7 +13886,6 @@ y lo otro restante,
 parece que se ha ido, pero entonces vuelve.
 Lo restante es Dios tal vez,
 menos yo tal vez,
-
 tal vez el raspado solar
 y en él a horcajadas el yo tal vez.
 A mi lado el otro cuerpo,
@@ -13955,7 +13953,7 @@ y dejaba caer una gota
 hidrocéfala con los ojos sangrantes:
 cuacuá.
 
-## UNA FRAGATA, CON LAS VELAS DESPLEGADAS, GIRA GOLPEADA POR LA TEMPESTAD, HASTA INSERTARSE EN UN CÍRCULO TRANSPARENTE, AZUL INALTERABLE, EN EL LENTO CUADRICULADO DE UN PRISMÁTICO
+## UNA FRAGATA, CON LAS VELAS DESPLEGADAS, GIRA GOLPEADA POR LA TEMPESTAD, HASTA INSERTARSE EN UN CÍRCULO TRANSPARENTE, AZUL INALTERABLE, EN EL LENTO CUADRICULADO DE UN PRISMÁTICO {.verse}
 
 Las velas se vuelven
 picoteadas por un dogo de niebla.

@@ -12,9 +12,18 @@ MAKEFILE = Makefile
 OUTPUT_FILENAME = book
 METADATA = metadata.yml
 CHAPTERS += $(addprefix ./chapters/,\
- gordo.md \
+s/POEMAS.md \
+s/MUERTE_DE_NARCISO.md \
+s/ENEMIGO_RUMOR.md \
+s/AVENTURAS_SIGILOSAS.md \
+s/LA_FIJEZA.md \
+s/DADOR.md \
+s/POEMAS_NO_PUBLICADOS_EN_LIBRO.md \
+s/FRAGMENTOS_A_SU_IMÁN.md \
+s/OTROS_POEMAS.md \
 )
-TOC = --toc --toc-depth 2
+
+TOC = --toc --toc-depth 5
 METADATA_ARGS = --metadata-file $(METADATA)
 IMAGES = $(shell find images -type f)
 TEMPLATES = $(shell find templates/ -type f)
@@ -87,9 +96,9 @@ RENAME_CHAPTERS = rename -f 's/ /_/g' chapters/*
 # Basic actions
 ####################################################################################################
 
-.PHONY: all book clean copy epub html pdf docx
+.PHONY: all book clean copy epub html pdf docx split
 
-all:	book
+all:	split book
 
 book:	epub html pdf docx
 
@@ -135,3 +144,25 @@ $(BUILD)/docx/$(OUTPUT_FILENAME).docx:	$(DOCX_DEPENDENCIES)
 	$(MKDIR_CMD) $(BUILD)/docx
 	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(DOCX_ARGS) -o $@
 	$(ECHO_BUILT)
+
+####################################################################################################
+# Split gordo.md into chapters
+####################################################################################################
+
+SPLIT_SRC := chapters/gordo.md
+SPLIT_DIR := chapters/s
+
+split:
+	@echo "Splitting $(SPLIT_SRC) into H1 sections..."
+	@rm -f $(SPLIT_DIR)/*.md
+	@mkdir -p $(SPLIT_DIR)
+	@awk '/^# / { \
+		if (out) close(out); \
+		title = $$0; \
+		sub(/^# /, "", title); \
+		filename = title; \
+		gsub(/ /, "_", filename); \
+		out = "$(SPLIT_DIR)/" filename ".md"; \
+	} \
+	{ print >> out }' $(SPLIT_SRC)
+	@echo "Done."
