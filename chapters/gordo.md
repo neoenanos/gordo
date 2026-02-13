@@ -2,7 +2,7 @@
 
 ## DÉCIMAS
 
-### I
+### I {.verse}
 
 La mañana que no es mía
 se quedaba en mí, mas,
@@ -13959,8 +13959,7 @@ y dejaba caer una gota
 hidrocéfala con los ojos sangrantes:
 cuacuá.
 
-## UNA FRAGATA, CON LAS VELAS DESPLEGADAS, GIRA GOLPEADA## POR LA TEMPESTAD, HASTA INSERTARSE EN UN CÍRCULO
-TRANSPARENTE, AZUL INALTERABLE, EN EL LENTO CUADRICULADO# DE UN PRISMÁTICO
+## UNA FRAGATA, CON LAS VELAS DESPLEGADAS, GIRA GOLPEADA POR LA TEMPESTAD, HASTA INSERTARSE EN UN CÍRCULO TRANSPARENTE, AZUL INALTERABLE, EN EL LENTO CUADRICULADO# DE UN PRISMÁTICO
 
 Las velas se vuelven
 picoteadas por un dogo de niebla.

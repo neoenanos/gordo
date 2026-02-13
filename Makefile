@@ -12,7 +12,7 @@ MAKEFILE = Makefile
 OUTPUT_FILENAME = book
 METADATA = metadata.yml
 CHAPTERS += $(addprefix ./chapters/,\
- cadaveres.md \
+ gordo.md \
 )
 TOC = --toc --toc-depth 2
 METADATA_ARGS = --metadata-file $(METADATA)
@@ -29,11 +29,10 @@ CONTENT_FILTERS = tee # Use this to add sed filters or other piped commands
 
 # === Configuration ===
 BOOK_PDF := build/pdf/book.pdf
-EMPTY_PDF := build/empty.pdf
 
 # Debugging
 
-# DEBUG_ARGS = --verbose
+DEBUG_ARGS = --verbose
 
 # Pandoc filtes - uncomment the following variable to enable cross references filter. For more
 # information, check the "Cross references" section on the README.md file.
@@ -44,14 +43,15 @@ EMPTY_PDF := build/empty.pdf
 
 ARGS = $(TOC) $(MATH_FORMULAS) $(METADATA_ARGS) $(FILTER_ARGS) $(DEBUG_ARGS)
 	
-PANDOC_COMMAND = pandoc -f markdown+hard_line_breaks
+PANDOC_COMMAND = pandoc --lua-filter=templates/verse-sections.lua
 
 # Per-format options
 
 DOCX_ARGS = --standalone --reference-doc templates/docx.docx
 EPUB_ARGS = --template templates/epub.html --epub-cover-image $(COVER_IMAGE)
 HTML_ARGS = --template templates/html.html --standalone --to html5
-PDF_ARGS = --pdf-engine lualatex # --lua-filter=remove-footnotes.lua
+PDF_ARGS = --pdf-engine lualatex
+# --lua-filter=remove-footnotes.lua
 # 	--template templates/pdf.latex
 
 
