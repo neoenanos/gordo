@@ -3567,7 +3567,7 @@ parábola y el halcón cae sobre el toro penoso en la bodega del barco.
 
 # LA FIJEZA
 
-## I 
+## I.
 
 ### LOS OJOS DEL RÍO TINTO 
 
@@ -5027,7 +5027,7 @@ Y si al soldado se la adquirimos como oro al irse por la esquina,
 el que llega sabiendo el pecho que la respira como lata,
 quiere imantar con oro el nacimiento del fulgor en el engaño.
 
-## II 
+## II. 
 
 ### NOCHE DICHOSA
 
@@ -5344,7 +5344,7 @@ que caminaba dentro de una resistencia, pudieron ver un ramo de fuego que caía
 en el mar porque sentían la historia de muchos en una sola visión. Son las épocas
 de salvación y su signo es una fogosa resistencia.
 
-## III 
+## III.
 
 ### DESENCUENTROS 
 
