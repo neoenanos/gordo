@@ -57,9 +57,9 @@ PANDOC_COMMAND = pandoc --lua-filter=filters/verse-sections.lua
 # Per-format options
 
 DOCX_ARGS = --standalone --reference-doc templates/docx.docx
-EPUB_ARGS = --template templates/epub.html --epub-cover-image $(COVER_IMAGE)
+EPUB_ARGS = --template templates/epub.html --epub-cover-image $(COVER_IMAGE) --css=templates/style.css 
 HTML_ARGS = --template templates/html.html --standalone --to html5
-PDF_ARGS = --pdf-engine lualatex
+PDF_ARGS = --pdf-engine lualatex --lua-filter=filters/page-break.lua
 # --lua-filter=remove-footnotes.lua
 # 	--template templates/pdf.latex
 

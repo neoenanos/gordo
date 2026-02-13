@@ -45,7 +45,7 @@ que existen o no existen pero siempre aletean
 buscando la compuerta de un ruido virado
 por el exceso de trabajo, por la risa.
 
-::: verse indent
+::: {.verse .indent}
 Que existen o no existen
 si tú fueras el primero
 a cazar en la nieve

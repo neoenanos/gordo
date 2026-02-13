@@ -241,20 +241,22 @@ en junco y sueño, en jaspe destrozado.
 
 ## CATEDRAL {.verse}
 
-        (Motivo)
+::: center
+(Motivo)
+:::
 
-   Los cinco dedos,
+[Los cinco dedos,]{.inline-indent}
 por la sombra impulsados,
 en la pared se agrandan,
 pulpo de la noche cegada.
 
-   En los rincones,
+[En los rincones,]{.inline-indent}
 entre pardos yerbales,
 apócrifos infantes, con la cruz
 de sus dedos, trazan cruces
 en la flor del agua.
 
-  Viene el mar, más caracol que sal.
+[Viene el mar, más caracol que sal.]{.inline-indent}
 No llegan los bandoleros.
 
 ## CATEDRAL {.verse}
@@ -297,31 +299,31 @@ En la noche sin viento
 bajo el cielo tropiezan
 la noche y las barajas.
 
-  ¡Que hieren!
+[¡Que hieren!]{.inline-indent}
 
-  En el sur de la roca se ha quedado un pájaro detenido.
+En el sur de la roca se ha quedado un pájaro detenido.
 
-   Atardecer,
+[Atardecer,]{.inline-indent}
 la tarde en cigüeña de aquí para allí.
 
-   Atardecer,
+[Atardecer,]{.inline-indent}
 en el paladar una danza de cuchillos olvidados.
 
-   Atardecer,
+[Atardecer,]{.inline-indent}
 las naranjas resbalan sopladas por la luna.
 
-   Atardecer,
+[Atardecer,]{.inline-indent}
 los muslos guerreaban (arco luna feroz) con dos olitas.
 
-   Atardecer,
+[Atardecer,]{.inline-indent}
 piel de letra y nardo en el abanico al romper la motera.
 
-  En la nieve sin nieve, caballeros plomizos, blandas algas,
-    sin nieve.
+En la nieve sin nieve, caballeros plomizos, blandas algas,
+sin nieve.
 
 ## NACIMIENTO DE LA HABANA {.verse}
 
-   ¡Qué aire!
+¡Qué aire!
 Camino de las playas, el aire
 ciego.
 ¡Qué aire!
@@ -861,7 +863,7 @@ que existen o no existen pero siempre aletean
 buscando la compuerta de un ruido virado
 por el exceso de trabajo, por la risa.
 
-::: indent
+::: {.verse .indent}
 Que existen o no existen
 si tú fueras el primero
 a cazar en la nieve
@@ -880,7 +882,7 @@ que aceptan la prisa del humo deletreado
 y tus miradas se estilen en la orilla de los ríos
 reemplazando a los suicidas.
 
-::: indent
+::: {.verse .indent}
 Y su suerte se ha quedado
 bajo los párpados pobres
 como un pellizco en la rosa
@@ -6250,6 +6252,7 @@ figuras. Al aumentar tan poderosamente la cariátide rnayor la proyección de la
 luz, hará aparecer por momentos a los movimientos como spintrias y peces ciegos
 rapidísimos.
 
+\newpage
 ::: {.verse}
 
 El esturión con flaca tinta borrosa
@@ -6291,7 +6294,6 @@ los acercamientos a las crecidas aclaradas por las rotaciones
 del seis, y cuando la mano izquierda entresaca
 del mijo las seis cápsulas del vino y del aceite,
 se endurecen en el sortilegio del ojo salado del buey.
-
 La anchurosa memoria alcanzadas por las tablas de la casa,
 y las analogías del mijo culebreando la hililla de oro,
 necesitan las espesuras memorialistas del seis,
@@ -6315,6 +6317,10 @@ el jinete pasaba por la sombra del árbol y se dividía;
 del brazo a las caderas tenía la otra enigmática planicie,
 pero allí vuelve la estrella fría de la distancia sin lenguaje,
 y las caricias son de poro a poro, de poro a estrella, enloquecidas.
+:::
+
+\newpage
+::: {.verse}
 
 El frío tigre desliza en las esquinas de la pizarra
 la oscura marcha hacia el arenoso río espesando,
@@ -6355,7 +6361,6 @@ hacia la otra esencia sin deseos de su forma,
 forma detenida, como el caballo en el último recodo,
 y hecha al Giorgione que detiene y ofrece su violín.
 La esencia sustancial y la forma esencial abandonan
-
 la sorpresa de su escala y tocan la suspensión del contrapunto.
 En ese tejido el cuerpo es el volatinero de su esencia
 y se adormece en cuchillas en el rajado tímpano, su piel.
@@ -6363,6 +6368,10 @@ La bendición del perfume consagra al poliedro en su bisagra,
 y la visible absurdidad se remansa cuando los pasos penetran
 por la piel y se hinchan en los arrogantes paseos playeros,
 o se ríen de nuevo cuando suenan soplados por la puerta de algodón.
+:::
+
+\newpage
+::: {.verse}
 
 El germen desde la cresta del alba, entre las aturdidas
 risitas del instante y la discutidora, escarchada francachela
@@ -6428,6 +6437,10 @@ y que reemplaza el océano infinitamente mordido
 por la piscina, que tiene también su escandaloso reto,
 permanece cerca de nosotros y nos sonríe como un pez,
 y se burla en la grosera inutilidad de su cercanía.
+:::
+
+\newpage
+::: {.verse}
 
 El hilo de Ariadna no destrenza el sentido,
 sino la sobreabundancia lanzada a la otra orilla carnal.
@@ -6474,6 +6487,10 @@ y queda preso del ligamento de las dos vibraciones.
 Una vibración se desconoce, y la otra...
 La aprenhensión análoga es el único ojo de la imagen
 y el acto sobre el azogado ombligo nos rinde el cuerpo irradiante.
+:::
+
+\newpage
+::: {.verse}
 
 El apresamiento del objeto envuelve su nevada cornamenta
 en el otro brazo que golpea la loanza neptuaniana,
@@ -6599,6 +6616,10 @@ La metáfora nos obliga a creer en la primera existencia
 del pétalo del jacinto, antes que el tejo coralino de Céfiro
 descendiese al Hades con el gracioso Jacinto,
 y levantase el plañido de las excepcionales flautas apolíneas.
+:::
+
+\newpage
+::: {.verse}
 
 La materia contrayéndose a su potencia,
 o la potencia pellizcando la cornisa marina con nidos
@@ -6675,6 +6696,10 @@ que ofrece las escasas nuevas sediciones, los escandalosos
 cortejos de los que marchan no de la ballena al despertar arbóreo,
 sino amarrados a las aterradoras metamorfosis del jabato,
 no rompen el círculo de la danza.
+:::
+
+\newpage
+::: {.verse}
 
 Burlado al son del reconocimiento al llevarse la luz
 penetrando en su cuerpo. Aquí la luz se divierte
@@ -6743,6 +6768,10 @@ donde la naturaleza gozosa está reemplazada por las prodigiosas
 llaves, rompiendo la otra bolsa placentaria
 que lo haría subordinado quejoso,
 lastimero fragmento huido a la flauta.
+:::
+
+\newpage
+::: {.verse}
 
 El hilado se extiende como las preguntas del tapiz,
 cuando aprovecha las aplacadas estrellas en las mamas
@@ -6783,7 +6812,6 @@ acorralada en el tatuaje boquilindo balbuceando.
 Deslenguada tensión antes de penetrar en el húmedo cucurucho,
 se repliega al recibir el lanzazo que lo enzeta abullonado,
 permisado para hablar bobalicón limoso diosecillo,
-
 mordisqueada por los bordes la despreciada torre sonambúlica,
 suelta su agua de coral albino nadando por hormigas
 hambrientas, galerías del mazapán, nudillos del peine, asordinado,
@@ -6829,6 +6857,10 @@ la balandronada del falo bosteza la expansión de la vid,
 al penetrar en la sala hiperbórea para las ondas de Anfión,
 cuando la raíz ovillada con la mandrágora hiela
 el bastón con sierpes congeladas y centellitas del Júpiter cosechero.
+:::
+
+\newpage
+::: {.verse}
 
 Despréndense de nuestro cuerpo las evaporaciones que tiran del manteo,
 que sacan el pico unitivo de las mantas y las nubes,
@@ -6899,6 +6931,10 @@ unía la diamantina embriaguez de la criatura revelada
 con el conocimiento del libro, rotos los sellos,
 donde cada cuerpo que nos ciñe forma el remolino medusario
 del unificado dios mutilado por la lejanía.
+:::
+
+\newpage
+::: {.verse}
 
 Hundido, don armado, sin regreso,
 el aire agrietado por el alfiler lluvioso;
@@ -7033,10 +7069,9 @@ los bulbos de un oleaje que se retira,
 las dos máquinas que se seguían, el Orfeo de Pergolessi,
 los mozos recogiendo las migas ingeniosas en su fuga,
 la puerta que se cierra como un tutti orquestal en el vacío,
-mientras el japonés en smoking se inclina, ;
+mientras el japonés en smoking se inclina,
 para recoger el clavel frappé, en el bostezo
 de la cuarta dinastía de sus sandalias charoladas.
-
 :::
 
 ### LAS HORAS REGLADAS {.verse}

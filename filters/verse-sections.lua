@@ -88,3 +88,13 @@ function Div(el)
     return blocks
   end
 end
+
+function Span(el)
+  if el.classes:includes("inline-indent") then
+    return {
+      pandoc.RawInline("latex", "\\hspace{2em}"),
+      el
+    }
+  end
+end
+
