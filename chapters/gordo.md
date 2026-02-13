@@ -2,7 +2,7 @@
 
 ## DÉCIMAS
 
-### I
+### I {.verse}
 
 La mañana que no es mía
 se quedaba en mí, mas,
@@ -15,7 +15,7 @@ sobre la seda inconfesa
 perdido ya sin sorpresa,
 laberinto del jardín sin desear.
 
-### II
+### II {.verse}
 
 Gotas de cortesía, risa.
 En puntillas, desleídas
@@ -28,7 +28,7 @@ que va hacia ningún delirio.
 Verde mío, dueño mío, alivio
 en el contorno del nardo y del flechador.
 
-### III
+### III {.verse}
 
 Garza, junco en salto, semilla
 de agua en giro de amatista.
@@ -41,7 +41,7 @@ suspiro neutro, hielo galán,
 en su esquina o marfil recurvarán
 en retorno hacia la seda.
 
-### IV
+### IV {.verse}
 
 Luz violada ya se aleja,
 serenamente sin fin,
@@ -54,7 +54,7 @@ aprisionado en sus gritos.
 Diamantes saltan, añicos
 vuelan del papel que no volaba.
 
-## V
+### V {.verse}
 
 Escondido se apresura
 —firmando el marfil que brota
@@ -67,7 +67,7 @@ que declina sin surgir
 de su intocable dormir,
 ya trébol, pecera ya, relumbre resucitado.
 
-## VI
+### VI {.verse}
 
 Gira morosamente en el gusto
 la mirada ya secreta.
@@ -80,7 +80,7 @@ se vuelve a perder marinero,
 pues mi aire fue el primero
 que flechó la exacta hora.
 
-## VII
+### VII {.verse}
 
 Papel en el agua va
 destrenzando su sigilo,
@@ -94,7 +94,7 @@ plumón, su túmulo vago,
 hasta llevar nuevo halago,
 no al ojo, al ojo que ha escuchado.
 
-## VIII
+### VIII {.verse}
 
 Aduerme jauría tan verde
 que el mármol no se recuerda
@@ -107,7 +107,7 @@ ilesa queda una mancha
 que el aire niega y ensancha
 en el bambú destronado.
 
-### IX
+### IX {.verse}
 
 No ya la gota afinada
 deslíe su obra cruel,
@@ -120,7 +120,7 @@ retractándose al ocaso,
 siempre que al mimbre o al paso
 plácidamente se fíe.
 
-## X
+### X {.verse}
 
 Carbonizadas las plumas
 levantan; islas suaves
@@ -134,7 +134,7 @@ al coral que el hilo enreda,
 paseando perfil de seda,
 creciendo nieve y desnudo?
 
-## XI
+### XI {.verse}
 
 Añil, escama de porcelana,
 fronda de atril y bandadas
@@ -147,7 +147,7 @@ Pirámide de agua trunca
 la sonrisa no se junta
 al aire que muere en brisa.
 
-## XII
+### XII {.verse}
 
 Galantísimo en el arco mudo
 su lisonja se mecía,
@@ -160,7 +160,7 @@ perdida en rubios tormentos,
 se va cerrando de acentos,
 sin ganas de oír hablar.
 
-## XIII
+### XIII {.verse}
 
 La curva de mi deseo niego.
 Arión a los delfines persigue,
@@ -173,7 +173,7 @@ de giros claros no es escarcha. Traspasada
 cabellera, pez espada de la nada,
 clavel alcanzado no se desliza.
 
-## XIV
+### XIV {.verse}
 
 Y las rosas en los cuchillos. Girador
 pájaro muere fríamente. Nivelado
@@ -186,7 +186,7 @@ y sed de la limonada es vuelo lento
 impulsado en su dormir. Lamido estío
 desteñida Rosa-Luna se va enterrando en el viento.
 
-## XV
+### XV {.verse}
 
 Final de curvadas plumas. Rumorado
 oído cruje, vuela sin verano,
@@ -199,7 +199,7 @@ nácar al humo, deslizada oscuridad
 va quedando su abril, canarios, deidad
 cansada, abril pautado en humo deseando.
 
-## XVI
+### XVI {.verse}
 
 Olvidando una esquina ilusa
 tiñe el mantel revolado,
@@ -212,7 +212,7 @@ o en vano pulso concierta
 escama al mantel que vuela,
 suplicio de alfombra muerta.
 
-## XVII
+### XVII {.verse}
 
 El girasol avisado
 envía su sangre al río.
@@ -226,7 +226,7 @@ vuelca su llama clavada
 en la brisa ya llamada
 para olvidar que moría.
 
-## XVIII
+### XVIII {.verse}
 
 Punta del largo guante, pez vertical
 al viento, Ganimedes, maduras recitaciones
@@ -239,7 +239,7 @@ que deslíe el ademán más borrado
 del vuelo del sumergido
 en junco y sueño, en jaspe destrozado.
 
-## CATEDRAL
+## CATEDRAL {.verse}
 
         (Motivo)
 
@@ -257,7 +257,7 @@ en la flor del agua.
   Viene el mar, más caracol que sal.
 No llegan los bandoleros.
 
-## CATEDRAL
+## CATEDRAL {.verse}
 
 (Noche y gritería)
 
@@ -319,7 +319,7 @@ piel de letra y nardo en el abanico al romper la motera.
   En la nieve sin nieve, caballeros plomizos, blandas algas,
     sin nieve.
 
-## NACIMIENTO DE LA HABANA
+## NACIMIENTO DE LA HABANA {.verse}
 
    ¡Qué aire!
 Camino de las playas, el aire
@@ -369,7 +369,7 @@ pájaros amarillos bajo el agua,
 silencio, grises pájaros recuerdan
 el aire.
 
-## SE ESCONDE
+## SE ESCONDE {.verse}
 
 Se esconde triunfal en su cuerpo.
 De él me separa su voz
@@ -396,7 +396,7 @@ saltan de la prisión desvaída de las manos
 al exacto lamento de sus ojos.
 Triunfal su cuerpo se esconde.
 
-## PLAYA DE MARIANAO
+## PLAYA DE MARIANAO {.verse}
 
 Una ola
 aleja la amistad creadora.
@@ -416,7 +416,7 @@ más fino del oído.
 Entre arenas se estira,
 no respira dormido.
 
-## HERIDA FRONDA
+## HERIDA FRONDA {.verse}
 
 Herida fronda
 se desfigura en redondez
@@ -470,7 +470,7 @@ Pereza del sonido.
 Más allá de la aurora
 dormidas hojas oyen.
 
-## ERRANTE
+## ERRANTE {.verse}
 
 Errante de colores,
 nadar sin existir, respiración de brisas congeladas,
@@ -520,7 +520,7 @@ y la franja sepultada en el agua
 y la franja exprimida es la sangre y la sien
 que se hundan dormidas.
 
-# MUERTE DE NARCISO
+# MUERTE DE NARCISO {.verse}
 
 Dánae teje el tiempo dorado por el Nilo,
 envolviendo los labios que pasaban
@@ -679,7 +679,7 @@ Así el espejo averiguó callado, así Narciso en pleamar fugó sin alas.
 
 ## Filosofía del clavel
 
-### AH, QUE TÚ ESCAPES
+### AH, QUE TÚ ESCAPES {.verse}
 
 Ah, que tú escapes en el instante
 en el que ya habías alcanzado tu definición mejor.
@@ -697,7 +697,7 @@ hubieras dejado la estatua que nos podía acompañar,
 pues el viento, el viento gracioso,
 se extiende como un gato para dejarse definir.
 
-### RUEDA EL CIELO
+### RUEDA EL CIELO {.verse}
 
 Rueda el cielo —que no concuerde
 su intento y el grácil tiempo—
@@ -724,7 +724,7 @@ de esta flor,
 única cárcel:
 corona sin ruido.
 
-### SON DIURNO
+### SON DIURNO {.verse}
 
 Ahora que ya tu calidad es ardiente y dura,
 como el órgano que se rodea de un fuego
@@ -752,7 +752,7 @@ Una memoria que enconaba el fuego
 y respetaba el festón de las hojas al nombrarlas
 el discurso del fuego acariciado.
 
-### UNA OSCURA PRADERA ME CONVIDA
+### UNA OSCURA PRADERA ME CONVIDA {.verse}
 
 Una oscura pradera me convida,
 sus manteles estables y ceñidos,
@@ -778,7 +778,7 @@ el viento, herido viento de esta muerte
 mágica, una y despedida.
 Un pájaro y otro ya no tiemblan.
 
-### AVANZAN
+### AVANZAN {.verse}
 
 Avanzan sin preguntar,
 auxilios, campanillas,
@@ -802,7 +802,7 @@ y el abandono
 encogido, disperso
 de secretos sobresaltos, nieves declamadas.
 
-### DISCURSO PARA DESPERTAR A LAS HILANDERAS
+### DISCURSO PARA DESPERTAR A LAS HILANDERAS {.verse}
 
 Cuando advierte,
 leve agitación, fronda inclinada,
@@ -851,7 +851,7 @@ y el jacinto enterrado y el sollozo del pájaro leves vienen
 hilo tras hilo hasta el cartílago de las más fría anémona
 que toca y devuelve la testa truncada en flor de la marea.
 
-### SE TE ESCAPA ENTRE ALONDRAS
+### SE TE ESCAPA ENTRE ALONDRAS {.verse}
 
 Se te escapa entre alondras el ruido de sienes
 para el agua desoída en las primeras horas
@@ -888,9 +888,9 @@ en los insectos sin ojos
 que ruedan por la nieve.
 :::
 
-### NO HAY QUE PASAR
+### NO HAY QUE PASAR 
 
-#### I
+#### I {.verse}
 
 No hay que pasar puentes de conchas de desprecios
 de recomenzar la búsqueda de las vihuelas crecidas
@@ -908,7 +908,7 @@ a impulsos de los ojos tirados contra la pared cariciosa
 a rendijas de otoño por ahora no te creo crecida
 ni olvidada intrusa rubí decaído en hilo por escamas furiosas.
 
-#### II
+#### II {.verse}
 
 Mi mano de mármol gris mis olvidos o mi sola alma
 la navegación a medianoche hasta abrirse las tijeras
@@ -928,7 +928,7 @@ sus estanques que se reafirme porque la torre muere y chorrea
 o que franjas de mármol de cuchillo y mi alma mojada.
 ¿No sabes que las puertas abiertas voltean los perros lanudos mirando al septentrión?
 
-### MADRIGAL
+### MADRIGAL {.verse}
 
 El tallo de una rosa se ha encolerizado con las avispas
 que impedían que su cintura fuese y viniese con las mareas
@@ -970,9 +970,9 @@ para negártelo en el aire guante fronda lenta flauta
 la misma rosa que ha inclinado su frente para recoger tu pañuelo
 y esconderlo hasta que pasen los cazadores de medianoche.
 
-### FIGURAS DEL SUEÑO
+### FIGURAS DEL SUEÑO 
 
-#### I
+#### I {.verse}
 
 Quede tu brazo alzado,
 lo reconoceré pendiente
@@ -990,7 +990,7 @@ que la siesta desviste.
 la propia pertenencia real—
 y el diapasón sin eco?
 
-#### II
+#### II {.verse}
 
 El sueño sobre mi carne
 asegura su isla leve.
@@ -1014,7 +1014,7 @@ en oblicuo chillido,
 pero como sostiene al cielo
 el cristal rodará.
 
-#### III
+#### III {.verse}
 
 La elipse de la codorniz
 —mentira—
@@ -1052,7 +1052,7 @@ lo reencuentra.
 blanco y grises divididos,
 que en lo blanco salta?
 
-#### IV
+#### IV {.verse}
 
 No es aquí.
 Cae columna hirviendo.
@@ -1073,7 +1073,7 @@ de bambú que no se mueve,
 ni sueña,
 ni en el sueño oscila.
 
-### V
+### V {.verse}
 
 Ni el rostro pregunta
 ni el espejo contesta.
@@ -1091,7 +1091,7 @@ La curva de su brazo,
 planicie de sus espaldas
 y los más lentos trineos.
 
-### VI
+### VI {.verse}
 
 No era que ya el ritmo
 del almendro fuera cítara al sonido.
@@ -1123,7 +1123,7 @@ y que vuelve opulento
 a un ritmo de hojas
 sin cesar encontradas.
 
-### VII
+### VII {.verse}
 
 Bajaba las escalas
 del poniente,
@@ -1160,7 +1160,7 @@ en su gloria
 —blancura—
 tenazmente adormilados.
 
-### COMO UN BARCO
+### COMO UN BARCO {.verse}
 
 Llamadas voces corrían por el canto del cielo
 bordeando de los dedos las islas.
@@ -1197,7 +1197,7 @@ desterrados y al amigo en el cielo.
 La sombra de la nube rápidamente caía.
 El cuerpo enrollado en su manto y su sombra ávidamente bebía.
 
-### PUEDO MIRAR
+### PUEDO MIRAR {.verse}
 
 Puedo mirar tus manos preferidas
 y el acanto de tus sienes redoradas.
@@ -1240,9 +1240,9 @@ por tu fuga y mi fuga.
 
 Estoy mirando tu pregunta preferida.
 
-### QUEDA DE CENIZA
+### QUEDA DE CENIZA 
 
-#### I
+#### I {.verse}
 
 Al llover sobre el cerco deslucido,
 tú mismo, confundido,
@@ -1277,7 +1277,7 @@ la misma voz que peina el mismo aire.
 ¿Y tu cuerpo se acuesta entre dos árboles
 que la noche anterior había nombrado?
 
-#### II
+#### II {.verse}
 
 Dulce reencuentro en tu luz anegado,
 como un ave penetra sin sonido en la tarde,
@@ -1300,7 +1300,7 @@ Pero aunque quiere descifrar su gloria anterior,
 Solamente le roza el frío del pez que busca su destino
 y la frialdad de la luna que aumenta la desazón de sus huesos.
 
-#### III
+#### III {.verse}
 
 Cerrado el último oleaje
 donde ya no se puede penetrar
@@ -1338,7 +1338,7 @@ La ausencia venía a ser reemplazada
 por la perpetuidad leve del rocío,
 nutridor impalpable de la invisible melancolía.
 
-#### IV
+#### IV {.verse}
 
 Tu transparencia intocable muda las frondas
 y deshace en las ventanas un jardín con ojos de interminable túnel.
@@ -1366,11 +1366,11 @@ es un polvo que la noche propaga con manchas agrandadas,
 o una arena incontenible que detiene tus pasos y tus últimas voces
 al borde mismo de la noche extendida de una boca a otra boca.
 
-## Sonetos infieles
+## Sonetos infieles 
 
-### SONETOS A LA VIRGEN
+### SONETOS A LA VIRGEN 
 
-#### I
+#### I {.verse}
 
 Deípara, paridora de Dios. Suave
 la giba del engañado para ser
@@ -1390,7 +1390,7 @@ la nieve en el bosque extendida.
 Eternidad en el costado sentiste
 pues dormías la estrella que gritaba.
 
-#### II
+#### II {.verse}
 
 > Mais tes mains (dit l’ange à Marie)
 > sont merveilleusement bénies. Je suis
@@ -1418,7 +1418,7 @@ por el cordero que la luz descorre
 para ofrecer lo blanco a la nevada,
 para extender la nieve que recorre.
 
-#### III
+#### III {.verse}
 
 Cautivo enredo ronda tu costado,
 pluma nevada hiriendo la garganta.
@@ -1438,7 +1438,7 @@ Ya el viento navega a nuevo vaso
 y sombras buscan deseado dueño.
 ¿Y si al morir no nos acuden alas?
 
-#### IV
+#### IV {.verse}
 
 Pero sí acudirás; allí te veo,
 ola tras ola, manto dominado,
@@ -1459,7 +1459,7 @@ El árbol bajará dicción hermosa,
 la muerte dejará de ser sonido.
 Tu sombra hará la eternidad más breve.
 
-### ORDENANZA DEL MARQUÉS DE ACAPULCO
+### ORDENANZA DEL MARQUÉS DE ACAPULCO {.verse}
 
 En edad, flor o ciudad de pocos conocida,
 pues por allí calzó el viento grave llama,
@@ -1479,7 +1479,7 @@ Forrando su jazmín la muerte acrece.
 Una mitad, la tierra inclina y llora.
 Otra, en nueva cita inclina, y resplandece.
 
-### COMIENZO DEL HUMO
+### COMIENZO DEL HUMO {.verse}
 
 Corolas del otoño el humo comenzando
 alas y muertes si la mano empieza
@@ -1499,7 +1499,7 @@ Oh, ya la nieve recobra las hilachas amarillas.
 Y las manos ciñendo el aire impuro, el labio ciego,
 las lunas olvidadas: inmóvil abeja cae.
 
-### PRIMERA LUZ
+### PRIMERA LUZ {.verse}
 
 Primera luz de una ceniza atarte
 al borrado principio que nos lleva
@@ -1519,7 +1519,7 @@ y el guiño del diamante se divierte
 sin destruirse en su incesante envío,
 yerto en su luz de oscuro desafío.
 
-### SU SUEÑO TOCA
+### SU SUEÑO TOCA {.verse}
 
 Traste de ámbar por su sueño toca
 y tiene en dura corona regodeo.
@@ -1539,7 +1539,7 @@ abre un castillo al ciervo del estío.
 Y el más celeste junio vuelve y perdona
 llamas al viento, nieve a la memoria.
 
-### MELODÍA
+### MELODÍA {.verse}
 
 Melodía de la sombra penetra la dureza
 de la piel acompañante y ya me pide
@@ -1559,7 +1559,7 @@ Corvo vidrio en la mano destrenzado.
 Frío dardo cayendo más afina
 el humo hacia la flauta y olvido deseado.
 
-### VUELTA DEL AIRE
+### VUELTA DEL AIRE {.verse}
 
 Nuevo nácar recurva a nuevo frío.
 Húmedas cenizas al vientre de la nube,
@@ -1579,7 +1579,7 @@ tumulto que rechina en la neblina.
 Desterrado se afirma y más sediento
 o el aire devuelve lo que afina.
 
-### NO YA EL OTOÑO
+### NO YA EL OTOÑO {.verse}
 
 No ya el otoño sin cesar termina
 al abrigo de un cielo en que no sigo
@@ -1599,7 +1599,7 @@ Hostilizado ámbar ya escindido,
 rumor de abejas entre peines viertes:
 el río de su sombra me ha perdido.
 
-### ESPUELAS
+### ESPUELAS {.verse}
 
 Espuelas y abejas flechan la alborada,
 orillas del hastío en halos de sinfines.
@@ -1619,7 +1619,7 @@ Grave sobre el borde de sí mismo extendido
 en la carne del espejo rebrilla
 ya dueño de su rostro, ya extendido.
 
-### FÁCIL SUEÑO
+### FÁCIL SUEÑO {.verse}
 
 Largos pájaros blancos en su mano enguantada
 de nombres cabales y dobles hojas de miel.
@@ -1639,7 +1639,7 @@ Rompiéronla sin frío, extendidas dos nalgadas
 entre Preciosa y su lebrel. Es el sueño, cansados
 se tienden al agredir doncellas despreciadas.
 
-### LLOVIDA
+### LLOVIDA {.verse}
 
 Llovida, anudada en metal o cuitada
 en el sereno confiar que la deshace,
@@ -1659,7 +1659,7 @@ Si lo toca se apresura la rosa, en el fruto
 y por cadalso en la ascensión ya brota
 líquida forma, mas su ausencia culpo.
 
-### BREVE SUEÑO
+### BREVE SUEÑO {.verse}
 
 Códice el aire en su miniado pliego
 alarga en derechura —sueño o suerte—
@@ -1679,7 +1679,7 @@ risa o pecera, ejemplos de lo breve.
 Costumbre en ceniza meditada,
 cuajada en extensión de trigo y nieve.
 
-### PEZ NOCTURNO
+### PEZ NOCTURNO {.verse}
 
 La oscura lucha con el pez concluye;
 su boca finge de la noche orilla.
@@ -1699,7 +1699,7 @@ Aquel fanal se pierde y se persigue.
 La espuma de su sueño no consigue
 reconstruir la línea que saltara.
 
-### AHORA QUE ESTOY
+### AHORA QUE ESTOY {.verse}
 
 Ahora que estoy, golpeo, no me siento,
 rompo de nuevo la armadura hendida,
@@ -1719,7 +1719,7 @@ Me aduermo, que la sombra fleche
 lo que es mi ser y lo que está flechado,
 golpe o bostezo, luz o sombra quemadura.
 
-### CIFRA DE MUERTE
+### CIFRA DE MUERTE {.verse}
 
 Lo coronó con números la muerte
 y amenazas de grieta la alborada
@@ -1739,7 +1739,7 @@ pues de la nada, crujiendo, caerá
 la flecha que viene más distante
 y el rocío que sudan los espejos.
 
-### ÚLTIMO DESEO
+### ÚLTIMO DESEO {.verse}
 
 De la fe que de la nada brota
 y de la nada que en la fe hace espino,
@@ -1759,7 +1759,7 @@ Previa al no ser envía sus cristales
 a la ciudad de amanecer extraño,
 y sigue hilando sus nubes muy despacio.
 
-### A SANTA TERESA SACANDO UNOS IDOLILLOS
+### A SANTA TERESA SACANDO UNOS IDOLILLOS {.verse}
 
 > ...por hacerme placer, me vino a dar
 > el idolillo, el cual hice echar luego en
@@ -1785,9 +1785,9 @@ Y así en enojos al barro se decrece.
 Sólo el fuego libera si se encierra
 y sin buscar el fuego, palidece.
 
-### INVISIBLE RUMOR
+### INVISIBLE RUMOR 
 
-#### I
+#### I {.verse}
 
 Cuando en el cielo despojado asoma,
 danzando en el abismo de la altura
@@ -1807,7 +1807,7 @@ Así la flecha sus silencios mueve,
 ciega buscando en la extensión de nieve
 su propia estela como fruto y muerte.
 
-#### II
+#### II {.verse}
 
 Flecha y distancia sueñan su rumor.
 Blando rocío cayendo hasta la seda,
@@ -1827,7 +1827,7 @@ El pecado sin culpa, eterna pena
 que acompaña y desluce la amargura
 de lo que cae, pero que nadie nombra.
 
-#### III
+#### III {.verse}
 
 Como el amor si el tiempo lo detiene
 apresura su sueño en dulce espera,
@@ -1847,7 +1847,7 @@ Yerto rumor si la unidad maduro,
 nuevo rumor sin fin sólo presencio
 lo que en oscuros jirones desafía.
 
-#### IV
+#### IV {.verse}
 
 Desdicha de la luz la voz se alzaba
 embistiendo mi escasa negativa,
@@ -1867,7 +1867,7 @@ Que cuanto más las voces se destruyen,
 ondas de vihuelas restituyen
 y el extraño silbo se mantiene.
 
-### V
+### V {.verse}
 
 Si con tus cautelas sólo muerte,
 
@@ -1888,7 +1888,7 @@ Otoño en dulces pasos prevalece
 en ese mundo que no suma ni decrece
 la embriaguez viciosa del conocimiento.
 
-### VI
+### VI {.verse}
 
 > La selva hizo navegar, y el viento al
 > cáñamo en sus velas respetaba.
@@ -1913,11 +1913,11 @@ ya que con luz violada desafía
 el sonido miniado en las nevadas
 y el rostro huido en frío rumor.
 
-## Único rumor
+## Único rumor 
 
-### FIESTA CALLADA
+### FIESTA CALLADA 
 
-#### I
+#### I {.verse}
 
 Es el secreto poner dos dedos en la bola de cristal.
 Sortijas que se derriten porque los oidores
@@ -1939,7 +1939,7 @@ Solimán piensa en la sombrilla abandonada en una planicie,
 pero el chopo se abría en un sombrero o en un jardín
 y el sabio saludaba con una gran mariposa blanca.
 
-#### II
+#### II {.verse}
 
 La costumbre puede ser la mesa de nube y marfil donde soplan sus ondulantes
 chismes los oidores, ella nos hace sentir las profecías.
@@ -1984,7 +1984,7 @@ hasta la terraza donde los turistas no quieren pagar.
 Los pajes, los comunistas y los sultanes
 han desfilado provocando la inclinación de las banderas y el voceo de los periódicos.
 
-#### III
+#### III {.verse}
 
 El problema de la cuaresma del ruiseñor está ya alegremente resuelto.
 Si canta bien, golpea; si canta mal, estalla.
@@ -2016,9 +2016,9 @@ preclaro pecho de bocina y de miel—
 se acuesta su trabjo en el cielo
 para establecer definitivamente el campamento de los cisnes.
 
-### CUERPO, CABALLOS
+### CUERPO, CABALLOS 
 
-#### I
+#### I {.verse}
 
 Cuando el chorro de la respiración, entre una escala de voces amansadas,
 iba a fijarse en el centro del cuerpo glorioso.
@@ -2072,7 +2072,7 @@ y las cabelleras se escapan de los frontones para nadar silenciosas.
 El caballo Ritra o Dicoglioneonorester huele mis manos tan lentamente y la
 respiración subterránea rebota contra el más antiguo de mis cuerpos.
 
-#### II
+#### II {.verse}
 
 El peso de sus manos, sus uñas pesadas le obligan a dejar caer las manos
 que buscan la mariposa cuyo centro está en la nariz,
@@ -2126,7 +2126,7 @@ Sin embargo nadie ha dicho que la hoja verde sea una concha.
 Nadie ha dicho que el pez se emocione.
 Nadie ha dicho que la concha sea una hoja verde.
 
-### AISLADA ÓPERA
+### AISLADA ÓPERA {.verse}
 
 > L’ennui, le clair ennui de mirer leur nuance.
 
@@ -2214,7 +2214,7 @@ Si el surtidor se aísla y las amapolas ruedan,
 los niños con el costado hundido continuarán rompiendo todos los clavicordios.
 ¿Para qué habré venido esta noche?
 
-### DOBLE DESLIZ, SEDIENTO
+### DOBLE DESLIZ, SEDIENTO {.verse}
 
 El desliz que comprende su figura
 en nuevo centro y en esfera nueva.
@@ -2287,7 +2287,7 @@ las hojas del almendro en la frente de los enamorados.
 Las hojas pintadas por los címbalos del destierro
 fabrican la arena y mueven la lluvia.
 
-### SAN JUAN DE PATMOS ANTE LA PUERTA LATINA
+### SAN JUAN DE PATMOS ANTE LA PUERTA LATINA {.verse}
 
 Su salvación es marina, su verdad de tierra, de agua y de fuego.
 El fuego en la última prueba total,
@@ -2393,7 +2393,7 @@ como el órgano que impulsa las nuevas formas del Crucificado.
 San Juan no tiembla, apenas mira, pero dice:
 Haced en este sitio una pequeña iglesia católica.
 
-### SUMA DE SECRETOS
+### SUMA DE SECRETOS {.verse}
 
 
 Pisa Rocío y el Deseo Pálido
@@ -2481,7 +2481,7 @@ en cúpula y sonidos implacables.
 Y prolongar las formas que la burlan
 en medio de la negada nieve eternizada.
 
-### NOCHE INSULAR: JARDINES INVISIBLES
+### NOCHE INSULAR: JARDINES INVISIBLES {.verse}
 
 Más que lebrel, ligero y dividido
 al esparcir su dulce acometida,
@@ -2688,7 +2688,7 @@ Ambos sonrientes, diciendo
 los vencimientos de la muerte universal
 y la calidad tranquila de la luz.
 
-### UN PUENTE, UN GRAN PUENTE
+### UN PUENTE, UN GRAN PUENTE {.verse}
 
 En medio de las aguas congeladas o hirvientes,
 un puente, un gran puente que no se le ve,
@@ -2823,7 +2823,7 @@ como mujer, y su carne, en el segundo día de agonía, cuando ya empieza a inmov
 balbucea un lenguaje como el hongo de la muerte en su lengua. En el tercer día de agonía, cree
 poder interpretar a su hijo que se acerca en el amarillento tinte rosa de la hija de la protestante.)
 
-## EL PUERTO
+## EL PUERTO {.verse}
 
 Como una giba que ha muerto envenenada
 el mar quiere decirnos ¿cenará conmigo esta noche?
@@ -2862,7 +2862,7 @@ Un fuego pega en parábola y el halcón cae,
 pero en la bodega del barco ha hundido lo concéntrico oscuro, penoso,
 lo mesurable enmascarado que aleja con un hilo lo que recoge con un hilo.
 
-## LLAMADO DEL DESEOSO
+## LLAMADO DEL DESEOSO {.verse}
 
 Deseoso es aquel que huye de su madre.
 Despedirse es cultivar un rocío para unirlo con la secularidad de la saliva.
@@ -2893,7 +2893,7 @@ y de los cabezazos con nuestras madres cae el planeta centro de mesa
 y ¿de dónde huimos, si no es de nuestras madres de quien huimos
 que nunca quieren recomenzar el mismo naipe, la misma noche de igual ijada descomunal?
 
-## LA ESPOSA EN LA BALANZA
+## LA ESPOSA EN LA BALANZA {.verse}
 
 La siembra del violín o de la hoja,
 no la punta del cono hacia dentro de la sangre azucarada;
@@ -2927,7 +2927,7 @@ Después de todo el pez y su flor tienen que ir a la balanza.
 Tampoco duerme en la balanza el hombre recamado de consejos.
 Tiene una espuma oscura que le llena la nube en cuclillas que sale de su boca.
 
-## ENCUENTRO CON EL FALSO
+## ENCUENTRO CON EL FALSO {.verse}
 
 Si al caminar el hijo vuelve como una piedra al arco en flor.
 Si se camina, alguien se cuelga: yo soy su hijo.
@@ -2961,9 +2961,9 @@ En su bolsita de calcetín sobresudado el mondadientes de la cantante sigue suda
 y la risota del soy su hijo sigue saliendo de los bolsillos y de las gorras,
 como el marino pica en su flor al ir pasando a la cuchara y la cucaracha.
 
-## EL FUEGO POR LA ALDEA
+## EL FUEGO POR LA ALDEA 
 
-### I
+### I {.verse}
 
 El viento preguntó en las ventanas y el zorro
 de rabo de azufre con escaladura.
@@ -3024,7 +3024,7 @@ en el huso de una torre sin consuelo.
 Sereno mecido, el junquillo
 golpea unas botas que agrandan la mesa y la aldea.
 
-### II
+### II {.verse}
 
 Su indócil arañar.
 Extraño recorrido: arañar.
@@ -3065,9 +3065,9 @@ las aguas y llega al fuego de cocción.
 El gato blanco de crin leonina disfrazado de negrura
 empuja la bola de circo, devoradora de rostros.
 
-## TAPIZ DEL CIEGO
+## TAPIZ DEL CIEGO 
 
-### I
+### I {.verse}
 
 Extiendo un paño roto, vistoso,
 pero la luna gira,
@@ -3119,7 +3119,7 @@ aunque truene el árbol de la sonrisa
 y el látigo voraz cejijunta
 los ojos en la cola del pavo real que se irisa.
 
-### II
+### II {.verse}
 
 Después de la ebriedad queda ciego,
 altivo milagro le concede
@@ -3171,7 +3171,7 @@ y el oro de hielo de la niebla.
 La embriaguez del ciego es dulce y paciente,
 se saca de su hondura y toca a un amigo que tiembla.
 
-## DIÁLOGO EN UNA GIBA
+## DIÁLOGO EN UNA GIBA {.verse}
 
 Cocardasse:
 
@@ -3266,7 +3266,7 @@ y en la orgía del vinagre hasta el fin
 cerrado suena.
 ¿Confiado escucha?
 
-## CULEBRINAS
+## CULEBRINAS {.verse}
 
 
 Las culebrinas de la hechicería han llegado hasta el país de los Vascos.
@@ -3303,7 +3303,7 @@ Para superar al Diablo, Dios tuvo que abrillantar el cuerpo leproso,
 decían el barítono y el barbero paseando hasta la fuente donde cae el caballo risible de alas enmieladas,
 y provocar el grotesco ruido de Jehová cabalgando el Gran Pan.
 
-## EL RETRATO OVALADO
+## EL RETRATO OVALADO {.verse}
 
 Huyó, pero después de la balanza, la esposa se esconde como madre.
 Sus falsificaciones, sus venenos son asimilados como almejas.
@@ -3368,7 +3368,7 @@ y exhibe su modorra parca
 en las lecturas zodiacales,
 pavón de atrévetes formales.
 
-## TEDIO DEL SEGUNDO DÍA
+## TEDIO DEL SEGUNDO DÍA {.verse}
 
 El descenso del amor consagrado
 por un fervor nuevo, por un aceite de jugo
@@ -3564,11 +3564,11 @@ parábola y el halcón cae sobre el toro penoso en la bodega del barco.
 
 # LA FIJEZA 
 
-## I
+## I 
 
-### LOS OJOS DEL RÍO TINTO
+### LOS OJOS DEL RÍO TINTO 
 
-#### I
+#### I {.verse}
 
 (Coro)
 
@@ -3590,7 +3590,7 @@ Movidos al estampido
 crótalos inician leves
 los arqueros aqueos.
 
-#### II
+#### II {.verse}
 
 (Égloga)
 
@@ -3612,7 +3612,7 @@ si el pañuelo baña
 en sangre de guerra
 pastores de Siracusa.
 
-#### III
+#### III {.verse}
 
 Una ráfaga muerde mis labios
 picoteados por puntos salobres
@@ -3639,7 +3639,7 @@ Mi indolencia peinaba la frente del mar
 y originaba la muerte
 en aquellos seres fieles, veloces e inocentes.
 
-#### IV
+#### IV {.verse}
 
 Desvían sus escamas inalterados ojos
 en la iluminada casa de los árboles,
@@ -3670,7 +3670,7 @@ adelanta una sierpe brazalete.
 Nítida y sin minervas escamosas
 la flauta que suspira golondrinas.
 
-### V
+#### V {.verse}
 
 En el retorno de las cintas
 su prolongación que ya no toca,
@@ -3702,7 +3702,7 @@ y los débiles palacios no imantados
 cantan y pierden incesantes
 la remota Cambaya.
 
-### VI
+#### VI {.verse}
 
 La remota clámide ramas pierde,
 ópalo, cuarzo, hielo
@@ -3733,7 +3733,7 @@ si el caracol al recorrer el ojo
 riega la última estela desolada
 por donde aclama el mar el lilibeo.
 
-### VII
+#### VII {.verse}
 
 El creciente no pesa más porque los hombres asciendan.
 El caballero recurva sumándose al guijarro,
@@ -3762,7 +3762,7 @@ mientras la plomada más áspera separa los pasos del paredón,
 y la suela removida por el líquido hervor y la tierra blanca,
 detiene el desprendimiento del petrel azul y lo disuelve en su base.
 
-### VIII
+#### VIII {.verse}
 
 Los cabellos afinándose aún más detienen su redondez,
 prefieren saltar el límite gris, los ojos del recuerdo,
@@ -3794,7 +3794,7 @@ donde mi pesadumbre desciende o se corona,
 pero que uno de mis dedos
 le dice alteración, chispas o separación de dos rocas.
 
-#### IX
+#### IX {.verse}
 
 Ayer fijado parecía
 la risa recordaba
@@ -3814,7 +3814,7 @@ El aire rodea y vuela,
 toca y tu risa evita,
 girando ser sin ser vela.
 
-### X
+#### X {.verse}
 
 Si recíprocamente, en fuego inverso,
 correspondía tu oscuro con mi ausencia,
@@ -3834,9 +3834,9 @@ Antes y después la alegría pervierte;
 cresta dendrita la alegría adentro
 en la risa sin hueso del Erebo.
 
-### VARIACIONES DEL ÁRBOL
+### VARIACIONES DEL ÁRBOL 
 
-#### I
+#### I {.verse}
 
 (El árbol y la mano)
 
@@ -3858,7 +3858,7 @@ Desdeñado ese árbol, mi mano es quien lo impulsa;
 fúnebre contra la roca golpea,
 mientras mi mano llora su dureza intocable.
 
-#### II
+#### II {.verse}
 
 (Destrucción de la imagen del árbol por la noche)
 
@@ -3880,7 +3880,7 @@ La noche se trenza con el árbol.
 Duramente incorpora su espacio sobre el móvil
 río que la destruye caminando.
 
-#### III
+#### III {.verse}
 
 (El árbol y el paisaje destruido por la noche)
 
@@ -3902,7 +3902,7 @@ Después la noche hierve el pájaro y la hoja.
 La ciudad devastada avanza en sus torreones,
 pero el árbol ya no está junto al río y el sueño.
 
-#### IV
+#### IV {.verse}
 
 (El artificio prolonga la noche)
 
@@ -3925,9 +3925,9 @@ para caer en un pecho nunca más recobrado.
 El río sonaba como un perro colgado de las ramas.
 Ahora conduce y muele, ahora contra el fuego.
 
-### SIESTA DE TROJES
+### SIESTA DE TROJES 
 
-#### I
+#### I {.verse}
 
 Los trojes que no me recubrían
 y querían decir así mucho más
@@ -3952,7 +3952,7 @@ La opulencia destruye el descanso de los segadores,
 pero el incesante vuelco de los carros cargados ahonda
 el frenesí de los tablones serruchados.
 
-#### II
+#### II {.verse}
 
 Los recovecos de sucia naranja
 crean un paraíso tonto de aves fenecidas.
@@ -3977,7 +3977,7 @@ Son así dichosos, su ventura
 se deshace en los asientos señalados para la sopa
 blanda de los escurridizos que ahora quieren quedarse en el alambre hasta el fin.
 
-#### III
+#### III {.verse}
 
 A pleamar tal vez de rabia fija
 insisto en la dotación de hinchadas manos.
@@ -3995,10 +3995,10 @@ Son así los rostros engreídos que van del anfiteatro a la colina, muestran u d
 Suéltame, golpes lentos de cabeza en el platillo, suéltame.
 Pues bien, te suelto. Y así seguimos.
 
-### POEMA
+### POEMA {.verse}
 
 
-#### I
+#### I {.verse}
 
 La seda amarilla que él no elabora
 ¿podrá recorrerla?
@@ -4017,7 +4017,7 @@ al fulgor de la pirámide desvaída.
 El deseo se muestra y ondula,
 pero la mano tiene hojas de nieve.
 
-#### II
+#### II {.verse}
 
 Buscando la agudeza del pequeño demonio de la división
 de los cuerpos y su externa preocupación de respeto.
@@ -4044,9 +4044,9 @@ sentimos en la lejanía de nuestro propio cuerpo los imanes de un curso remoto.
 
 Sólo el mercader acaricia sus telas y recibe lo esperado.
 
-### A LA FRIALDAD
+### A LA FRIALDAD 
 
-#### I
+#### I {.verse}
 
 El sueño que se apresura
 no es el mismo que revierte.
@@ -4066,7 +4066,7 @@ y sólo un rumor desaltera.
 Cuando el fruto está vecino
 la mano yerra sin tino.
 
-#### II
+#### II {.verse}
 
 Disperso, suave y atado,
 haciendo un fugaz saludo
@@ -4086,7 +4086,7 @@ Cuerpo que se mancilla
 ya con el nuevo artificio:
 ausente, no estás ausente.
 
-#### III
+#### III {.verse}
 
 Sigo una voz, desconcierta;
 si una huella, me revela
@@ -4106,7 +4106,7 @@ La serpiente es mano alzada.
 Corona del desvarío,
 mano en la mano ocultada.
 
-#### IV
+#### IV {.verse}
 
 Entre la flecha y el punto
 el insecto bordonea.
@@ -4126,7 +4126,7 @@ traza la ciudad cansada.
 Rasgada flecha o rastrojo
 suman un solo lamento.
 
-### V
+#### V {.verse}
 
 Caída la hoja miro,
 
@@ -4147,7 +4147,7 @@ que presagia el cuerpo yerto.
 Diosa perdida en el cielo,
 yo con el cuerpo porfío.
 
-### VI
+#### VI {.verse}
 
 Si ya el que el ayer adivina
 lo que sin signo previene,
@@ -4167,7 +4167,7 @@ Tirando del instantero
 dormida abeja ya pace
 el árbol de las estrellas.
 
-### VII
+#### VII {.verse}
 
 Si interrumpe la amargura
 el jardín desarreglado,
@@ -4187,7 +4187,7 @@ Que si depura, el desvelo
 el último punto enjuga
 madriguera del mohíno.
 
-### VIII
+#### VIII {.verse}
 
 Cuerpo desnudo en la barca.
 Pez duerme junto al desnudo
@@ -4207,7 +4207,7 @@ Ilesa la barca escoge
 el árbol que rememora
 sueño de sierpe a la sombra.
 
-### PENSAMIENTOS EN LA HABANA
+### PENSAMIENTOS EN LA HABANA {.verse}
 
 Porque habito un susurro como un velamen,
 una tierra donde el hielo es una reminiscencia,
@@ -4451,9 +4451,9 @@ el hombre desnudo entona su propia miseria,
 el pájaro mosca lo mancha y traspasa.
 Mi alma no está en un cenicero.
 
-### RONDA SIN FANAL
+### RONDA SIN FANAL 
 
-#### I
+#### I {.verse}
 
 Si no se abre la escala, lo madura
 una puerta clavada en la mirada,
@@ -4473,7 +4473,7 @@ Y enlazando al junco que no toca,
 la nave se introduce recargada
 al sacrificio de la fiebre escasa.
 
-#### II
+#### II {.verse}
 
 Si lo descubre para siempre el uso,
 si con golondrinas la cornisa gime,
@@ -4493,7 +4493,7 @@ Mientras la grulla en grumo de entrecielo
 prepara en nido hueco por maduro
 la desazón de toscos inquilinos.
 
-#### III
+#### III {.verse}
 
 Posta de noche, vigilo bien la brisa
 que sigue su caracol, pesa como una tabla.
@@ -4513,7 +4513,7 @@ Se prolonga en inicio la burla del suplicio.
 Su redondel de gato de nuevo me murmura:
 su son impropio me escuda, me divierte.
 
-#### IV
+#### IV {.verse}
 
 Al levantar el cuajo salinero
 y echar rebote como un son alterno,
@@ -4533,7 +4533,7 @@ la oblicua, pasajera noche de algas,
 donde salta la astilla en su furor secreta.
 Así me pudro y caigo, así no huyo.
 
-### V
+#### V {.verse}
 
 La invasión se durmió, la noche en vilo
 
@@ -4554,7 +4554,7 @@ idéntico pincel devora los frutos o los esmalta.
 y en la enterrada garrafa sin cesar resuelve?
 El Teniente de la Plaza de Malta.
 
-### VI
+#### VI {.verse}
 
 El cuchillo y el tajo en la estructura
 rompen en gotas de agua toda esencia.
@@ -4574,7 +4574,7 @@ El mar es carne y se alza a lo maduro
 si le da tripas a la espiral de giros vagos,
 pulpo que me conoces y me ciegas.
 
-### VII
+#### VII {.verse}
 
 Se interrumpe la escala, su ruptura
 va creando la tinta del mar interrumpido.
@@ -4594,7 +4594,7 @@ El oblicuo sus lanzas acartona.
 En donde me resumo como entero,
 gruesa mancha engulle al reino dividido.
 
-### RAPSODIA PARA EL MULO
+### RAPSODIA PARA EL MULO {.verse}
 
 Con qué seguro paso el mulo en el abismo.
 
@@ -4756,7 +4756,7 @@ el poderoso mulo duerme temblando.
 Con sus ojos sentados y acuosos,
 al fin el mulo árboles encaja en todo abismo.
 
-### SACRA
+### SACRA {.verse}
 
 De la taberna:
 
@@ -4887,9 +4887,9 @@ Pero para mí el árbol sólo sabe esconderme
 cuando el pájaro frota el pico en una piedra de fuego,
 navega sobre la hoja y la hoja es sacada de la noche.
 
-### SONETOS A MUCHKINE
+### SONETOS A MUCHKINE 
 
-#### I
+#### I {.verse}
 
 (Se trata de una cosa seria, declaró doblando la
 carta y entregándosela a su dueño.)
@@ -4912,7 +4912,7 @@ Pues el que llega y entrega bien guardado,
 espera un azoro de ave claveteada
 y no soplar la carta en nube y soplarla negligente.
 
-#### II
+#### II {.verse}
 
 (No, yo te creo; pero no acabo de comprender.)
 
@@ -4935,7 +4935,7 @@ su nacer en el desprecio de su nuevo engorde,
 tizne mayor hundido en la refriega
 del gato del yo te creo y comprendiendo enarco.
 
-#### III
+#### III {.verse}
 
 (El príncipe bajó un peldaño y se volvió.)
 
@@ -4957,7 +4957,7 @@ Se volvió y se volvió, ausente en la visión de su peldaño.
 Príncipe que al descender se vuelve hacia el engaño
 de ver su rostro en el peldaño en queja.
 
-#### IV
+#### IV {.verse}
 
 (Mi difunto padre compró todos estos lienzos en las subastas forzosas.)
 
@@ -4980,7 +4980,7 @@ El que fue a las subastas y detenía
 el lienzo, roto el anterior oblicuo, traspasaba
 inútilmente la hora de los murciélagos saltones.
 
-### V
+#### V {.verse}
 
 (Variación.)
 
@@ -5002,7 +5002,7 @@ Pues al tocar y rendir lo bien guardado,
 espera la suspensión del ave claveteada
 y el volver de la nube con la carta y su toque negligente.
 
-### VI
+#### VI {.verse}
 
 (¿Llevas contigo la cruz que le compraste al soldado?)
 
@@ -5024,7 +5024,7 @@ Y si al soldado se la adquirimos como oro al irse por la esquina,
 el que llega sabiendo el pecho que la respira como lata,
 quiere imantar con oro el nacimiento del fulgor en el engaño.
 
-## II
+## II 
 
 ### NOCHE DICHOSA
 
@@ -5341,11 +5341,11 @@ que caminaba dentro de una resistencia, pudieron ver un ramo de fuego que caía
 en el mar porque sentían la historia de muchos en una sola visión. Son las épocas
 de salvación y su signo es una fogosa resistencia.
 
-## III
+## III 
 
-### DESENCUENTROS
+### DESENCUENTROS 
 
-#### I
+#### I {.verse}
 
 El truchimán de espina hipóstila
 cuece mazorral los vanos dobles.
@@ -5363,7 +5363,7 @@ La cáscara de las papas se cuelga del búfalo
 en la panoplia del masoquista de calzón corto.
 Se detienen (humillo lento) y cruza la pareja de asnillas.
 
-#### II
+#### II {.verse}
 
 El aguafiesta vendrá para comenzar.
 Habrá una ciruela quemada, otra alambicada.
@@ -5388,7 +5388,7 @@ Salgamos por aquí, no, no, es por allí.
 Pero caramba, qué lástima, qué lástima,
 el aguafiesta no ha venido esta tarde.
 
-#### III
+#### III {.verse}
 
 Heliotropo a sus lascas dulzainas
 cierra sus broches de tambor o de chocolate fangoso.
@@ -5408,7 +5408,7 @@ Pende más sumergido, vuelve a oír la trompa del escocés.
 Pende su aserrín, pasos serruchados,
 pende en indiferente estalacticta, sube cartílago almidonado.
 
-#### IV
+#### IV {.verse}
 
 Absalón, Absalón,
 la orden no será cumplida, cumplieron.
@@ -5443,7 +5443,7 @@ Se quitó la máscara de esparto del jefe
 del estado mayor. Motivo con venablos, gran tañedor, alábale David.
 Es necesario también que esta batalla se cuente en este libro.
 
-### RESGUARDO, ALEJO
+### RESGUARDO, ALEJO {.verse}
 
 Resguardo, alejo de la escarcha,
 de las hojas con fuego,
@@ -5460,7 +5460,7 @@ cerca de la corriente.
 Esperan la crecida del río
 que rellana el oído.
 
-### CORTA LA MADRE DEL VINAGRE
+### CORTA LA MADRE DEL VINAGRE {.verse}
 
 Corta la madre del vinagre.
 Taja, tajada, taja, sijú.
@@ -5483,7 +5483,7 @@ en la médula del aceite.
 No te cuelgues del péndulo
 que raspa la madre del vinagre.
 
-### EL ENCUENTRO
+### EL ENCUENTRO {.verse}
 
 Al fin el jugo así se enreda
 con un carcaj de escasa suerte,
@@ -5669,7 +5669,7 @@ azafranadas, y cuando me asomo veo un delantal inmensamente blanco, no se
 mueve, y por la tarde guardo caparazones vacíos de almejas. Otro delantal, otro
 delantal, delantales, otro delantal, otro delantal.
 
-### ACLARACIÓN TOTAL
+### ACLARACIÓN TOTAL {.verse}
 
 Sus labios entonan, se prolongan en arco de violín,
 se prolongan en el hilo del tedio,
@@ -5775,7 +5775,7 @@ Pero olvidando las advertencias y los tambores,
 el caballo quiere subir también por el hilo del tedio.
 No ganan su sombra: el árbol no marcha para buscarlos.
 
-### EL CUBREFUEGO
+### EL CUBREFUEGO {.verse}
 
 Así ahora es la reja de espina. Generalmente
 es el hierro vejestorio. Éste es un enrejado
@@ -5827,7 +5827,7 @@ Escarba el agua, penetra con su uñero
 por las chispas, escarba el espinazo
 de la nieve tan divertida al comenzar.
 
-### EL ARCO INVISIBLE DE VIÑALES
+### EL ARCO INVISIBLE DE VIÑALES {.verse}
 
 El doncel del mirador me muestra su estalactita,
 me la muestra como a todo el que por allí transcurre, alaba.
@@ -6001,7 +6001,7 @@ sobre los guerreros que ganaban la otra noche.
 Y el garzón del mirador muestra su estalactita:
 la suya vale diez céntimos.
 
-### DANZA DE LA JERIGONZA
+### DANZA DE LA JERIGONZA {.verse}
 
 > Recoger negro, amarillo, verdoso, en el azul fino.
 
@@ -6209,7 +6209,7 @@ pero de la canción a la canción vuelve a cantar el ¿oye alguien?
 
 # DADOR
 
-## I
+## I 
 
 ### DADOR
 
@@ -6248,6 +6248,8 @@ luz, aumentando la visibilidad de las destrezas, arcos y movimientos de las
 figuras. Al aumentar tan poderosamente la cariátide rnayor la proyección de la
 luz, hará aparecer por momentos a los movimientos como spintrias y peces ciegos
 rapidísimos.
+
+::: verse
 
 El esturión con flaca tinta borrosa
 preparando los tapetes rajados de las consagraciones,
@@ -6288,6 +6290,8 @@ los acercamientos a las crecidas aclaradas por las rotaciones
 del seis, y cuando la mano izquierda entresaca
 del mijo las seis cápsulas del vino y del aceite,
 se endurecen en el sortilegio del ojo salado del buey.
+
+:::
 
 La anchurosa memoria alcanzadas por las tablas de la casa,
 y las analogías del mijo culebreando la hililla de oro,
@@ -6400,7 +6404,6 @@ que viene para definir la piel y su tenaz frente al vacío,
 o la somnolienta esfera guardada por la misma cantidad de espuma.
 El verbo sobre el germen se aclara en la sustancia,
 que no sólo recobra la unidad del centro con la piel,
-
 sino lo igual que vuelve a la humareda de los troncos navegando.
 Después que el verbo y la sustancia traspasaron el germen,
 el sentido se alzó a la estatua penetrando por la mirada,
@@ -6466,7 +6469,6 @@ su cabellera ondula la escribanía de la vegetación polar,
 voltea enloquecido en las mareas, desea morir.
 La imagen puede alzarse contra las frondas
 y contra la muerte, se reduce al soplo volador,
-
 que después va saliendo por la corteza arbórea,
 como un guerrero que golpea su propia armadura
 y queda preso del ligamento de las dos vibraciones.
@@ -6557,7 +6559,6 @@ de las sombras regidas por el látigo de Proserpina.
 El primer gemido en busca de la nocturna maternal,
 la tiorba de la siria gemebunda nos separa de la noche,
 colocada entre las desdeñosas espaldas del dios arbóreo
-
 y la garduña centinela embadurnada.
 Al dormirse la matria blandamente,
 ya sin caparazón de cóncavo y rocío que rodee
@@ -6639,7 +6640,6 @@ fue abandonado por los tres garzones que prefirieron el fuego
 de las cámaras subterráneas del palacio Sargón,
 a la forma burlesca adquirida por el acto por debajo del mar,
 donde el burlado cuerpo de la mujer se aleja por la oblicuidad del oleaje
-
 y sólo la sombra extensiva del placer fue alcanzada por el andrógino esturión.
 El falo fue tan sólo entonces la forma de cumplimentar la ocupación,
 no el puente de violín entre la ballena y las guijas lastimeras.
@@ -6716,7 +6716,6 @@ y ahora lo comprueba al soplar la alabanza,
 que recorre las estalactitas del fuego para el éxtasis.
 ¿Y si el cuerpo como un bulto se perdiese en el orgullo
 reposado de su devenir? ¿Y si sólo oyese
-
 sus lamentos al perderse en la cabaña musgosa,
 de baritonales tablones, laberintos de dorados hurones milenarios?
 La luz que lo recorrerá preguntándole,
@@ -6829,7 +6828,6 @@ mientras la calva nieve de la cabra se dora en luz derivada
 y tauro muge corpulenta extensión para el secuestro,
 la balandronada del falo bosteza la expansión de la vid,
 al penetrar en la sala hiperbórea para las ondas de Anfión,
-
 cuando la raíz ovillada con la mandrágora hiela
 el bastón con sierpes congeladas y centellitas del Júpiter cosechero.
 
@@ -6872,7 +6870,6 @@ El sueño gusta de quitarse la capa con un ancla,
 de dejar la conchilla en el mismo escalón de la marea,
 de rodear con las mecidas hojas musicales,
 las testas ladeadas por sumergidos sombreros de cuarzo,
-
 cuando la música se obstina en ocupar la misma extensión
 somnífera, mientras las repetidas figuras decapitadas
 se alejan de sus soportes de acantos y cabañas,
@@ -6943,7 +6940,6 @@ el tiempo sin la mordida del compás de nuestra suspensión.
 
 El agua era una afable señora, una esperada también.
 Hablábamos del saber hecho instinto como en el canario,
-
 y como así se puede sentir la estrella
 del misterio del parimiento y cuando nos despedimos
 despidiéndonos del pañuelo.
@@ -7043,7 +7039,7 @@ mientras el japonés en smoking se inclina, ;
 para recoger el clavel frappé, en el bostezo
 de la cuarta dinastía de sus sandalias charoladas.
 
-### LAS HORAS REGLADAS
+### LAS HORAS REGLADAS {.verse}
 
 Toque blando en el sueño
 y peluso, algoso rechazo,
@@ -7549,7 +7545,7 @@ Se ha quedado, mañana
 no lo reconocerán, sonríe,
 saluda: no está, no está.
 
-### PARA LLEGAR A LA MONTEGO BAY
+### PARA LLEGAR A LA MONTEGO BAY {.verse}
 
 (Permiso para un breve sobresalto)
 
@@ -7846,7 +7842,7 @@ desdeñando al Niño Diablo que cierra el portalón,
 alcanzaba el jocundo tornasol de la criatura derivada,
 penetrando por la antes hostil voz intermedia en el aliento de Anfión.
 
-### CIELOS DEL SABBAT
+### CIELOS DEL SABBAT {.verse}
 
 Ahincadas o labiándose, por el parque o el mar,
 trocar, Trocadero, anapestos, trocaicos, se deciden.
@@ -7954,7 +7950,7 @@ se siente intercalado por la flauta
 que le sopla polvillo de malvavisco
 y el tazón nuboso que los acoge y adormece.
 
-### AHORA PENETRA
+### AHORA PENETRA {.verse}
 
 Ahora, se esconde en el río,
 las demás son visitables.
@@ -8003,7 +7999,7 @@ ya no vuelve y no protege.
 Oh buitre, logistikón,
 en tu seguir al que sigue.
 
-### APARECE QUEVEDO
+### APARECE QUEVEDO {.verse}
 
 Pámpano corta en sus mallas
 o italianiza disfrazado,
@@ -8065,7 +8061,7 @@ con la madera de olor,
 ya no acaba lo que empieza
 y vuelve al llamarse amor.
 
-### VISITA DE BALTASAR GRACIÁN
+### VISITA DE BALTASAR GRACIÁN {.verse}
 
 Es el que quiere salir
 y el siempre muy vigilado;
@@ -8146,7 +8142,7 @@ Las manos estrujan el gamo de artificio, favoreciendo
 el desprendimiento de la hilacha que le corta
 las orejas para aislarlo de su relieve en el viento.
 
-### VENTURAS CRIOLLAS
+### VENTURAS CRIOLLAS {.verse}
 
 De los calderos en la luna baja y sus utensilios
 soy invitado, y preguntando el sitio
@@ -8633,7 +8629,7 @@ La hoja despierta como oreja, la oreja
 amanece como puerta, la puerta se abre al caballo.
 Un trotico aleve, de lluvia, va haciendo hablar las yerbas.
 
-### HIMNO PARA LA LUZ NUESTRA
+### HIMNO PARA LA LUZ NUESTRA {.verse}
 
 De la inteligencia de la misa
 a los placeres de la mesa,
@@ -8822,9 +8818,9 @@ para descifrar la sangre y la noche de las empalizadas.
 Las tiras de la piel ya están golpeadas,
 y ahora, clavad la luz en la cruz de la Pasión.
 
-### O PRIMERA GLORIETA DE LA AMISTAD
+### O PRIMERA GLORIETA DE LA AMISTAD 
 
-#### (Para Fina García Marruz)
+#### (Para Fina García Marruz) {.verse}
 
 Señora piel... oleaje,
 punto en boca del pez.
@@ -8844,7 +8840,7 @@ cuando en el examen reza.
 Hable la fresa en su rocío
 del baile de los elfos en el frío.
 
-#### (Para Bella García Marruz)
+#### (Para Bella García Marruz) {.verse}
 
 La Diana, la leona,
 pinta el azul en estera,
@@ -8864,7 +8860,7 @@ Niñez del fantasma estira
 el telón de los Cien días
 o las máscaras del viento.
 
-#### (Para el Pbro. Ángel Gaztelu)
+#### (Para el Pbro. Ángel Gaztelu) {.verse}
 
 ¿Quién podría decir, Ángel de las Escuelas,
 que en Fray Luis, las serenas
@@ -8905,7 +8901,7 @@ que se acerca y del volante verbo la mazorca,
 y todo ello resurrecciona cuando usted brama en la puerta
 y alboroza.
 
-#### (Bodas de Julián Orbón)
+#### (Bodas de Julián Orbón) {.verse}
 
 Dispone la contrarréplica, bien haya!
 La réplica arropada en trineo, abanicada a lo egipcio.
@@ -8927,7 +8923,7 @@ de los diez y siete cuartos, y volver a la primera semana
 donde se casaron, juntos con una espada y un gato,
 y el enloquecido, maravilloso negro de Santiago: ¿está el niño Julián?
 
-#### (Para Lorenzo García Vega)
+#### (Para Lorenzo García Vega) {.verse}
 
 Miraba y rompía como lince circular el no encuentro,
 pero a veces reclamaba tropezar y conversar,
@@ -8947,7 +8943,7 @@ El paréntesis de la pausa en que respiras,
 se hace espeso para mí como el tictac de un saco
 de arenas, pues mi vida se narra entre los cujes.
 
-#### (Para Cintio Vitier)
+#### (Para Cintio Vitier) {.verse}
 
 Se nos fue la vida hipostasiando,
 haciendo con los dioses un verano.
@@ -8967,7 +8963,7 @@ sonríe la bisagra de dos mares.
 El aliento y el bostezo divino enlazo
 si el pez y el relámpago son pares.
 
-#### (Para Mariano)
+#### (Para Mariano) {.verse}
 
 Es, y sí, el Gran Elector,
 toca, reencuentra y exime
@@ -8991,7 +8987,7 @@ y el árbol se carga el crío.
 Cobalto del ruiseñor, moviente
 la rama iniciala el caserío.
 
-#### (Para Alfredo Lozano, por el Obispo, el Ícaro y el Pez)
+#### (Para Alfredo Lozano, por el Obispo, el Ícaro y el Pez) {.verse}
 
 Vueltas el fuego recobra,
 como que arde en su centro;
@@ -9026,7 +9022,7 @@ trazó las cuentas de ensalmo,
 regaló cometas calmo,
 hizo el juego sin murallas.
 
-#### (Para René Portocarrero)
+#### (Para René Portocarrero) {.verse}
 
 Tú sabías,
 que el aroma de la piña era el vals del paladar;
@@ -9064,7 +9060,7 @@ que las brisas aconsejan en tus ventanas desdoblables:
 la que va de tu pincel a la granada de Deméter,
 la que trae Orfeo huyendo de las amazonas.
 
-#### (Para Raúl Milián)
+#### (Para Raúl Milián) {.verse}
 
 El polen es un ente,
 potens el dicotiledón.
@@ -9084,9 +9080,9 @@ Tiara en sangre su pacto,
 a su ocaso se entrega
 la flor, su resistencia.
 
-#### (Para Eliseo Diego, por su Calzada de Jesús del Monte)
+#### (Para Eliseo Diego, por su Calzada de Jesús del Monte) 
 
-##### I
+##### I {.verse}
 
 No el plectro mece
 la arada consistencia
@@ -9106,7 +9102,7 @@ La frase, ceja;
 la lentitud, abeja
 y aguijón de la mano.
 
-##### II
+##### II {.verse}
 
 La brisa lo secuestra
 y densa como un chaleco,
@@ -9126,7 +9122,7 @@ bebe en la placeta.
 el terrón volatice
 en pico de la ola secreta.”
 
-##### III
+##### III {.verse}
 
 Lince gordo, lince
 que su pincel no entrega
@@ -9146,7 +9142,7 @@ Diga el plectro el servicio
 y mármol de su ejercicio,
 y cómo ordena y silencia.
 
-#### (Otra vez el Padre Gaztelu)
+#### (Otra vez el Padre Gaztelu) {.verse}
 
 Norma, que se devuelve a yerbazal lunado,
 creciente a torre de buey y ejemplar cuidado;
@@ -9166,7 +9162,7 @@ Su despertar saborea el tiempo medido.
 se va acercando a criollo lasquear y a compaseo,
 llevado al menear la cabeza y al brusco estar quieto.
 
-#### (Para Fina, por Las miradas perdidas)
+#### (Para Fina, por Las miradas perdidas) {.verse}
 
 Neptuno gira el pescuezo,
 y la alguilla si se irrita,
@@ -9190,7 +9186,7 @@ del mar, viejo de heridas
 con las miradas perdidas,
 Neptuno sonríe el acto.
 
-#### (Para José Rey de la Torre)
+#### (Para José Rey de la Torre) {.verse}
 
 Un dedo puede sentarse como Omar
 sin la conjugación del mar latino.
@@ -9211,7 +9207,7 @@ Aquel cometa, abrigado por su guitarra,
 en estos días pascoes, se lo juro, salta del Condado
 de York a la Mejorana: los tres andamos, los tres reímos.
 
-#### (Para José Rodríguez Feo, en los días de Orígenes)
+#### (Para José Rodríguez Feo, en los días de Orígenes) {.verse}
 
 Como ardilla que rueda y no se empaña,
 las dulces bien medidas diversiones,
@@ -9231,7 +9227,7 @@ San Jerónimo y Orígenes acrecen,
 cuando ambos parece que se mecen
 en contrapunteada raíz, que no se mueve.
 
-#### (Para Octavio Smith)
+#### (Para Octavio Smith) {.verse}
 
 Aspas, bastos, flautines, ojos,
 niebla, aliento, sombra, cerrojos.
@@ -9248,7 +9244,7 @@ por barajas y linces estremecidos.
 La niebla es el sombrero de una vida sumergida,
 quitarse el sombrero es lo invisible que convida.
 
-#### (Para Agustín Pi)
+#### (Para Agustín Pi) {.verse}
 
 Si quieres que te recuerde,
 sóplame.
@@ -9299,7 +9295,7 @@ Está en el recuerdo
 de la hoja. Húmedo mismísimo
 y nada entre su cuerpo y la nada.
 
-#### (Para Sergio Vitier)
+#### (Para Sergio Vitier) {.verse}
 
 Trotón, teatro de alambre,
 trota en la gruta de espejos.
@@ -9319,7 +9315,7 @@ rueda el verso entreabriendo.
 Guarde la paloma por su raíz
 el zodíaco de la semilla de maíz.
 
-### DOCE DE LOS ÓRFICOS
+### DOCE DE LOS ÓRFICOS {.verse}
 
 Cuanto más penetra la luna en el caldero,
 fijo tuétano y móvil sangre lunar,
@@ -9575,11 +9571,11 @@ Trepa por la gotera y por la escala, ya en el centro del armonio,
 liga las cuerdas reacias al conjuro, cuando asciende
 el ahorcadito relame el horóscopo bufón.
 
-## II
+## II 
 
-### AGUJA DE DIVERSOS
+### AGUJA DE DIVERSOS 
 
-#### I
+#### I {.verse}
 
 El Emperador y el sobrino están dispuestos a saltar
 sobre los marfiles del oculto Belerofonte.
@@ -9588,7 +9584,7 @@ sus conversaciones lavadas en arroz
 y en sus apartes en las columnas
 orinan suaves la calva del romano.
 
-#### II
+#### II {.verse}
 
 ...Pues el Decreto tiene que fijarlo así:
 que los cerdos no brinquen por las calles.
@@ -9603,7 +9599,7 @@ y el hombre ha hecho de su terror un soplo,
 que mancilla sus cueros y que sólo dobla
 sus instantes, pero lo dilata y exhala.
 
-#### III
+#### III {.verse}
 
 Cuando hiende, corto de risas en nosotros,
 la ligereza en sus tocados golpes, vuelve
@@ -9627,7 +9623,7 @@ leves al frío de conocerse o ahuecarse, para llegar
 a un instante en que un hillillo las despedazará con un sobresalto
 frío, tamaño que alguien le prestó.
 
-#### IV
+#### IV {.verse}
 
 Le mandaremos las mismas mulas predispuestas
 por la constancia de un metal escogido; las enmascaradas
@@ -9645,7 +9641,7 @@ si las alforjas abrirían sus puertas;
 si el estilo de una recompensa se había alterado;
 si las perdidas mulas serían reparadas por el obeso gladiador...
 
-### V
+#### V {.verse}
 
 El padre de los guerreros revisa la boca del caballo
 y entre las agudas precisiones la imprecisión de los recuerdos.
@@ -9657,7 +9653,7 @@ La boca parece que hunde un arbolillo como un ascua.
 Los dientes los recuerda como una espina, amuleto
 en la boca dura fregada por la tierra seca.
 
-### VI
+#### VI {.verse}
 
 La flota del vino desea que las aguas no la interpreten,
 que las algas salvajes le corroan el casco de planchas bolivianas
@@ -9671,7 +9667,7 @@ y que su rostro revise las viejas torres en las ciudades reconstruidas.
 La gota de diferencia y de profecía le quema el lomo
 y a su almirante barbado y suave sólo le queda el habla ronca.
 
-### VII
+#### VII {.verse}
 
 El lino tiene rebuscadas credenciales,
 ciñe la tergiversada, aventurera inanidad.
@@ -9685,7 +9681,7 @@ El lino envuelve al inane homogéneo con el uno
 y transparenta el papel. Sutileza de una semilla
 con inmóvil medianoche y ligero mediodía.
 
-### VIII
+#### VIII {.verse}
 
 Hay que guardar la cuchara del palacio
 de Dijón, con seis chimeneas para asar seis bueyes
@@ -9703,7 +9699,7 @@ Con la nueva piel estrena una flamante chaquetilla
 de azurita, y el cucharón sigue en un reposo
 de campana, entre las piernas, flor de la Casa de Borgoña.
 
-#### IX
+#### IX {.verse}
 
 Mi representación precisa objetos que la burlen;
 
@@ -9734,7 +9730,7 @@ por el hombre. La superficie de la materia
 se descifra en la palma de la mano
 y la mano tropieza con el amargo aguarrás de la boca.
 
-### X
+#### X {.verse}
 
 Estudiaba las medallas y tenía que oír el relato de la señoría;
 el entumecer malhumorado en falso relato a bandazos:
@@ -9765,7 +9761,7 @@ y salía a encontrar el sonámbulo marinero
 que despertaría la tersa colección de Abakul,
 mono de arena que se aleja masticando las monedas.
 
-### XI
+#### XI {.verse}
 
 La misma diferencia abunda en su inexistir,
 pues la distancia encarnada en la llanura diversifica
@@ -9910,7 +9906,7 @@ en el gusano. Y el gusano le da la vuelta
 a su guante para mostrar sus entrañas de nubes.
 "Estoy oyéndolo, siga, volvió a decir."
 
-### XII
+#### XII {.verse}
 
 Con el relámpago surgiendo de los hígados celestes,
 el recuerdo se deja leer, la primera inscripción.
@@ -9930,7 +9926,7 @@ sarmentoso va comiendo, hasta detenerse
 en la piedra cocida con diminutas inscripciones
 venatorias y el tumultuoso nacimiento de los dados.
 
-### XIII
+#### XIII {.verse}
 
 Las bases no tienen que estar por los profundos;
 la piel, la superficie del mar y la cara de la hoja,
@@ -9951,7 +9947,7 @@ enterrado en el aire o la raíz que vuela
 dentro de la tierra, tienen el mismo surgimiento
 para que la voz y el aliento se encuentren.
 
-### XIV
+#### XIV {.verse}
 
 El gato Jámblico, calderoniano, fluidamente
 sentencioso, redondea las historias del cortinón.
@@ -9966,7 +9962,7 @@ Enojoso de espaldas cree que la luz no lo descubrirá
 ni dejará en su lomo clavado su rebrotante
 cosquilleo. Paso profundo de risa se redondea en mancha para borrarse.
 
-### XV
+#### XV {.verse}
 
 Si el salmón roza las heladas plumas, las risitas
 —confundidoras de barrios por el truhán de la luna—,
@@ -9987,7 +9983,7 @@ A las seis pasó por el silbido del tren parado.
 En la escogida se le borró perrera andante
 y hacía mandato lo que olvidaba: a la casilla de saltimbanquis y flautistas.
 
-### XVI
+#### XVI {.verse}
 
 Sobre la mesa la lista de los proscriptos
 trepaba su escultura con la sangre falsa del tinetro.
@@ -10007,7 +10003,7 @@ La exquisita broma del plenilunio
 rompía la lista, pero el pregonero
 sin leer la partitura ahondaba las gotas de plomo.
 
-### XVII
+#### XVII {.verse}
 
 El diseño de los búfalos chinos cubría las aspas
 de una pared; los colores del devenir marino por el este;
@@ -10031,7 +10027,7 @@ Cuando se asoma el veneciano inquisidor,
 la camerata revienta de inmóviles visitas
 que rehúsean las pruebas de la danza, el vino o los paseos.
 
-### XVIII
+#### XVIII {.verse}
 
 El cuerpo y el cuello de la jarra obligaban a la mano
 a permanecer ciega, la inocencia del caricortado marmolero
@@ -10069,7 +10065,7 @@ que actúa rigiendo y mantiene su propiedad misteriosa.
 La aparición del elyro litres tiene más carnal aprovechable
 que los años en que Picasso comenzó sus platos.
 
-### XIX
+#### XIX {.verse}
 
 "Cuando el tercero, de rencorete, cada seis meses papirotea,
 las paginitas de sumalele inflando ombligo de chilindrón,
@@ -10100,7 +10096,7 @@ en los rincones de promisión."
 Esta proclama se dio en Viñales, cuando la visión se alzó sin la mirada
 y el invisible adquiere forma sin pudrear en muy visible.
 
-### XX
+#### XX {.verse}
 
 En el portal de la variada casa de la playa,
 en la languidez del refrigerio verde transparente,
@@ -10164,7 +10160,7 @@ el recuerdo de sus otros nacimientos y la espada jurada.
 ¿Ustedes saben quiénes han pasado por ahí?
 Los dos enanos.
 
-### XXI
+#### XXI {.verse}
 
 Después que la voz lo enderezó dentro de su plomada
 de nueva vida y alejaba la posibilidad del polvo,
@@ -10267,7 +10263,7 @@ resurrectas, el imán de los hoyuelos vacíos descaece.
 Longinos o el jabalí cierran la puerta del apetito
 y el alanceado se embota en la carne del resurrecto.
 
-### FRAGMENTOS
+### FRAGMENTOS {.verse}
 
 Los murmullos tienen, plásticamente, una seda estrujada,
 un gran pañuelo reducido por la mano, y después saltan.
@@ -10422,7 +10418,7 @@ se revuelve. Ay, nuestro cuerpo a horcajadas en otras imágenes,
 que no eran para él, oscuro y musical impedimento
 penetra en la desolación, el soplo que transfigura a la hoja no es el que recibirá como terror.
 
-### LA RUEDA
+### LA RUEDA {.verse}
 
 Hombre untado de negro. Ojos rojos.
 Está en la garita de centinela y mira en torno.
@@ -10511,7 +10507,7 @@ Allí están la parentela y los amigos con vinajeras.
 Llora y nada hacia la tierra.
 Las dos piernas sobre dos pescados.
 
-### LOS DADOS DE MEDIANOCHE
+### LOS DADOS DE MEDIANOCHE {.verse}
 
 Llega y se esquina con las esquinas del pañuelo,
 cuando abierto como una bandeja se equilibra
@@ -10916,7 +10912,7 @@ levantan en sus agrupadas definiciones los tejados.
 La aguja del trirreme interpreta el remolino
 y sus cobres astillan lo estelar.
 
-### EL COCHE MUSICAL
+### EL COCHE MUSICAL {.verse}
 
 > (En recuerdo de Raimundo Valenzuela y sus orquestas de carnaval)
 
@@ -11047,7 +11043,7 @@ pero la flauta habanera abreviaba los lazos de tafetán.
 Es el mismo coche, dentro un mulato noble.
 Saluda largamente, en el incendio, a la cornisa que se deshiela.
 
-### RECUERDO DE LO SEMEJANTE
+### RECUERDO DE LO SEMEJANTE {.verse}
 
 ¿Hay una total pluralidad en la semejanza?
 La diversidad multiplica con los siete martillos
@@ -11350,7 +11346,7 @@ pues sólo la sobreabundancia inunda los rostros y los encarna,
 y no los detiene en la correspondencia de los términos,
 entre el Óvalo del Espejo y el Ojo de la Aguja.
 
-### NUNCUPATORIA DE ENTRECRUZADOS
+### NUNCUPATORIA DE ENTRECRUZADOS {.verse}
 
 Si acaso como príncipe rehace las impuestas escalas de la sangre,
 como condotiero saborea la indiferencia de la posible
@@ -11559,7 +11555,7 @@ de la Estigia, cuando alguien despega y alguien se queda.
 
 ## PROVERBIOS
 
-### I
+### I {.verse}
 
 Allí la luna hundida al centro
 de los árboles, donde extiende
@@ -11622,7 +11618,7 @@ Resuelto coro de pastores
 alegra al chivo dios de la colina:
 Almendral, tú dirás la verdad.
 
-### II
+### II {.verse}
 
 Desarticula justa la neblina
 el sombrero de los árboles.
@@ -11678,7 +11674,7 @@ despechugando el trote de la tinta.
 Su canción comienza en la sentencia:
 Año de neblinas, año de harinas.
 
-### III
+### III {.verse}
 
 Pero la neblina sangra los cabellos
 negros. Hay la respirante diferencia
@@ -11708,9 +11704,9 @@ Cortante un hilo,
 un hilo en la luna de las nieblas,
 dualiza al hombrecito de cabellos negros.
 
-## POEMAS
+## POEMAS 
 
-### I
+### I {.verse}
 
 Ceñida fuga se elabora
 con la precisión de tramontana.
@@ -11730,7 +11726,7 @@ de la casa del burgo-
 maestre ¿nombres? ¡están!
 Todas las miradas en el juego.
 
-### II
+### II {.verse}
 
 Ahora no pasa, el aire niega,
 es un polvillo lo que nos deja,
@@ -11750,7 +11746,7 @@ la cabra que soporta la mañana,
 debajo de los huesos su mirada
 pone cuernos al hilo de la nada.
 
-### III
+### III {.verse}
 
 Rompe empero la llave de ceniza;
 donde abrió, donde abrió la hoja cierra.
@@ -11770,7 +11766,7 @@ Viene la noche y se monta por la tabla
 y el humo es el que escarba y el que habla.
 Como necio el sol temprano quiso.
 
-### IV
+### IV {.verse}
 
 De la piel, tierno venado,
 vuelve el cielo a noticiar;
@@ -11790,7 +11786,7 @@ Aquí se fue el sonido a su cascada.
 La seda cariciosa fue rasgada
 y el que se iba tuvo tiempo de oír: piérdete.
 
-## V
+### V {.verse}
 
 Con la inopinada mariposa, oscuros trazos,
 
@@ -11811,7 +11807,7 @@ que tras la bañera del ánade trisca.
 No ves la corteza del bulto, acompañas.
 No dejes la araña en el vitral, la dañas.
 
-## VI
+### VI {.verse}
 
 La que acaricia teorías y le regala el perejil
 al lácteo ensanche zodiacal del caracol.
@@ -11831,7 +11827,7 @@ que en la carcajada del hondero desriza
 el pantalón relleno de arena. Ironiza,
 están de humor la fresa destilada y el rabo de vulvilla.
 
-## VII
+### VII {.verse}
 
 Aquí el daño especial, aquí el rasgar,
 se hundió torvo en la nueva torneadura.
@@ -11851,7 +11847,7 @@ Iba cayendo en un cielo elaborado con un cordel, las manos.
 La frente desjarretada en el hendido corcel de los ulanos,
 iba cerrando su concha, dormía la zarigüeya en las arrugas del bolsón.
 
-## VIII
+### VIII {.verse}
 
 Entra en la brecha a ver el inflexible,
 rodeado de una caspa iiritada de motines.
@@ -11871,7 +11867,7 @@ El rayo por la lanza, amanecen tenaces, confundidos.
 En la terraza escarcha el patín de los huidos
 y el mulato frío cierra los ojos y burila los dijes amarillos.
 
-### IX
+### IX {.verse}
 
 La cofia y la ceniza, penetró en la galería, un búho.
 El borrachón sochantre duerme en el vacío que ingurgita.
@@ -11892,7 +11888,7 @@ La manta azafranada del manitú tiembla el ensalmo.
 La foca aullando resbala por la piel de un cielo calmo,
 pero cae como un bulto negro en los pasos medidos del atigrado.
 
-## X
+### X {.verse}
 
 Esconde bien las manos, del cuello de la bolsa el maíz saltará,
 entre el cuello de la bolsa se interponen huraños
@@ -11912,7 +11908,7 @@ Lo lleva a la corriente, sin cuerpo comienza a nadar
 el nuevo despeñado, las hojas tiemblan, comienzan a ladrar
 al ligero, que ya está a salvo en el gamo acorralado.
 
-## XI
+### XI {.verse}
 
 No hay ala en la ola cuando me miro,
 ni extensión en el sol cuando me olvido.
@@ -11932,9 +11928,9 @@ La razón hierve más, es la tajada humana,
 la que dice la agüita de los cielos,
 y no el tamaño gigante del hielo que siempre crecerá.
 
-## TELÓN LENTO PARA ARIAS BREVES
+## TELÓN LENTO PARA ARIAS BREVES 
 
-### I
+### I {.verse}
 
 Mueve matinalmente la colita,
 para no caer en el esmalte blanco
@@ -11956,7 +11952,7 @@ pero la lagartija habanera,
 contenta como la tabla de multiplicar bien sabida,
 le abre la puerta al azafrán del plumero.
 
-### II
+### II {.verse}
 
 Canta la guitarra sentada en el mulo,
 canta el mulo buscando la pestaña.
@@ -11983,7 +11979,7 @@ con la vacía cantina a cuestas,
 pero su susto es alegre:
 a correr, a correr el guineo.
 
-### III
+### III {.verse}
 
 Hay un fuego privilegiado, no el hornillo
 de la Moira, es el horno de las tortas,
@@ -12008,7 +12004,7 @@ Los caballeros de estambres plegadizos,
 preguntan a la flor del pozo:
 ¿Quién hace los dulces?
 
-### IV
+### IV {.verse}
 
 Tiene cara caída, tiene bolsillo húmedo,
 tiene viruela y tiene luciérnaga.
@@ -12029,7 +12025,7 @@ de estrella de mar.
 ¿Usted pregunta quién hace los dulces?
 El que dice: el pobre.
 
-## V
+### V {.verse}
 
 Pensó ir, pero no fue al teatro.
 Tocó el timbre, pero habían puesto algodón
@@ -12056,7 +12052,7 @@ se hiere sin sonar.
 No suena el timbre y vienen todos los cervatillos.
 Me dicen siempre que no está.
 
-## VI
+### VI {.verse}
 
 Había guardado un pulpo dentro de una redoma,
 hundiéndose le había dado clavo al centro
@@ -12085,7 +12081,7 @@ El gamo, asustado y temblón,
 gusto de la noche placentera.
 Cállese.
 
-## VII
+### VII {.verse}
 
 Rodeo de la piña claveteada
 con flecos coralinos
@@ -12109,7 +12105,7 @@ Después de un día cabezón,
 picaflor en el agua del armadillo,
 sudando la montura para parir la siesta.
 
-## VIII
+### VIII {.verse}
 
 Todo el desdén estaba barnizado,
 las estalactitas eran escaleras
@@ -12135,7 +12131,7 @@ el mantel para las prisas del ángel no caído.
 Llegó el terror del año postrimero.
 No vino más.
 
-### IX
+### IX {.verse}
 
 El día que penetra
 en la ausencia de la lagartija,
@@ -12159,7 +12155,7 @@ Crepúsculo del tercer despertar, machacando
 el hielo de las seis de la tarde,
 caballeros, qué domingo.
 
-## X
+### X {.verse}
 
 Descolgarse por el espejo, agarro
 un pelo, pero no, la podadera
@@ -12189,9 +12185,9 @@ hasta el horizonte inútil de la yerba facial.
 Se afeitaba, frente al espejo
 del baño, cuando…
 
-## EL NÚMERO UNO
+## EL NÚMERO UNO 
 
-### I
+### I {.verse}
 
 El número Uno en las Tablas del Tarot:
 el prestidigitador, el farsante.
@@ -12212,7 +12208,7 @@ no pueda parir un gallito con un perejil en el pico,
 cuando un pañuelo abierto reproduce toda la cara de la luna,
 la inmóvil palidez y todos los murales del infierno.
 
-### II
+### II {.verse}
 
 Avanzan conmigo hacia el árbol del pan
 y nos aprieta la noche claveteada.
@@ -12227,7 +12223,7 @@ y cuéntanos las estrellas del vaivén prometido.
 Es un aullido, un pedazo arrugado
 de terciopelo que entona como los rollos de una pianola.
 
-### III
+### III {.verse}
 
 Sobre nuestra cabeza el anillo de los pájaros azules.
 
@@ -12243,7 +12239,7 @@ Pero a veces la oscuridad se escinde,
 las órdenes galopando tropiezan con la primera puerta
 y adormecidos peinamos el candelabro como los pájaros azules.
 
-### IV
+### IV {.verse}
 
 Dime, pregúntame, susurra, di la brisa.
 Se acerca su inconfundible:
@@ -12275,7 +12271,7 @@ Pero un día la muerte recobra el absoluto de su oleaje,
 y su ola lenta reina en la extensión de nuestra espalda,
 entonces comprendemos que la amistad estaba muerta y el amor se extinguía.
 
-## V
+### V {.verse}
 
 Pero hay una envoltura superior
 a nuestra decisión y a la palabra,
@@ -12308,7 +12304,7 @@ y el árbol comienza en nosotros sus carcajadas,
 mientras pasa el jabalí puliendo los muslos sagrados
 y el armadillo sonriendo inaugura los nuevos patines.
 
-## VI
+### VI {.verse}
 
 Dichoso voy entre nieblas
 que así desatan el árbol,
@@ -12349,7 +12345,7 @@ avanza caballo blanco.
 Voy huyendo y traigo a la noche
 con la cabeza inclinada.
 
-## ODA A JULIÁN DEL CASAL
+## ODA A JULIÁN DEL CASAL {.verse}
 
 Déjenlo, verdeante, que se vuelva;
 permitidle que salga de la fiesta
@@ -12559,7 +12555,7 @@ Permitid que se vuelva, ya nos mira,
 que compañía la chispa errante de su errante verde,
 mitad ciruelo y mitad piña laqueada por la frente.
 
-## LOS CORDELES
+## LOS CORDELES {.verse}
 
 Los cordeles
 que sostienen el plato de cobre,
@@ -12582,7 +12578,7 @@ Las doce
 —eructo de los palotes fantasmales—,
 en el frío terciopelo del naufragio.
 
-## RETRATO DE DON FRANCISCO DE QUEVEDO
+## RETRATO DE DON FRANCISCO DE QUEVEDO {.verse}
 
 Sin dientes, pero con dientes
 como sierra y a la noche no cierra
@@ -12602,7 +12598,7 @@ En el fin de los fines ¿qué es esto?
 Roto maíz entuerto en el faisán barniza
 y en la horca se salva encaramado.
 
-## HAI KAI EN GERUNDIO
+## HAI KAI EN GERUNDIO {.verse}
 
 El toro de Guisando
 no pregunta cómo ni cuándo,
@@ -12625,7 +12621,7 @@ cómo y cuándo.
 Creciendo y raspando,
 temblando.
 
-## MI HERMANA ELOÍSA
+## MI HERMANA ELOÍSA {.verse}
 
 El pestañeo oscuro del comienzo conversable,
 la mesa con el jeroglífico celeste,
@@ -12650,9 +12646,9 @@ Mi madre, estoy muy ahogado,
 voy a quemar los polvos,
 despiértame cuando llegue Eloísa con su hijo.
 
-## DEJOS DE LICARIO
+## DEJOS DE LICARIO 
 
-### 1
+### 1 {.verse}
 
 Ecuestre lección domina el plañido
 vacilante, pero también el pitazo del búho.
@@ -12677,7 +12673,7 @@ e interpretemos al cangrejo
 que da la muela por la mano,
 mientras Seurat pinta el cancán.
 
-### 2
+### 2 {.verse}
 
 A veces reaparezco,
 floto en un charquito con un fósforo doblado,
@@ -12697,7 +12693,7 @@ Caramba, rodé desde el tejado
 y enseño el hociquillo con yerbajos
 en la pequeña ola que me envuelve.
 
-### 3
+### 3 {.verse}
 
 Tómbola de relámpagos y entrepuertas
 ascendiendo a medias pez paletó,
@@ -12715,7 +12711,7 @@ por lo lineal que nos rodea
 y que se rompe en nuestros labios
 sin hablar.
 
-### 4
+### 4 {.verse}
 
 Doblada en su buñuelo,
 la ola falta en la fila desdeñada,
@@ -12736,7 +12732,7 @@ Burlada Ariadna del oleaje.
 No viene a su retiro
 la ola reiterada que delira.
 
-### 5
+### 5 {.verse}
 
 No borre, compadre,
 la caldera de la entraña terrenal,
@@ -12757,7 +12753,7 @@ El tragante reabsorbió la hoguera,
 y los animales cumplieron en el sueño,
 asemejan campanadas.
 
-### 6
+### 6 {.verse}
 
 Ya todo es tarjetero de sandía,
 graznado bulto en el despeño,
@@ -12783,7 +12779,7 @@ ni siquiera es una naturaleza muerta
 del seráfico Sánchez Cotán.
 Un rostro sobre un rostro, ardiendo el toronjal.
 
-### 7
+### 7 {.verse}
 
 Pasar el papel por el rodillo
 de la máquina de escribir es un placer
@@ -12805,7 +12801,7 @@ Ojizarca la mina con los tiburones,
 y el rodillo piando letras
 sobre un barril de cal.
 
-### 8
+### 8 {.verse}
 
 La palma de la mano sobre el río.
 La palma paso a paso, hacia mí, leyéndome.
@@ -12877,7 +12873,7 @@ Así seguimos colocando ladrillos en el muro
 y sobre los muros cascos de botella,
 así nos cosimos la oreja en el cancán.
 
-## LA PRUEBA DE JADE
+## LA PRUEBA DE JADE {.verse}
 
 Cuando llegué a la subdividida casa,
 donde lo mismo podía encontrar el falso
@@ -12930,7 +12926,7 @@ en un breve trineo que traza letras
 sobre el nido de las mejillas.
 Cerramos los ojos, la nieve vuela.
 
-## MINERVA DEFINE EL MAR
+## MINERVA DEFINE EL MAR {.verse}
 
 Proserpina extrae la flor
 de la raíz moviente del infierno,
@@ -13003,7 +12999,7 @@ no pudo llegar al mar.
 
 Y el cangrejo que trae una corona.
 
-## ENTRE DOS PUERTAS
+## ENTRE DOS PUERTAS {.verse}
 
 Entre dos puertas,
 con su humillo, la palabra entelerido.
@@ -13031,9 +13027,9 @@ Vestido de pimiento bailón,
 en su sueño el lagarto
 comienza a humear.
 
-## DÉCIMAS DE LA AMISTAD
+## DÉCIMAS DE LA AMISTAD 
 
-### (Para Armando Álvarez Bravo)
+### (Para Armando Álvarez Bravo) {.verse}
 
 Un libro como patena
 o un gato como nieve
@@ -13046,7 +13042,7 @@ se cuela en cada estación,
 el pincel y el melón,
 la baraja, profetiza.
 
-### (Para Mariano)
+### (Para Mariano) {.verse}
 
 Un gallo color ladrillo,
 en su centro y su compás,
@@ -13059,7 +13055,7 @@ casi al borde de la mar,
 y como el diamante remar
 lo que no tiene respuesta.
 
-### (Para Jorge Camacho)
+### (Para Jorge Camacho) {.verse}
 
 Calaverón metálico
 salta el alfiler punzó,
@@ -13072,9 +13068,9 @@ rondalla en Argos cenital.
 La muerte es el pavo real
 y el fantasma vio la yesca.
 
-### (Para Pablo Armando Fernández)
+### (Para Pablo Armando Fernández) 
 
-#### 1
+#### 1 {.verse}
 
 Viene la noche y lo irisa
 un movimiento y un gato,
@@ -13087,7 +13083,7 @@ La lengüilla del lagarto
 en los domingos de parto,
 meriendas de Pablo Armando.
 
-#### 2
+#### 2 {.verse}
 
 La llanura y la candela,
 el jinetuelo y guitarra,
@@ -13100,7 +13096,7 @@ como en el ciervo el acecho,
 busca en el agua de helecho
 la sucesión sumergida.
 
-## AGUA DEL ESPEJO
+## AGUA DEL ESPEJO {.verse}
 
 Se salta de la imagen al acero,
 así Hesíodo dicta en ciego,
@@ -13154,7 +13150,7 @@ El espejo, el acero y Euforión
 saltando por el fuego,
 como la salamandra de amianto iridiscente.
 
-## VUELTAS EN LA PARRILLA
+## VUELTAS EN LA PARRILLA {.verse}
 
 La vi llegar como a los peces.
 Se acercaba a una pared transparente,
@@ -13358,9 +13354,9 @@ tonto Toto, Toto total.
 
 # FRAGMENTOS A SU IMÁN
 
-## DESEMBARCO AL MEDIODÍA
+## DESEMBARCO AL MEDIODÍA 
 
-### I
+### I {.verse}
 
 Los dientes eran el piano
 de estribor; el anteojo, una tripita
@@ -13394,7 +13390,7 @@ Su prole sonríe invariable-
 mente detrás de una máscara
 de oro granulado.
 
-### II
+### II {.verse}
 
 Redondea una conchilla,
 enlaza rúbricas en la brisa,
@@ -13421,7 +13417,7 @@ Esfera armilar y clavicordio,
 partidos en cuatro como un mazapán
 y como un queso.
 
-### III
+### III {.verse}
 
 Esta es la noche octosilábica,
 con sílabas que avanzan
@@ -13452,9 +13448,9 @@ en el porrón de las cenizas.
 Las flechas encandilan los despojos,
 y salta el bailarín.
 
-## DÉCIMAS DE LA QUERENCIA
+## DÉCIMAS DE LA QUERENCIA 
 
-### (Para Fina García Marruz)
+### (Para Fina García Marruz) {.verse}
 
 Mariposa en entredós
 vino la décima, Fina,
@@ -13478,7 +13474,7 @@ con la que usted me acreciera,
 no vale —Dios lo quisiera—
 su caridad, su corazón.
 
-### (Para Carlos y Rosario Spottorno)
+### (Para Carlos y Rosario Spottorno) {.verse}
 
 Sin aumentar su poder,
 Júpiter con su merienda,
@@ -13491,7 +13487,7 @@ más al cordel que al cristal,
 y ya peina el calamar
 a la cipriota divina.
 
-### (Para José Triana)
+### (Para José Triana) {.verse}
 
 La electricidad recorre
 a los muertos, determina
@@ -13504,7 +13500,7 @@ el muerto pierde la idea,
 la noche relampaguea
 un bastón, un bastonazo.
 
-### (Para Juan David)
+### (Para Juan David) {.verse}
 
 A los hombres de Karnak,
 seis veces nuestra estatura,
@@ -13517,7 +13513,7 @@ con un misterio sin ley,
 albricias le dan al rey
 metamorfoseado en lanza.
 
-### (Para Darío Mora)
+### (Para Darío Mora) {.verse}
 
 Salpicándose en la arena
 o viviendo para un brote,
@@ -13530,7 +13526,7 @@ Chino y persa con Ceylán,
 órficos sones dirán
 linda esfera que se aleja.
 
-### (Para Reinaldo Arenas)
+### (Para Reinaldo Arenas) {.verse}
 
 Una soga y un reloj,
 un tenedor al revés,
@@ -13543,7 +13539,7 @@ el carbunclo desconfía.
 ¿El fuego será un espía
 o la abuela temeraria?
 
-### (Para Luis Martínez Pedro)
+### (Para Luis Martínez Pedro) {.verse}
 
 En el mar y en la llanura
 y en la llanura del mar,
@@ -13556,7 +13552,7 @@ a la espiral que se ajusta
 a la lengua que pregunta
 cuando el pez rayando oficia.
 
-### Mañanas en la Sociedad Económica De Amigos del País
+### Mañanas en la Sociedad Económica De Amigos del País {.verse}
 
 Mezclar proverbios, manzanas,
 una pelea de sombras
@@ -13569,7 +13565,7 @@ buscando el agua y el verso
 en el enigma diverso,
 no en parlanchines disertos.
 
-### (Para Reynaldo González)
+### (Para Reynaldo González) {.verse}
 
 Pregunta, diga el reverso
 el cumpleaños del verso,
@@ -13582,7 +13578,7 @@ la tapa ya se levanta.
 A la altura de los ojos
 tiene el verso sus anteojos.
 
-### (Para Miguel Barnet)
+### (Para Miguel Barnet) {.verse}
 
 _Décima sin escritura_
 
@@ -13597,7 +13593,7 @@ cada línea es un dedito
 de Anfión como Pulgarcito
 bebido, no escriturado.
 
-## INALCANZABLE VUELVE
+## INALCANZABLE VUELVE {.verse}
 
 No importa la reducción
 entre el índice y el pulgar
@@ -13648,7 +13644,7 @@ Sobre su cabeza un dedal de oro,
 se acentúa un procesional color tabaco
 y en las sienes se sangra manotazos.
 
-## NUEVO ENCUENTRO CON VÍCTOR MANUEL
+## NUEVO ENCUENTRO CON VÍCTOR MANUEL {.verse}
 
 Hay que ser un Sócrates o un Carmides,
 hay que hacer una sabiduría para un joveneto,
@@ -13756,7 +13752,7 @@ de si el sol, el niño de Whitman,
 que sale de su casa todos los días,
 acompañará de nuevo nuestro despertar.
 
-## OCTAVIO PAZ
+## OCTAVIO PAZ {.verse}
 
 En el chisporroteo del remolino
 el guerrero japonés pregunta por su silencio,
@@ -13804,7 +13800,7 @@ levantó la cabeza del náufrago que hablaba.
 Sólo el incendio espejeaba
 el tamaño silencioso del naufragio.
 
-## SORPRENDIDO
+## SORPRENDIDO {.verse}
 
 No puedo. Es así. Y el caballo dobla el naipe.
 Voy. La toronja escampa, deletreo.
@@ -13831,7 +13827,7 @@ No puedo, voy a acostarme, despertaré sin el resguardo.
 Las arañas alfombran confundiendo sus hilillos.
 Don Aire congrega y descabeza.
 
-## NO PREGUNTA
+## NO PREGUNTA {.verse}
 
 Un abreboca y no un punzón con ojos astillados,
 una ponzoña con mano izquierda,
@@ -13850,7 +13846,7 @@ Un encontronazo de cabra y cemiceja,
 casi y casi roto en polvo,
 dondequiera.
 
-## LA MADRE
+## LA MADRE {.verse}
 
 Ví de nuevo el rostro de mi madre.
 Era una noche que parecía haber escindido
@@ -13904,7 +13900,7 @@ a la evaporación de una pequeña
 taza de café matinal,
 a un cabello.
 
-## ELOÍSA LEZAMA LIMA
+## ELOÍSA LEZAMA LIMA {.verse}
 
 Una sonrisa que no termina.
 Una sonrisa que sabe terminar admirablemente.
@@ -13920,7 +13916,7 @@ y el rocío queda como la arena tibia del recuerdo.
 Ofrecerá así siempre la sencillez compleja de la risa
 y el acuoso laberinto de su mano en el sueño.
 
-## OIGO HABLAR
+## OIGO HABLAR {.verse}
 
 Oigo hablar a un pájaro moteado:
 cuacuá.
@@ -13959,7 +13955,7 @@ y dejaba caer una gota
 hidrocéfala con los ojos sangrantes:
 cuacuá.
 
-## UNA FRAGATA, CON LAS VELAS DESPLEGADAS, GIRA GOLPEADA POR LA TEMPESTAD, HASTA INSERTARSE EN UN CÍRCULO TRANSPARENTE, AZUL INALTERABLE, EN EL LENTO CUADRICULADO# DE UN PRISMÁTICO
+## UNA FRAGATA, CON LAS VELAS DESPLEGADAS, GIRA GOLPEADA POR LA TEMPESTAD, HASTA INSERTARSE EN UN CÍRCULO TRANSPARENTE, AZUL INALTERABLE, EN EL LENTO CUADRICULADO DE UN PRISMÁTICO
 
 Las velas se vuelven
 picoteadas por un dogo de niebla.
@@ -14008,7 +14004,7 @@ comienza de nuevo su combate sin saciarse,
 entre el dogo de nieblas y la blancura
 desesperadamente sucesiva del oleaje.
 
-## PALABRAS MÁS LEJANAS
+## PALABRAS MÁS LEJANAS {.verse}
 
 La mañana suda una palabra,
 apesadumbrada desaparece,
@@ -14027,7 +14023,7 @@ Desaparece como una ardilla
 en la medianoche de la otra esquina
 recién apagada.
 
-## SE DESPRENDIÓ
+## SE DESPRENDIÓ {.verse}
 
 Se desprendió el humor de la patata,
 reía en la profundidad del saco
@@ -14057,7 +14053,7 @@ la reluciente cantinam diamante al mediodía,
 y nuestro sudor que mira el dorado
 que va proclamando la saliva pretenciosa.
 
-## EL SUPLENTE
+## EL SUPLENTE {.verse}
 
 Vendrá el suplente en agua a conversar.
 Se dirigirá hacia el norte donde tejen,
@@ -14077,7 +14073,7 @@ No se saludarán al valsar los largos corredores,
 pero se embriagarán con los mismos escanciadores.
 Ya llega el otro suplente para tirar del rabo de la puerca.
 
-## EL CUELLO
+## EL CUELLO {.verse}
 
 El cuello de la botella,
 incitación arco iris,
@@ -14108,7 +14104,7 @@ un tercio de año en la humedad de la cueva,
 un esqueleto, un molino, las bodas:
 el barroco carcelario.
 
-## ME HACE PROPENSO
+## ME HACE PROPENSO {.verse}
 
 El ramo de espárragos intacto, ondula
 apretando la carne del anón,
@@ -14137,7 +14133,7 @@ Esa blancura
 me hace propenso
 como si todos fuesen otros.
 
-## ATRAVIESAN LA NOCHE
+## ATRAVIESAN LA NOCHE {.verse}
 
 
 En la medianoche un pisicorre,
@@ -14184,7 +14180,7 @@ y señaló con el índice.
 Y el cacareo
 en el ascua del cigarro.
 
-## AQUÍ LLEGAMOS
+## AQUÍ LLEGAMOS {.verse}
 
 Aquí llegamos, aquí no veníamos,
 fijo la nebulosa,
@@ -14212,7 +14208,7 @@ pero suelta de pronto sus cohetes
 y nos quedamos ciegos,
 mientras nos palmotean las espaldas.
 
-## DISCORDIAS
+## DISCORDIAS {.verse}
 
 
 De la contradicción de las contradicciones,
@@ -14260,7 +14256,7 @@ la contradicción de la poesía,
 borra las letras y después respíralas
 al amanecer cuando la luz te borra.
 
-## EL PEZ Y LOS OJOS
+## EL PEZ Y LOS OJOS {.verse}
 
 Los ojos, como un dedo que restriega,
 repasan las escamas coloreadas,
@@ -14300,7 +14296,7 @@ los dos ojos. Sumergido fluye,
 flecha silenciosa o pez semidormido,
 el demonio del mediodía.
 
-## EL ASCENSO
+## EL ASCENSO {.verse}
 
 La escalera del árbol
 y el árbol de la casa,
@@ -14330,7 +14326,7 @@ La escala atraviesa del desván cabeceante.
 Allí un trueno atestigua el brazo
 y los peldaños son la línea del horizonte.
 
-## MI ESPOSA MARÍA LUISA
+## MI ESPOSA MARÍA LUISA {.verse}
 
 
 En la azotea conversable,
@@ -14378,7 +14374,7 @@ Contigo la muerte fue anterior
 y efímera y la vida prevalece
 por amor de su nombre.
 
-## ANTONIO Y CLEOPATRA
+## ANTONIO Y CLEOPATRA {.verse}
 
 Las galeras, brazos
 cruzados sobre la serpiente
@@ -14426,7 +14422,7 @@ mueve de nuevo la sierpe, allí
 el pezón se reconstruye.
 Vean la cochinilla caminando la lechuga.
 
-## JE DIT: UNE FLEUR
+## JE DIT: UNE FLEUR {.verse}
 
 (Para Chantal Triana Dumaine)
 
@@ -14448,7 +14444,7 @@ la pregunta sonreída.
 Pañuelo en punta de pies,
 digo Chantalit precieuse.
 
-## ENEMIGOS
+## ENEMIGOS {.verse}
 
 Entremezclados el furor y el delirio,
 van a romper su oscura clara de huevo,
@@ -14468,9 +14464,9 @@ El furor y el delirio, cada uno va a buscar su caballo.
 Tiene que dividirlo la agujeta del rayo
 y unirlo el trueno que los borre.
 
-## AGUA OSCURA
+## AGUA OSCURA 
 
-### I
+### I {.verse}
 
 La oscuridad desemboca
 más allá de su morrión,
@@ -14483,7 +14479,7 @@ traza un pavón auroral,
 los designios del coral
 y los perplejos del juego.
 
-### II
+### II {.verse}
 
 Agua tersa va muriendo
 en los juncales del río,
@@ -14496,7 +14492,7 @@ sin estorbo y sin sonrisa,
 cuando la toronja avisa
 una mañana con Dios.
 
-### III
+### III {.verse}
 
 Prepara los contragolpes,
 el vino y los borbotones,
@@ -14509,7 +14505,7 @@ al romperse la campana
 en tropel de filigrana
 y en badajo que desbarra.
 
-### IV
+### IV {.verse}
 
 Llegan consejos, suspiros
 de un andar de medianoche,
@@ -14522,7 +14518,7 @@ de astros en sus chirimías.
 Tamañas algarabías
 y un cielo de podredumbre.
 
-## V
+### V {.verse}
 
 Al despertar el confín
 media aurora y media granja,
@@ -14535,7 +14531,7 @@ de playa y de horizonte,
 como si creciera el monte
 hinchado por la canción.
 
-## VI
+### VI {.verse}
 
 En el hotel se inmiscuye
 el patio con algarrobo,
@@ -14548,7 +14544,7 @@ brinca como un tornasol.
 Guadarropía del sol
 con el plumaje de Leda.
 
-## VII
+### VII {.verse}
 
 Con la vejiga nadante
 digo la respiración,
@@ -14562,7 +14558,7 @@ en la mañana escondido,
 y así entona sumergido
 el ojo del lampadario.
 
-## VIII
+### VIII {.verse}
 
 El brillo, el metal, aurora
 que vuelve al metal hervor
@@ -14575,7 +14571,7 @@ Es la función del anzuelo,
 tirar un pescado al cielo,
 llenar de azul la distancia.
 
-### IX
+### IX {.verse}
 
 Miro al través de una reja
 una luz que se bifurca,
@@ -14588,7 +14584,7 @@ con figurillas de cera,
 un buen olor nos espera,
 ya se fueron los mil diablos.
 
-## X
+### X {.verse}
 
 Músico sin instrumento,
 girasol sin rumbo al sol,
@@ -14602,7 +14598,7 @@ ver un cielo en la bombilla.
 Gracias de la cochinilla
 en un pezón al revés.
 
-## XI
+### XI {.verse}
 
 El patio del corralón
 baila tijeras inciertas,
@@ -14615,7 +14611,7 @@ Como un atlas de lo informe,
 la noche entera deforme
 y el rezo de los Dioscuros.
 
-## XII
+### XII {.verse}
 
 Existe aquí un doblaje,
 el tesón del brazo duro
@@ -14628,7 +14624,7 @@ el choque de verbo y aire,
 como la pluma al desgaire
 hace imposible mentir.
 
-## XIII
+### XIII {.verse}
 
 Canoro y métrico coro
 en los puntales del día,
@@ -14641,7 +14637,7 @@ cubre seda al calamar,
 trenzando al fondo del mar,
 peluquín sobre una silla.
 
-## XIV
+### XIV {.verse}
 
 Alrededor de una paila,
 un tridente sacamuelas
@@ -14654,7 +14650,7 @@ este gnomo y este arquero
 tiran sobre un minutero
 que a sí mismo se hace daño.
 
-## XV
+### XV {.verse}
 
 La mentira se rompió,
 una parte voló al cielo
@@ -14667,7 +14663,7 @@ la mentira fue forrada
 y ahora yace arrebolada
 en los discursos del río.
 
-## XVI
+### XVI {.verse}
 
 Viruta de platabanda
 las alas del pectoral,
@@ -14680,7 +14676,7 @@ fuera de toda condena,
 sigue como un alma en pena
 la más triste bacanal.
 
-## XVII
+### XVII {.verse}
 
 En la roca desespera,
 
@@ -14694,7 +14690,7 @@ y quitasol de cipango.
 Con pasos lentos de tango
 el ciclón en los maizales.
 
-## XVIII
+### XVIII {.verse}
 
 La voz se rompió el alcor
 solitario se perdió,
@@ -14707,7 +14703,7 @@ un extraño caminante
 que se acercó tan gigante
 y en lo blanco fue hundido.
 
-## XIX
+### XIX {.verse}
 
 Borrando la comprensión
 de una alegre juglaría,
@@ -14720,7 +14716,7 @@ cerca del césped fruncido
 y va quedando dormido
 en la noche de la pira.
 
-## XX
+### XX {.verse}
 
 Un chispazo mineral
 separa las dos alcobas,
@@ -14734,7 +14730,7 @@ donde sonríe el acuario
 la teoría de un planetario
 que el fuego callado exhala.
 
-## XXI
+### XXI {.verse}
 
 El dueño de la corneta,
 el infante bien nacido,
@@ -14747,7 +14743,7 @@ que en espirales se pierde.
 Aviva la sangre al verde
 desde el matiz hasta el fondo.
 
-## XXII
+### XXII {.verse}
 
 Rompiendo la donosura
 y acabando con la iguana,
@@ -14760,7 +14756,7 @@ que siguen astro por astro,
 ya van recreando el rastro,
 pegando en la cola al viento.
 
-## XXIII
+### XXIII {.verse}
 
 Une la casa cercana
 con el lejos de la ola,
@@ -14774,7 +14770,7 @@ quedando en placa de cobre
 
 el maullido de un gato.
 
-## XXIV
+### XXIV {.verse}
 
 Viene la noche irónica
 con remedos de botín,
@@ -14787,7 +14783,7 @@ Al penetrar con su lanza,
 como una esperanza parva
 al ciego de bienandanza.
 
-## AMANECER EN VIÑALES
+## AMANECER EN VIÑALES {.verse}
 
 Ya el tatuaje de un pescado
 o los castigos de un yes
@@ -14868,10 +14864,10 @@ y el filósofo Sang Fo.
 Un palmeral es su yo,
 y otra vez la eternidad.
 
-## RETROCEDER
+## RETROCEDER {.verse}
 
 
-### I
+### I {.verse}
 
 Retrocedo hasta el borde de la piedra,
 donde termina con ojos prestados
@@ -14899,7 +14895,7 @@ Se detiene, se esconde un cangrejo gigante.
 Es la misma mesa con la piedra.
 La piedra que inaugura su respiración en la esquina.
 
-### II
+### II {.verse}
 
 La cornamenta difusa
 suda tinta, la tinta escrituraria
@@ -14930,7 +14926,7 @@ van dejando caer una gota sobre la flor decapitada.
 Retrocedemos para guardar esa gota
 Retrocedemos para guardar la camiseta.
 
-### III
+### III {.verse}
 
 ¿Qué encontraremos en aquel confin?
 Allí donde las moscas desprecian
@@ -14957,7 +14953,7 @@ la respiración primaveral de la almeja.Una
 muchedumbre silenciosa se apeó de sus caballos ciegos.
 El rey Arturo besa la serpiente.
 
-## VIRGILIO PIÑERA CUMPLE 60 AÑOS
+## VIRGILIO PIÑERA CUMPLE 60 AÑOS {.verse}
 
 Como un pistoletazo en el violáceo azufre
 los ángeles pactan con los demonios,
@@ -14996,9 +14992,9 @@ Sobre un tablón,
 jugando lo terrible,
 el bien y la ausencia.
 
-## DOBLE NOCHE
+## DOBLE NOCHE 
 
-### I
+### I {.verse}
 
 La noche no logra terminar,
 malhumorada permanece,
@@ -15018,7 +15014,7 @@ pero ha tenido tiempo para tapar
 el agujero. Hace trampa
 y esconde de nuevo a la noche.
 
-### II
+### II {.verse}
 
 Entré en el cuarto,
 no me decidí a encender la luz.
@@ -15041,7 +15037,7 @@ golpeando las almohadas con los puños.
 El gato absorto y lentísimo
 comenzó de nuevo a esconder la noche.
 
-## LOS FRAGMENTOS DE LA NOCHE
+## LOS FRAGMENTOS DE LA NOCHE {.verse}
 
 Cómo aislar los fragmentos de la noche
 para apretar algo con las manos,
@@ -15111,7 +15107,7 @@ que arañaba mis brazos
 con palillos de aguarrás.
 Riéndose, repartía por mi rostro grandes cicatrices.
 
-## LAS BARBAS DE UN REY
+## LAS BARBAS DE UN REY {.verse}
 
 ¿Las puertas? Las barbas de un rey gótico
 que preside la caída de una piedra.
@@ -15127,7 +15123,7 @@ se aproxima a una fiesta campestre finlandesa.
 ¿Entramos? Yo tiro de tus brazos.
 ¿Salimos? Saltan los ojos mortales de un mineral.
 
-## LO QUE NO TE NOMBRA
+## LO QUE NO TE NOMBRA {.verse}
 
 Buscando la tesitura
 de una fiesta que no llega,
@@ -15140,7 +15136,7 @@ a un montón de breve sombra.
 Si es lo que no te nombra
 es la estrella que se escombra.
 
-## LAS SIETE ALEGORÍAS
+## LAS SIETE ALEGORÍAS {.verse}
 
 La primera alegoría
 es el puerco con los dientes de estrellas,
@@ -15235,7 +15231,7 @@ comienza el frenesí de las danzas corales.
 La ciudad bailando
 en el desfile de las antorchas fálicas.
 
-## ESTOY
+## ESTOY {.verse}
 
 Estoy en la primera esquina de la mañana,
 miro a todas partes y comprendo que no es la nada
@@ -15289,7 +15285,7 @@ La nada como espina de un cuerpo desconocido.
 Lo sorprendí, también hundía las espinas
 de pescado en los bolsillos hundidos.
 
-## VI
+## VI {.verse}
 
 Vi lo que no vi,
 pero ¿el ojo?
@@ -15350,7 +15346,7 @@ Vi lo que no vi,
 pero ¿el ojo?
 Precisó.
 
-## EL ESPERADO
+## EL ESPERADO {.verse}
 
 _(Para José Rey de la Torre)_
 
@@ -15410,7 +15406,7 @@ Nada era fantasmal ni borroso,
 cada vihuela era reconocida
 como el sonido del timbre del amigo que llegaba.
 
-## NÚMEROS TRENZADOS
+## NÚMEROS TRENZADOS {.verse}
 
 Números trenzados nube tras nube.
 El rehilete que traza círculos
@@ -15465,7 +15461,7 @@ En el bostezo, nubes
 y números de nubes,
 de confín en confín.
 
-## DOS FAMILIAS
+## DOS FAMILIAS {.verse}
 
 Su padre, un "diplomático de carrera",
 como él decía para diferenciarse
@@ -15600,7 +15596,7 @@ que la vida consiste en dormir
 envuelta en la carne de las hojas de tabaco,
 en la evaporación universal.
 
-## EL ABRAZO
+## EL ABRAZO {.verse}
 
 Los dos cuerpos
 avanzan, después de romper el espejo
@@ -15680,7 +15676,7 @@ el rabo del canguro
 y la serpiente marina,
 se enredan y crujen en el casquete boreal.
 
-## UN APETITO
+## UN APETITO {.verse}
 
 Un apetito que se queda
 en el desmesuramiento de la boca.
@@ -15777,7 +15773,7 @@ que comenzaban por dar tropezones con las raíces
 mascadas por el frío de las hormigas.
 Saludamos entonces con el tricornio del caracol.
 
-## UNIVERSALIDAD DEL ROCE
+## UNIVERSALIDAD DEL ROCE {.verse}
 
 La universalidad del roce,
 del frotamiento, del coito de la lluvia
@@ -15813,7 +15809,7 @@ de piel shakeasperiana y estrellada,
 ni una marta de ojos fosforescentes.
 Engendran el gato volante.
 
-## ESPERAR LA AUSENCIA
+## ESPERAR LA AUSENCIA {.verse}
 
 Estar en la noche
 esperando una visita,
@@ -15846,7 +15842,7 @@ que chisporrotean sobre el jarrón
 de la abuela,
 huyendo del cenicero.
 
-## CABRA Y QUERUBE
+## CABRA Y QUERUBE {.verse}
 
 Truhán espadachín la sensación
 araña la perdiz en remolino,
@@ -15872,7 +15868,7 @@ si es cielo o roca marina, si desnuda
 se metamorfosea en la cabra más lanuda
 o en los sonsos fondillos de un querube.
 
-## UNA BATALLA CHINA
+## UNA BATALLA CHINA {.verse}
 
 Separados por la colina ondulante
 dos ejércitos enmascarados
@@ -15894,7 +15890,7 @@ su cuerpo con la fugacidad del río.
 El otro fue vencido por un inmenso desierto somnoliento.
 Su jefe rinde su espada con orgullo.
 
-## CONSEJOS DEL CICLÓN
+## CONSEJOS DEL CICLÓN {.verse}
 
 Cuando el negro come melocotón
 tiene los ojos azules.
@@ -15921,7 +15917,7 @@ la nieve humea gotas de sangre,
 la cabaña rueda por la ladera.
 El ciclón es un ojo con alas.
 
-## NACIMIENTO DEL DÍA
+## NACIMIENTO DEL DÍA {.verse}
 
 Su casa era el espacio de la mañana,
 la geometrización era impía.
@@ -16147,7 +16143,7 @@ Brisas que tenéis el secreto de los dos oleajes,
 el escalofrío del rocío en la piel de la anémona
 y el desprendimiento del cuerpo de otro cuerpo clavado.
 
-## LOS DIOSES
+## LOS DIOSES {.verse}
 
 Vasavadatta siente
 todas sus oquedades atravesadas por flechas.
@@ -16417,7 +16413,7 @@ Siento que nado dormio
 dentro de un tonel de vino.
 Nado con las dos manos amarradas.
 
-## FABULILLA DE DÁNAE
+## FABULILLA DE DÁNAE {.verse}
 
 El omnipotente dios de la semilla
 escondido entre la tierra
@@ -16441,7 +16437,7 @@ podemos ver en una plaza de Florencia
 el gracioso Perseo,
 hijo de Júpiter oculto en una gota.
 
-## MAÑANA SÁBADO
+## MAÑANA SÁBADO {.verse}
 
 > (Leyendo La Bruja, de Michelet)
 
@@ -16543,7 +16539,7 @@ Con velocidad suma
 hacia el cesto
 en parábola de pluma.
 
-## LA ESCALERA Y LA HORMIGA
+## LA ESCALERA Y LA HORMIGA {.verse}
 
 En la medianoche
 la hormiga desciende por la escalera del hotel.
@@ -16576,7 +16572,7 @@ a un latón verde
 con la corona inglesa
 raspada por los dos leopardos.
 
-## LO INAUDIBLE
+## LO INAUDIBLE {.verse}
 
 Es inaudible,
 no podremos saber si las hojas
@@ -16605,7 +16601,7 @@ debajo del sonido facetado del espejo.
 La casa recuperó su movilidad
 y comenzó de nuevo a navegar.
 
-## MARÍA ZAMBRANO
+## MARÍA ZAMBRANO {.verse}
 
 María se nos ha hecho tan transparente
 que la vemos al mismo tiempo
@@ -16642,7 +16638,7 @@ Ella todavía puede despedirse
 abrazada con Araceli,
 pero siempre retorna como una luz temblorosa.
 
-## SERPIENTE Y PAÑUELO
+## SERPIENTE Y PAÑUELO {.verse}
 
 La serpiente
 buscó un pañuelo
@@ -16672,7 +16668,7 @@ Era ya el límite que no ondula,
 y el pañuelo y la serpiente
 comenzaban a zarandearse.
 
-## SOBRE UN GRABADO DE ALQUIMIA CHINA
+## SOBRE UN GRABADO DE ALQUIMIA CHINA {.verse}
 
 Debajo de la mesa
 se ven como tres puertas
@@ -16701,7 +16697,7 @@ A su derecha el hombre que contempla
 absorto al pesador,
 juega con unos pájaros.
 
-## LA CAJA
+## LA CAJA {.verse}
 
 Vive en una pequeña caja de acero
 con una mirilla que él sólo sabe utilizar.
@@ -16743,7 +16739,7 @@ y por la noche se asoma a la mirilla,
 pero sólo ve su chaleco reproducido
 por el ojo paleolítico del elefante.
 
-## VIEJA BALADA SURREALISTA
+## VIEJA BALADA SURREALISTA {.verse}
 
 Cuando el riachuelo se llena de coletazos
 de serpiente y el piano vuelto de espaldas
@@ -16772,7 +16768,7 @@ Cuando comenzaba a inflarse el buñuelo
 el charol chilló definitivamente
 y la canoa del jefe estaba llena de pedacitos de cristal
 
-## EL OJO QUE NO QUIERE VER
+## EL OJO QUE NO QUIERE VER {.verse}
 
 El ojo que no quiere ver minucioso,
 se entretiene con un pajarraco
@@ -16854,7 +16850,7 @@ prefiriendo ese juego a la pelota del circo.
 Las guedejas del guijarro, el cimbalón,
 aumentaban las constelaciones adheridas al ojo.
 
-## PONER EL DEDO
+## PONER EL DEDO {.verse}
 
 La cabeza que nos aprieta
 incesantemente el cuello
@@ -16913,7 +16909,7 @@ y lentas explosiones
 convidaban a dibujar al cabrito negro.
 Comenzaban los sacrificios.
 
-## BRILLARÁ
+## BRILLARÁ {.verse}
 
 Brillará el disco
 y no se sabrá su color final,
@@ -16946,7 +16942,7 @@ del tiempo al caos que lo borra.
 El zapato ya está sobre la silla
 y nos ponemos a temblar.
 
-## LA MUJER Y LA CASA
+## LA MUJER Y LA CASA {.verse}
 
 Hervías la leche
 y seguías las aromosas costumbres del café.
@@ -16975,7 +16971,7 @@ el firmamento roto
 en lanzas de mármol,
 se echaría sobre nosotros.
 
-## EL PABELLÓN DEL VACÍO
+## EL PABELLÓN DEL VACÍO {.verse}
 
 Voy con el tornillo
 preguntando en la pared,
@@ -17058,7 +17054,7 @@ evaporo el otro que sigue caminando.
 
 # OTROS POEMAS
 
-## POEMA
+## POEMA {.verse}
 
 Mi dolor no es el arco de la luna
 que mi espalda refleja ni la estrella desnuda
@@ -17115,7 +17111,7 @@ La noche marinera ni rapta el tiempo ni la muerte nos trae.
 Severo el fuego construyendo adormece
 al hombre y al ángel de la llave entregada.
 
-## PARA MIS DOS HERMANAS, QUE ME REGALARON UN PAR DE ZAPATOS
+## PARA MIS DOS HERMANAS, QUE ME REGALARON UN PAR DE ZAPATOS {.verse}
 
 Ahora mis ojos lo cercan
 y mis manos lo pueden recorrer, apretar.
@@ -17155,7 +17151,6 @@ y la crueldad que se rehúsa,
 pues las arrugas de esos zapatos parecen las carcajadas de un pescador viejo.
 La cama del mesón en la aldea,
 que guarda en su centro el par de zapatos,
-
 mientras el sueño sale como una guadaña
 para degollar a los espantapájaros.
 El par de zapatos del hombre que se cortó
@@ -17199,7 +17194,6 @@ el Tercer Rey fundador con su hocico de buey,
 y sobre su cabeza de diorita egipcia, el Gavilán!
 Los pasos, los verdaderos pasos en la espalda
 del cielo, el eco de cada paso,
-
 es una medida que se prolonga en una huella,
 y en una penetración que nos regala
 la ceguera de la marcha.
@@ -17220,7 +17214,7 @@ que retroceden de la sala al comedor. Miro mis zapatos, estoy tan
 alegre como cuando veíamos extenderse la fila de árboles del Prado al día
 siguiente de un ras de mar.
 
-## RETRATO DE JOSÉ CEMÍ
+## RETRATO DE JOSÉ CEMÍ {.verse}
 
 No libró ningún combate, pues jadear
 fue la costumbre establecida entre su hálito
@@ -17247,7 +17241,7 @@ lo comprendió después calmosamente.
 Es en lo que cree, está donde conoce,
 entre una columna de aire y la piedra del sacrificio.
 
-## LA CASA DEL ALIBI
+## LA CASA DEL ALIBI {.verse}
 
 Respondedme, ¿está reciente, recién sacudida y recién nacida la casa del alibi?
 
