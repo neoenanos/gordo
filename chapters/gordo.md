@@ -215,7 +215,6 @@ suplicio de alfombra muerta.
 
 El girasol avisado
 envía su sangre al río.
-
 Sí por girasol tan girado
 fácilmente el sí envío.
 Se adelanta en el vaivén del estío
@@ -361,7 +360,6 @@ Ahora sí que todos estamos comprometidos
 con el aire.
 Mira qué aire y aire liso.
 Aire de pedernal.
-
 Aterido recuerdo en el aire sin frente.
 Olas de ciega acampan
 inexorables en el aire.
@@ -1098,7 +1096,6 @@ y los más lentos trineos.
 
 No era que ya el ritmo
 del almendro fuera cítara al sonido.
-
 Por mi lado pasaba,
 sin saberlo,
 una escala de arenas
@@ -1954,7 +1951,6 @@ Los peces de noche no dejarán pasar ningún navío,
 cazadoras agujas con sus lunas.
 Cuando vendan peces las doncellas
 se llegarán a oprimir en las puertas
-
 si han abandonado la idea de saber la hora por los encogimientos
 de las arenas, por los pasos que formarán el sentido
 de creer que la unidad mojada en vino sanguinoso
@@ -2096,7 +2092,6 @@ como el agua que sacada del río de los dioses viene a morir
 en agua verde de fábula y de diosas abandonadas al doblar la esquina.
 Se te quemaron las manos. No tenemos agua ni ganas de olvidar.
 Ni ganas de amar si el aire no es agradable.
-
 Si no es agradable la mirada del gato incendiado.
 La rosa en su charolada simetría de metal nuevo muy despierto,
 mientras la linterna se arrastra por el desierto.
@@ -2166,7 +2161,6 @@ puede separar la aguja de la amistad de los espejos mal llorados.
 
 Oh los bordes tan negros para las manos que se perderán en el río,
 que no podrán reconstruir la estatua de la mujer apagada
-
 por las prisas de la mandolina sumergida hasta el talle del clavel,
 errante en un mercado de matemáticos japoneses.
 
@@ -2389,7 +2383,6 @@ San Juan no tiembla, apenas mira, pero dice:
 Haced en este sitio una pequeña iglesia católica.
 
 ### SUMA DE SECRETOS {.verse}
-
 
 Pisa Rocío y el Deseo Pálido
 en la morada de los dioses líquidos
@@ -2645,8 +2638,7 @@ relamida, ave llama, gualda,
 ave mojada, brevemente mecida.
 Jardines de laca limitados
 por el cielo que pinta
-lo que la mano dulcemente borra.
-
+lo que la mano dulcemente borra
 Noble medida del tiempo acariciado.
 En su son durmiente las horas revolaban
 y palomas y arenas lo cubrían.
@@ -2765,7 +2757,6 @@ Las rosas carolingias crecidas al borde de una varilla irregular.
 El cono de agua que las mulas enterradas en mi jardín
 abren en la cuarta parte de la medianoche
 que el puente quiere hacer su pertenencia exquisita.
-
 Las manecillas de ídolos viejos, el ajenjo mezclado con el rapto
 de las aves más altas, que reblanceden la parte del puente
 que se apoya sobre el cemento aguado, casi medusario.
@@ -3038,7 +3029,6 @@ y deja los colores inferiores del ropero o del lagarto.
 La humedad raspada por el tiempo
 en los seres recobra su polvo de alfiler,
 que la recorren como la avenida
-
 por donde pasan los ancianos de polvos de arroz,
 de sutiles abortos, los que llevan una caja
 con el sombrero viejo,
@@ -3259,7 +3249,6 @@ cerrado suena.
 ¿Confiado escucha?
 
 ## CULEBRINAS {.verse}
-
 
 Las culebrinas de la hechicería han llegado hasta el país de los Vascos.
 El magistrado Lancré, severo, enviado de Castilla, sentado en la tinta de su memorial.
@@ -3499,7 +3488,6 @@ instintos son gatunos. No se puede comprobar como un gato aunque la
 persecución no se inició en un tejado ni el puño escondía la bola sedosa de un
 laberinto. Llegaron hasta los límites del bosque, ninguna brigada vislumbraba. El
 animal que raspa la espina dorsal y el que mira y no salta, se han constituido en
-
 Gran Armada de devoradoras humaredas. No se sienten unas aguas pausadas,
 que ruedan, que podrían separarlos para que cada uno hincara su destino. El
 círculo se rompe porque el de la espina puede saltar.
@@ -3543,7 +3531,6 @@ cuerpo se pierde en un vacío momentáneo. Pero otro cuerpo que ha traspasado la
 resistencia del tronco de la palma penetra insaciablemente. Aquel centro
 desmesurado ha servido para formar una nueva defensa voluptuosa; el círculo se
 ha roto para favorecer la penetración del que no puede saltar, pero puede
-
 penetrar la humedad resistiendo en el tronco de las palmas, el hocico fino, de
 fiebre escamosa que mira la cultura marina raspando la espina dorsal aplastada
 en los paredones. Un gruñido continúa apuntalando al que no puede saltar.
@@ -3981,7 +3968,6 @@ Pues bien, te suelto. Y así seguimos.
 
 ### POEMA {.verse}
 
-
 #### I {.verse}
 
 La seda amarilla que él no elabora
@@ -4231,7 +4217,6 @@ que nuestras narices lanzan un aire sutil.
 Como sueñan humillarnos,
 repitiendo día y noche con el ritmo de la tortuga
 que oculta el tiempo en su espaldar:
-
 ustedes no decidieron que el ser habitase en el hombre;
 vuestro Dios es la luna
 contemplando como una balaustrada
@@ -4318,7 +4303,6 @@ l'etranger nous demande le garçon maudit.
 El mismo almizclero conocía la entrada,
 el hilo de tres secretos
 se continuaba hasta llegar a la terraza
-
 sin ver el incendio del palacio grotesco.
 ¿Una puerta se derrumba porque el ebrio
 sin las botas puestas le abandona su sueño?
@@ -4704,7 +4688,6 @@ que paso es el paso del mulo en el abismo.
 La faja de Dios sigue sirviendo.
 Así cuando sólo no es chispas la caída
 sino una piedra que volteando
-
 arroja el sentido como pelado fuego
 que en la piedra deja sus mordidas intocables.
 Así contraída la faja, Dios lo quiere,
@@ -5503,7 +5486,6 @@ el gallo desprecia la aurora.
 El cartulario lee el secante al revés
 en el espejo de afeitar.
 Firmen todos a la vez, quiten las manos
-
 todos a la vez.
 La mosca duerme en el tazón, siguen los ceros
 de las firmas. Es el escoplo de granito.)
@@ -5547,7 +5529,6 @@ exige algo más que las herraduras de plata;
 y los ojos restregados en el follaje
 que se cuelga del caballo,
 del regreso, impidiendo que su estatua se coloque
-
 en el mismo sitio de donde partió.
 La madera de la puerta se va humedeciendo
 en aquella parte de su sustancia
@@ -5975,7 +5956,6 @@ Los címbalos querían decir la agudeza melancólica de la retirada,
 de un combate que había entrecortado su inicio
 y terminaba con los ropajes cosidos de monedas y corales,
 sobre los guerreros que ganaban la otra noche.
-
 Y el garzón del mirador muestra su estalactita:
 la suya vale diez céntimos.
 
@@ -6111,7 +6091,6 @@ Oh rufián de los estilos, más allá del saltamontes y el pisapapeles.
 Tú quisieras huir en los añicos del Dioscuro en la plazoleta,
 el estirado tergiversador precisó tu corrida inoportuna, la que destruye.
 Oh rufián de las empresas, la luz lo encubría y el antifaz
-
 sobre el rostro del inmóvil vigila la tortuga sitiada.
 Brisas del este, caminad graciosamente, como el gusano por el desierto,
 y llenad el vestido que sólo tocaba mientras se hacía el exterior remolino.
@@ -6155,7 +6134,6 @@ Cinco los dedos interpretan por el cuerpo el fingimiento de la entrega,
 su cautiverio en el éxtasis solo expresa su rescate secular.
 ¿Hay que disfrazarse de peluquero para bailar sus propias danzas?
 El espeso antifaz se unirá a la espesura de la noche.
-
 Necesito moverme en el baile hecho para otros,
 mi memoria precisa las danzas de mi nacimiento.
 Disfrazado pude asistir al baile después de la toma de la fortaleza,
@@ -6506,7 +6484,6 @@ la mano inquiere el armonio de inapreciable pequeñez
 y el vuelco de sus ojos y sanes,
 cae como la cascada que el esturión desaloja
 para enterrarse en el movimiento.
-
 Las evaporaciones de la médula somnífera
 le han revelado que un solo ideograma
 significa pelambre, pellejo, piel, despejar y desollar,
@@ -7641,7 +7618,6 @@ de ir recubriendo el ciruelo con la otra carne lunar,
 cuando vamos reclamando el hueco del almendro,
 el ramaje que nos indica la aleluya de la flor,
 si no la miel avanzando por el secreto de los pistilos
-
 y cristalizando enterrones para el goce en la glorieta
 de las montañas azules, que voltejean al viajero,
 y en el despertar de un número lo entreabren
@@ -7772,7 +7748,6 @@ y alzar en su pontifical lomo las consagraciones humosas.
 
 Los domeños y las pertenencias me obligaban a fruncir
 la herrumbrosa sangre, y el paisaje alfilereado
-
 en otro insecto de peluche con luna, pues su veloz laminado
 no era para el cayado barbando en la nieve.
 
@@ -7819,8 +7794,7 @@ del plátano, dejaban para los jinetes el rocío del sueño fálico.
 Después que en las arenas, sedosas pausas intermedias,
 entre lo irreal sumergido y el denso, irrechazable aparecido,
 se hizo el acuario métrico, y el ombligo terrenal
-superó el vicioso horizonte que confundía al hombre con la reproducción de los
-       árboles.
+superó el vicioso horizonte que confundía al hombre con la reproducción de los árboles.
 
 La prueba del desierto se llenaba de innumerables bueyes blancos,
 que conversaban con los que habían sacado el misterio de las aguas;
@@ -7893,7 +7867,6 @@ de gusado de seda, dulcero con la escobilla
 por la oreja. Suave oración
 silenciosa envolviendo el cuerpo en benjuí.
 Ah, que apaguen, a su timbre los cinco
-
 registros, aquí no llega el gusano escanciador,
 Ganimedes de entrepuente, laberinto de añil
 de la otra toalla, cierra cartero el bolsón
@@ -7937,7 +7910,6 @@ luna divierte el cosquilleo de los gendarmes.
 Su silbato iza el merengue de las braguetas,
 esperando los tiesos del panadero bromeando
 con el suicida, porque la americana se rubrica
-
 con el muro, para no regresar con los encajes
 verdes de Virginia y cumplimentar sus adoptivos
 deseos con el manjuarí.
@@ -8050,7 +8022,6 @@ es despreciable y es comestible.
 
 Se entrega el tejado frío
 al gato escarbando y no
-
 tiene ironía el río
 que de la flecha burló.
 Nieva el tejado la casa
@@ -8810,7 +8781,6 @@ los métricos deseos y las guerreras quejas.
 Cambia de nombre, pero no de progresión,
 nuevo engendro del gusano y la plácida araña.
 La arena reseca en fiebre el cordaje del son
-
 y en el caracol se hace música y se daña.
 
 Febo, efebo, Fos: que era del linaje del fuego,
@@ -9624,7 +9594,6 @@ La que cien ojos se hace río, la que cien silbos
 fríos de flauta se revisten de un flamante
 instrumento, puerta de clavos fríos también y penetrante
 al instrumento con sus mugidos adelgazados.
-
 Y nosotros mismos penetramos por nuestro soplo
 en cavidades de otras medida en el sueño,
 y también las herimos o despedazamos con brusquedad,
@@ -9668,7 +9637,6 @@ en la boca dura fregada por la tierra seca.
 La flota del vino desea que las aguas no la interpreten,
 que las algas salvajes le corroan el casco de planchas bolivianas
 y que su espolón caiga sobre el viejo puente que se hunde.
-
 La cepa y la elaboración caen apretadas en la bodega,
 donde los prófugos van reinventando detrás del privilegiado aro del tonel.
 El numen de la flota del aceite busca que el agua la nomine.,
@@ -9712,7 +9680,6 @@ de campana, entre las piernas, flor de la Casa de Borgoña.
 #### IX {.verse}
 
 Mi representación precisa objetos que la burlen;
-
 los contornos que no sean segunda naturaleza,
 objetos sin equivalencias formales.
 El lomo del gato recostado secularmente en la chimenea,
@@ -9756,7 +9723,6 @@ Tenía que acompañarlo en el nuevo tintineo
 de las monedas portuarias, cuando el relato
 es imposible en la tocada frialdad del cuerpo lunar.
 Por sorpresa el murmullo rodaba una moneda
-
 hasta el pañuelo atrapado del escucha relatos.
 Cuando llegaba a su monóculo para escarbar
 en el polvillo, de nuevo la señoría frotándose las manos.
@@ -9800,7 +9766,6 @@ donde se establece la mujer etrusca con su canasta
 de múrices. Después de los primeros gritos de recorrido,
 la tediosa fruta en su música cansada
 rastrea los metales que no están hechos para su carne.
-
 "Estoy oyéndolo, siga, volvió a decir."
 ¿Estarán buscando la cueva del pincel?
 ¿El aguardar del tosco dedal haciendo flor
@@ -9844,7 +9809,6 @@ y el movimiento pleamar, línea que apoya
 el cuerpo con su invisible reconocimiento, compañía
 del asombro que abandonamos y la aparición
 que raspa con su cordaje la sequedad.
-
 El asombro es una envoltura que cae, y atraviesa
 las dos nubes de su transfiguración, y la epifanía
 tiende a reconstruir su leve sobre los objetos,
@@ -9931,7 +9895,6 @@ La carpa bate el oscuro en torno del atrio toscano
 y la espera del fulgot reduce el lenguaje de las telas.
 El relámpago rastrilla el vaciado que el oscuro
 sarmentoso va comiendo, hasta detenerse
-
 en la piedra cocida con diminutas inscripciones
 venatorias y el tumultuoso nacimiento de los dados.
 
@@ -10061,8 +10024,7 @@ el cuerpo de la jarra se contrae para crecer,
 y el deleznable cuello semejante a la boca de la tambocha,
 reclama una esbelta longura para oír las brisas superiores.
 Es la materia la que reclama su excepción
-
-sel contrapunteo de los dedos está quieto en su humildad.
+del contrapunteo de los dedos está quieto en su humildad.
 Si la ruptura comienza por prescindir de la materia,
 el capricho se hace sucesivo y se regala en la proliferación.
 La resistencia de la materia tiene que ser desconocida
@@ -10146,7 +10108,6 @@ de arena y el cangrejo nos presiona con su tenaza
 de huesos, una energía se recorre por los círculos del hombre
 y aumenta su tonalidad comunicante, sus hilillos
 de radiaciones por el diafragma y el centro génito caudal.
-
 Cuando el hombre ha soportado que es más profundo
 el ámbito de la araña, tiene que recibir la otra
 injuria: la rana respira mejor que él,
@@ -10190,7 +10151,6 @@ al escribir la historia del resurrecto.
 En ese desconocimiento de lo situado entre las dos muertes,
 prefiere situarse antes de la resurrección.
 ¿El resurrecto se dispone a su otra muerte?
-
 El corcel sobre su detenimiento y el cordel tascado,
 no penetra en aquel reino donde transmite la voz
 con la llave del mercado.
@@ -10234,7 +10194,6 @@ la hoja en la urna sin lo oscuro que mantenían
 su levedad viajera y manumiso sin respirar.
 El sentido es el fruncimiento de la impulsión
 y en esa cacería gravita el relieve en los extendidos
-
 brazos de la visión, su lejos es el tamaño de penetrar,
 y en la erótica final tan voraz como el germen
 de consumación, se tiende el alimento para el caballo
@@ -10394,7 +10353,6 @@ agotado el fuego ríe la salamandra en su papada de amaranto.
 
 ¿Y cómo se hace esto, pues yo no conocía a la mujer?
 El vegetal consentía en ser escarbado por las uñas de la luz.
-
 La copa de los árboles recibió sel semen de la luz cognoscente
 y los dogmas de la luna brillaron sin pareja.
 No lo cubrió la mujer sino una sombra repleta.
@@ -10466,7 +10424,6 @@ Se ve ascender un hombre negro, está lleno de pelos.
 Tiene tres tatuajes: uno, en la piel; otro en la seda.
 El tercero, en un manto rojo, que es el que usa
 cuando porta un tintero negro.
-
 Abre el libro, repasa lo que llega y lo que se va.
 El sexo es la gruta marina del escorpión.
 
@@ -10510,7 +10467,6 @@ De nuevo la mujer bella, blanquísima.
 Se encuentra con un barco y su pecho
 está cosido a los barandales de estribor.
 Allí están la parentela y los amigos con vinajeras.
-
 Llora y nada hacia la tierra.
 Las dos piernas sobre dos pescados.
 
@@ -10691,7 +10647,6 @@ seguimos calculando la altura de la llama
 de ese murmullo y nos sentimos cerca de su frenético
 pasatiempo para ingurgitar el murmullo.
 Cuando el reflejo se fija o concluye en la posta
-
 que viene con sobrante lunar a pregunatr en la casa,
 salta mordido por la pimienta del remolino.
 El murmullo de aguas en la tapa afinca
@@ -10960,7 +10915,6 @@ Tres en esquinas resopladas. Una, en el uno de San Rafael.
 Ya decía el sofoco, la brasa que alumbra los juncales,
 el mamoncillo en piel de un rio mal entrado,
 el costillar juvenil con las bandas fúnebres del tafetán.
-
 Despertaba, saltaba a otra orquesta, como en un trapecio.
 
 Entre su amanecer y el sueño, la orquesta como un majá.
@@ -11089,7 +11043,6 @@ donde nuestro índice se hunde en los escondrijos de la luz?
 los deseos de conocerlo? ¿Estaban allí aguardando
 la entrega de la estatua frotada con lenguas infernales?
 Lo uno tiene que llegarnos como un bulto
-
 con el cual tropezamos, pues lo uno se acecha
 por exclusión; el tonel destripa la apretada
 masa líquida sin contracciones y la diorita
@@ -11177,7 +11130,6 @@ Estoy en un peldaño con cabina para seis fugados,
 y los estirados brazos del armador de Bombay,
 me trasladan anchamente por el retratado peldaño.
 Salto en los entreactos de la fuga a la escalera
-
 menor, donde ya desciendo sin temor
 de que los cinco faltantes de la cabina
 lleguen para pegarme con su coco frío
@@ -11264,7 +11216,6 @@ el sortilegio de pegar en las arenas para recorrer
 un árbol y musicar la levadura del cuerpo,
 cuando se hincha sumergido en la cueva con hachones cervatos.
 Los posesos, extraídos ahora de las dos ruedecillas
-
 inversas de las relojerías, aúllan, paseantes saltamontes
 burlándose de la guillotina y esperando el vientecillo
 ingenioso que les devuelva la testa y las sílabas poéticas.
@@ -11537,7 +11488,6 @@ con la cera y pestaña de la llave dormida en su quesero escondrijo.
 
 Lo avérnico entrevisto se deshace en el ventrudo testimonio, nubes
 no lectoras fijan en el espejo su destierro lloroso y olvidan su choza alpinista.
-
 La parida enarbola sus hachas contra la novedad estatuaria de la mutilación,
 pues el parimiento tiene lo invariable del tonel, clásicas visitas y ornamentos.
 La parida repasa sus incontables visitas y los regalos de dulces almenas,
@@ -11596,7 +11546,6 @@ en algodonosa marcha de guerreros.
 Es el bicorne, músico dios Pan,
 iguala la sangre con el vino,
 antes que la uva jurase por su estío
-
 y la vid trepase dirigida
 por las verídicas rodillas del gigante.
 Precursora la hoja del almendro
@@ -11683,7 +11632,6 @@ sudan el hierro. Los dedos adelgazados
 por la entrada y fuga dentro del aire,
 quedando los tejedores adormidos
 tan pronto el aire no sostiene el rostro.
-
 Los probadores de campanas
 que tienen que vivir junto a los ecos,
 o vivir la ascendente lejanía,
@@ -12012,7 +11960,6 @@ a todo ciñe, friolera nocturna, colchas,
 las rizadas colchas del naufragio.
 Sacude la mano dentro del río
 para entibiarlo, horqueta
-
 de perejil para Mamá Manatí
 y los curieles baldados.
 Al gunos murmuran que tiene cielo
@@ -12142,7 +12089,6 @@ no salgo y salgo, no salgo y llego
 al castillo ablandado donde me aprietan.
 Salgo y taconeo todos los platos
 de vajillas trifolias, mansos trilobitas
-
 golpean sus frentes en las vitrinas claustrales.
 El día que crece como una medalla
 de arena tocada por la resaca abuelita.
@@ -12223,7 +12169,6 @@ de terciopelo que entona como los rollos de una pianola.
 ### III {.verse}
 
 Sobre nuestra cabeza el anillo de los pájaros azules.
-
 Y cada evidencia una forma de maldición,
 graznando, extendiendo el ala sobre el acantilado,
 las formas banales del suspiro y las mediciones del tiempo.
@@ -12311,7 +12256,6 @@ Nadando voy por lo oscuro,
 abren valvas los moluscos
 en la noche acariciados,
 sin manos que reconozcan
-
 la ronda del carboncillo sin nombre.
 Las dos puertas del espejo,
 una, tiene la voz tan tapada,
@@ -12383,7 +12327,6 @@ Es un vaho que se dobla en las ventanas.
 Trae la carta funeral del ópalo.
 Trae el pañuelo de opopónax
 y agua quejumbrosa a la vista
-
 sin sentarse apenas, con muchos
 quédese, quédese,
 que se acercan para llorar en su sonido
@@ -12427,7 +12370,6 @@ escupían sobre el tazón que tú le llevabas a los cisnes.
 
 No respetaban que tú le habías encristalado la terraza
 y llevado el menguante de la liebre al espejo.
-
 Tus disfraces, como el almirante samurai,
 que tapó la escuadra enemiga con un abanico,
 o el monje que no sabe qué espera en El Escorial,
@@ -12515,7 +12457,6 @@ es nuestra franja de la muerte,
 tiene la misma hilacha de la manga
 verde oro del disfraz para morir,
 es el frío de todas nuestras manos.
-
 A pesar del frío de nuestra inicial timidez
 y del sorprendido en nuestro miedo final,
 llevaste nuestra luciérnaga verde al valle de Proserpina.
@@ -12770,7 +12711,6 @@ guarda el jabón resbalante de la luna
 y la poliandria en ceniza de alfileres.
 En su fase saturniana,
 el pepino en herrumbrosa ratonera
-
 ni siquiera es una naturaleza muerta
 del seráfico Sánchez Cotán.
 Un rostro sobre un rostro, ardiendo el toronjal.
@@ -12963,7 +12903,6 @@ su silencioso combate de reflejos
 desdeña todo ultraje
 del nadador lanzado a la marina
 para moler harina fina.
-
 Lanzando el rostro en aguas del espejo
 interroga los cimbreantes
 trinos del colibrí y el ballenato.
@@ -13133,7 +13072,6 @@ las dos manos cruzadas sobre el pecho,
 las dos mamas como diamantes de serpiente
 unidas por el tercer pie de Tiresias.
 A caballo penetramos el espejo
-
 y el acero nos devuelve con cosquillas.
 Del espejo saltamos, miramos, nada reconocemos
 y el acero agranda la avutarda en carcajada.
@@ -13316,7 +13254,6 @@ La luceta en la cornucopia
 de flores y luces triangulares,
 parto del cangrejo estelar,
 ostenta el sobresalto de la pelota
-
 en el carbucnclo de su cuenca.
 Relaciona el ojo abierto en la luceta.
 La luz y su diversificado roto
@@ -13430,7 +13367,6 @@ luego recoge las sílabas como granos
 de maíz picoteados por el guineo.
 Cada grano de maíz
 asciende como una sílaba
-
 por la garganta del acordeón.
 Las flechas, cuando son pájaros,
 atraviesan las manos con anones,
@@ -13676,7 +13612,6 @@ y devolvía una caridad.
 Ligero como la respiración,
 era también paradojalmente palpable
 como un poliedro de cuarzo.
-
 Era la persona menos concupiscible que hemos conocido.
 
 Todos los días nos demostraba
@@ -13720,7 +13655,6 @@ que la esencia de los arquetipos platónicos
 está en la segregación del caracol:
 chupa tierra y suelta hilo.
 Nos dijo de nuevo
-
 cómo un rostro era el rostro y los rostros,
 cómo el árbol de Adonai
 era el bosque de Oberón,
@@ -14123,7 +14057,6 @@ como si todos fuesen otros.
 
 ## ATRAVIESAN LA NOCHE {.verse}
 
-
 En la medianoche un pisicorre,
 lleno de músicos,
 traquetea las viejas piedras,
@@ -14162,7 +14095,6 @@ creadoras como las pistolas
 de Montecristo y los bolsones
 espermáticos desinflados en el río.
 ¿El gallo?
-
 Abrió las piernas
 y señaló con el índice.
 Y el cacareo
@@ -14197,7 +14129,6 @@ y nos quedamos ciegos,
 mientras nos palmotean las espaldas.
 
 ## DISCORDIAS {.verse}
-
 
 De la contradicción de las contradicciones,
 la contradicción de la poesía,
@@ -14237,7 +14168,6 @@ indistinto como una proa fálica.
 Restriega los labios que dicen
 la orden de retirada.
 Estalla y los perros del trineo
-
 mascan las farolas en los árboles.
 De la contradicción de las contradicciones,
 la contradicción de la poesía,
@@ -14316,7 +14246,6 @@ y los peldaños son la línea del horizonte.
 
 ## MI ESPOSA MARÍA LUISA {.verse}
 
-
 En la azotea conversable,
 con riesgo de tu vida,
 lees la Biblia.
@@ -14355,7 +14284,6 @@ Así mido la nueva extensión,
 allí hay que caminar como un ciego.
 Con el cayado sorprendo
 la altura de la marea desconocida
-
 y palpo la esponja de entresueño
 para volver a la tierra.
 Contigo la muerte fue anterior
@@ -14403,7 +14331,6 @@ La galera se detiene, un golpe de címbalos
 en la embestida de cada ola.
 La serpiente salta a la toldilla de los músicos.
 Decimos galeras de seda
-
 y cerramos los ojos.
 La reminiscencia milenaria
 mueve de nuevo la sierpe, allí
@@ -14708,7 +14635,6 @@ separa las dos alcobas,
 como si al cubrir las ovas
 se derramase la sal
 burlando los rompeolas
-
 que bifurcan ola y ala
 en el centro de la sala
 donde sonríe el acuario
@@ -14752,7 +14678,6 @@ El retrato, un garabato,
 polémico caricato,
 se va destiñendo el sobre,
 quedando en placa de cobre
-
 el maullido de un gato.
 
 ### XXIV {.verse}
@@ -14809,7 +14734,6 @@ no hay lechuza ni embadurna,
 sí flautines, ruiseñores,
 collares de cundiamores,
 mosaicos de azul turquí.
-
 De San Antonio a Maisí
 Fierabrás traza su Eros,
 el chivo de los santeros
@@ -14851,7 +14775,6 @@ y otra vez la eternidad.
 
 ## RETROCEDER {.verse}
 
-
 ### I {.verse}
 
 Retrocedo hasta el borde de la piedra,
@@ -14890,7 +14813,6 @@ que envuelve los bultos al saltar
 de un barril a las losetas del suelo.
 La tinta los lleva a retroceder
 a los agujeros que se saltan
-
 y a un cansancio inapresable,
 que se escapa con grandes risotadas.
 Todo allí está roto, con soplos arenosos,
@@ -14933,8 +14855,7 @@ frente a la casa levantada por el humo.
 ¿Qué podía esperar? ¿Dónde apoyar
 siquiera un dedo en el polvo?
 Ya no podía retroceder más. Entonces sentí
-la respiración primaveral de la almeja.Una
-
+la respiración primaveral de la almeja. Una
 muchedumbre silenciosa se apeó de sus caballos ciegos.
 El rey Arturo besa la serpiente.
 
@@ -15018,7 +14939,6 @@ El otro seguía en su taburete,
 comenzó entonces como un debate ciceroniano
 en el senado romano,
 golpeando las almohadas con los puños.
-
 El gato absorto y lentísimo
 comenzó de nuevo a esconder la noche.
 
@@ -15161,7 +15081,6 @@ y con él penetra en las circunvoluciones de Júpiter.
 Saltan las aguas sopladas por la gran boca.
 De esa boca sale el espíritu que ordena
 la sucesión de las olas.
-
 Es la quinta alegoría,
 como otra cuerda de la guitarra.
 La alegoría del Agua Ígnea.
@@ -15255,7 +15174,6 @@ En la otra esquina se oyeron
 los pitazos de un tren.
 El tren penetró en su bolsillo,
 era una culebra de madera.
-
 Después el tren se colgó
 del farol de la esquina,
 tapado con el cuero del buey.
@@ -15372,7 +15290,6 @@ Fuimos pasando de nuevo a la casa.
 Nadie había faltado a la cita.
 El clavicémbalo con sus agudos de fuego
 nos convertía en momentáneas estatuas
-
 y después nos deshacía
 en un agua soterrada,
 haciéndonos reaparecer de nuevo
@@ -15484,7 +15401,6 @@ mientras el gato nos reconocía
 por los cordones de los zapatos.
 La "petit Louise" estudiaba el bachillerato,
 desde luego en un colegio
-
 de catorce sílabas racinianas.
 Su madre le daba vueltas a los dedos,
 se los cortaba con una tijera de plata,
@@ -15528,7 +15444,6 @@ y se miraba frente al espejo,
 se ponía un gran lazo rojo,
 como una mariposa de Pernambuco
 posada en sus cabellos.
-
 Se creía más francesa que Madame Du Deffand,
 la traductora de Newton,
 la amiga de Voltaire.
@@ -15572,7 +15487,6 @@ Su piquillo se hundía en el azucarado polen
 y parecía más vivo y coloreado
 cuanto más muerto.
 Allí aprendió la "petit Louise"
-
 que la muerte es un éxtasis,
 que la vida consiste en dormir
 envuelta en la carne de las hojas de tabaco,
@@ -15619,7 +15533,6 @@ como los ojos acabados de nacer,
 cuando comienzan su victoriosa aprobación.
 
 La mano no está ya en el otro hombro.
-
 Se establece otro puente
 que respaldan los cuerpos penetrantes.
 Ya los dos cuerpos desaparecen,
@@ -15742,7 +15655,6 @@ que temblaba en lo alto del árbol.
 en la clorofila que abominaba
 el antiguo círculo de la sangre?
 Fueron colocando la hormiga
-
 en la hoja y se quedaba dormida.
 Fueron resbalando el caracol
 por las raíces y se deshacía en arena.
@@ -15983,7 +15895,6 @@ La luna con su cántaro en el pecho de Venus,
 avinagrando el aguijón de Tauro.
 Allí la mujer blanquísima
 no cuidaba del fuego, por la mañana
-
 toda la casa le abría sus puertas al sol.
 Donde hervía el caldo de la vida
 el toro orinaba las constelaciones
@@ -16070,7 +15981,6 @@ La obsesión de trasnportar los montes,
 reliquias de la calcinación planetaria,
 de acariciar la anterior imagen sin el ojo,
 el que penetra la superficie interna desolada.
-
 La cal se rendía al barro que reanima,
 la cal y la arena enemistadas,
 la arena para el caliente pie rosado
@@ -16163,7 +16073,6 @@ Van a la nieve de la extensión,
 a la invariable línea del horizonte.
 Regresa el unicornio, los jinetes
 se perdieron al contemplar
-
 las flechas cubriendo los ojos,
 la boca y los labios balbuceando
 el aislamiento de las letras,
@@ -16251,7 +16160,6 @@ El libro de su victoria
 tiene las hojas calcinadas
 para que nadie conozca
 el secreto de la humillación final
-
 sino el aullido de la desolación,
 las circulares aves del destierro,
 la ciega paciencia de la muerte.
@@ -16359,7 +16267,7 @@ alazan sus caracolas retorcidas,
 ladean sus colas verdinegras
 donde un delfín brinca y estornuda.
 
-        ¿Y MI CUERPO?
+## ¿Y MI CUERPO? {.verse}
 
 Me acerco
 y no veo ninguna ventana.
@@ -17072,7 +16980,6 @@ sólo hay un rostro, una garganta, una luz renaciente.
 De la nevada testa el viento remoza los cabellos
 y cierzo de la muerte revierten los diamantes
 de la postrer mirada que se lleva el gran río.
-
 El coro de los guerreros afina sus pisadas
 y la muerte no grita en el tambor de las cabalgatas.
 
