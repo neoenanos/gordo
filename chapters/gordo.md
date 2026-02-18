@@ -84,7 +84,6 @@ que flechó la exacta hora.
 
 Papel en el agua va
 destrenzando su sigilo,
-
 se extiende, se acabará
 voluptuoso hilo a hilo,
 negándose se afirmará
@@ -1143,7 +1142,6 @@ Bajaba las escalas del poniente,
 y nadie la miraba.
 Pactaba en lentas hojas
 sus milagros,
-
 temprano redoradas.
 Y ahora pasa a nuestro lado
 y nos golpea
@@ -1285,7 +1283,6 @@ que la noche anterior había nombrado?
 
 Dulce reencuentro en tu luz anegado,
 como un ave penetra sin sonido en la tarde,
-
 o como aquella sombra que entre la hierba surge
 clamando por el nombre de esbeltos cuerpos duros.
 Su dureza es apenas una provocación a las avispas y a la luz,
@@ -1329,7 +1326,6 @@ de una columna o de una voz no esperada.
 
 En ese último lamento que era también el último
 confín a donde se acudía sin mirada y sin voz,
-
 empezaba el oleaje a desentumecer,
 y su última melodía, el recuerdo de un destierro
 no sufrido, de una nube no vista,
@@ -1415,7 +1411,6 @@ pira gimiendo, palabra que huye.
 
 Para caer de tu corona alzada
 los ángeles permanecen o se esconden,
-
 ya que tú oíste a la luz causada
 
 por el cordero que la luz descorre
@@ -1459,7 +1454,6 @@ sueño será el aroma y su sentido,
 hastío el aire que al jinete mueve.
 
 El árbol bajará dicción hermosa,
-
 la muerte dejará de ser sonido.
 Tu sombra hará la eternidad más breve.
 
@@ -2002,7 +1996,6 @@ son meras riquezas paradojales en el derretido discurso de los cisnes.
 Se habrán caído todas las manos
 como el jamás especial de los ríos,
 cuando la luna se fija para el duelo de los periodistas,
-
 como las abejas que recorren las estatuas
 y saben que tienen que ir a morir a un biombo.
 Su juego de abstracción aislará la rosa de la terraza,
@@ -2258,7 +2251,6 @@ el pez aún casi dormido y separado
 de la noche y su sombra bailadora.
 Allí en las flautas, la nueva maldición
 y la nueva ciudad del cuerpo airado,
-
 los puentes oscuros, donde animales de canela
 rompen en la noche colecciones de porcelana.
 Allí abierta la hora en que la flor
@@ -2437,7 +2429,6 @@ elásticas islas de sus poros,
 pasa el zumbido y su gotear de plata.
 Franjas zumbando su anunciación celeste.
 El dolor de la madera aisladora,
-
 su sueño de molusco acariciado.
 Las invisibles barcas somnolientas,
 menos pesadas que el paso de las nubes
@@ -2525,7 +2516,6 @@ o ironizando sus préstamos de gloria.
 
 El halcón que el agua no acorrala,
 extiende su amarillo helado,
-
 su rumor de pronto despertado
 como el rocío que borra las pisadas
 y agranda los signos manuales
@@ -2732,7 +2722,6 @@ un gran tiburón de plata,
 en verdad son tan sólo tres millones de hormigas
 que en un gran esfuerzo que las han herniado,
 pasan el tiburón de plata, a medianoche,
-
 por el puente, como si fuese otro rey destronado.
 
 Un puente, un gran puente, pero he ahí que no se le ve,
@@ -3340,7 +3329,6 @@ Su esencia es un embudo;
 su forma, el calcañar.
 
 Ya dentro, su saludo,
-
 escuece el hálito vital.
 Cangrejo linajudo
 le saca la raya al mar.
@@ -3468,7 +3456,6 @@ Vigila la gruta, y no entra. Mira incesantemente la copa de los árboles, y no s
 Despanzurra al oso hormiguero sobre las rocas y desprecia los peces imposibles
 que quieren subirse a los manglares. Con su collar, su mandíbula, vigila los
 caprichos del otro. En los cristales donde se columpia el halcón del alcohol,
-
 saltando de botella en botella, aunque no se le vea, se le niegue la mirada y el
 cuerpo desmemoriado afirme secamente que no hay ningún vitral que deje pasar
 la mirada y que si pasó y no saludó es que ha estado pasando inmemorialmente
@@ -3697,7 +3684,6 @@ y cae como cuerpo brusco sin asombro
 en la roca mantelada por helechos.
 Si muerta la medusa al navegar,
 fétida sombra la madera hundida,
-
 desea que el tiempo no le sirva
 el ave en la corriente muerta sin listones.
 Y así se pierden las últimas murientes azoteas
@@ -3741,7 +3727,6 @@ por donde aclama el mar el lilibeo.
 El creciente no pesa más porque los hombres asciendan.
 El caballero recurva sumándose al guijarro,
 en su bota se ahonda el agua
-
 de los escapados por el río hasta la existencia sumergida
 y en su bota ahora vive la longura de un petrel azul.
 ¿Mira él su fijeza, lo hace con gracia? ¿Se burla?
@@ -3785,7 +3770,6 @@ tan rápido que nuestro índice no pudo señalarlo
 ni hundirse hacia dentro en visión.
 Esa visión de la que salió el rostro,
 de la que sale después una manga con un arlequín tatuado, una araña sonrosada
-
 que se traga el humo, un humo coniforme
 que se puede clavar en el ropero napolitano, allí depositado el mentón
 hendido por una clavija de marfil.
@@ -3829,7 +3813,6 @@ fuese el humo en humus inmerso
 y en ser de hilero soplo sin presencia.
 
 Cae el vino alzado hasta la muerte,
-
 la escalera se prolonga si penetro
 en nuevo aparte de mi oscuro nuevo.
 
@@ -3921,7 +3904,6 @@ el tambor, como un hijo, redondea a su padre.
 
 En sus cenizas una fusta se dobla.
 El sueño, espesando, cierra sus muecas,
-
 como quien recibe un árbol se entona perdurable,
 
 para caer en un pecho nunca más recobrado.
@@ -3969,7 +3951,6 @@ forma el alambre que cabecea en su arder,
 seguido por ardillas que antes de su fuga
 dejan los lazos que no saben ahogar.
 En su turno de lentos cabeceos amoratados,
-
 la sucia naranja cera la jaula con sucios
 ángeles manchados por la sopa, no por la traición.
 Por alambres hasta el fin, los recovecos
@@ -4132,7 +4113,6 @@ suman un solo lamento.
 #### V {.verse}
 
 Caída la hoja miro,
-
 ya que tu olvido decrece
 la calidad del suspiro
 que firme en la voz se mece.
@@ -4295,7 +4275,6 @@ reventado en su lomo frotado
 con un almíbar que no es nunca el alquitrán.
 El caballo resbala por el musgo
 donde hay una mesa que exhibe las espuelas,
-
 pero la oreja erizada de la bestia no descifra.
 
 La calma con música traspiés
@@ -4638,7 +4617,6 @@ al borde preñado de la tierra.
 No crea, eso es tal vez decir:
 ¿No siente, no ama ni pregunta?
 El amor traído a la traición de alas sonrosadas,
-
 infantil en su oscura caracola.
 Su amor a los cuatro signos
 del desfiladero, a las sucesivas coronas
@@ -4801,7 +4779,6 @@ La sutil penetradora reconstruye fragmentos que no son pared o rostros:
 el Jerifalte desprendido, el ramo de naranjo tejido con escalerillas de hierro
 y las naranjas entreabiertas mostrando la cuna que mece al leopardo.
 La doncella que guarda el germen escogido ha cruzado el Bidasoa,
-
 se suma por la ventana, intercepta el esmalte lunar
 y el vacío hinchado por la escolopendra del timbre.
 La otra sucesiva berlina bajaba a los hombres de abrigos,
@@ -5431,7 +5408,6 @@ sólo sobre ti. Que no saliese
 el rompimiento de la criatura
 y que él fuese jefe del estado
 mayor del padre. Ridículo,
-
 ahora maldice el dardo que completaba.
 La rama siempre mojada lo nueve.
 Maldice a Joas con voz gangosa. Y emplaza
@@ -5957,7 +5933,6 @@ El combate toca entre dos pausas aladas
 y el sueño vuelve a retirar las alfombras donde parecía hilarse la muerte.
 Una sorpresa igual a un color frenético es desechada,
 los círculos guerreros están ansiosos de trocarse en espirales bailables,
-
 pues la suerte de una batalla desapareció con el alba primera.
 Los arcos en la mezcla de los pinos y esos dormidos militares,
 son pulsados por la participación en sus instantes dobles;
@@ -9913,7 +9888,6 @@ errante y reclamación incesante de la mano
 por el paño de abejas y campestre mecedora.
 Ahora el tiempo no resquebraja aquellas contracciones,
 sino sopla, borrando la tosca la tosca escultura del rebaño de renos,
-
 el agrupamiento de los helechos, sucesión de las manos
 hacia el remolino, truncado el remolino.
 "Estoy oyéndolo, siga, volvió a decir."
@@ -10001,7 +9975,6 @@ cosquilleo. Paso profundo de risa se redondea en mancha para borrarse.
 
 Si el salmón roza las heladas plumas, las risitas
 —confundidoras de barrios por el truhán de la luna—,
-
 mudan de antifaces y de antílopes, rodando
 por las puertas dobladas de los naufragios.
 Las comadres y las dinastías que fríen ajos,
@@ -10045,7 +10018,6 @@ de una pared; los colores del devenir marino por el este;
 de la cintura hasta la tierra llenará un confín,
 las grietas de la humedad y el engendro;
 la suerte de los rostros en la cuarta pared,
-
 mordiendo su ira particular el metal sin diferencias.
 La decoración tiene que ser hecha en una noche.
 Por la mañana alguien asomará la desnarigada cabeza
@@ -10664,7 +10636,6 @@ la barbarie del maduro no sube a lo alto de las colinas
 para saludar el retorno de los fronderos,
 soplándose la niebla;
 cuando desea rompe disfrazado la no particularidad,
-
 deseando su nombre más allá de sus deseos odia
 la doble imagen de los espatos, el abanico facetado
 de los cíclopes abejas, quieren la imagen
@@ -11033,7 +11004,6 @@ Un antifaz alado ahora lo transporta a las lágrimas compostelanas,
 y con el ritmo, que le imponen oscuro, le quita piedras a la sangre.
 
 Va descubriendo los ojos que se adormecen para él,
-
 la piel que suda para romper lo áspero del lagarto,
 que mira desde las piedras un siglo caido del planeta.
 El lagarto que separa las piedras pisadas por un caballo con tétano.
@@ -11251,7 +11221,6 @@ rompen también las jarras.
 
 Todo lo que no es demonio es monstruoso.
 La sutileza del demonio es tan alada como el ángel transparente,
-
 si el demonio es el que escoge en el momento de escoger,
 hasta que el águila se hace bicéfala y el lince engorda
 no se hacen audibles y cobran sus leyes naturales,
@@ -11339,7 +11308,6 @@ se emparejaron sin la interpolación de las aguas.
 El sobreabundante es el poseso que posee, muestra el sacramento
 encarnado y dual, dos a dos, prescinde de la vasija de seguir y se risota.
 El poseso es el que recibe esa sobreabundancia oscura e indual,
-
 alguien se posa en él y lo exacerba y lo comprueba.
 Esa sobreabundancia tiende al hombre y lo aúlla.
 El sobreabundante tiene la justicia metafórica, como el monarca
@@ -11461,7 +11429,6 @@ de una corteza ceñida en los dominicales obeliscos, pero para ser interpretados
 Los relatos del vagabundo se entonan en la húmeda lejanía del rústico
 amanecer, cuando los oscuros despreciadores del cumplimiento duermen la inmóvil clorofila.
 El vagabundo no saluda al campesino de rameados verdes y entresilbos,
-
 el campesino escucha al vagabundo hundiendo su bastón en el napolitan lagarto.
 
 La ociosa conspiración que transcurre entre vagabundos y campesinos,
@@ -11500,7 +11467,6 @@ El rostro que se desprenderá de nosotros para anclarse en el recuerdo,
 será el guante de nuestra indolencia paseando por las piezas de marfil.
 El rostro colocado entre dos máscaras y la jarra ascenderá sin perdón.
 Desde la lejanía de la mutilación a la fatal presencia de la indolencia,
-
 las artificiales máscaras moverán sus quijadas para reírse de la mutilación.
 Cuando se evapora la lejana mutilación, el noble florentino desea
 abismarse, y que la novedad no sea la mutilación de las estatuas,
@@ -11674,7 +11640,6 @@ neblinoso camina por las olas,
 donde el pez lo mira y lo devuelve
 círculo ya frío, pues la onda,
 navegante tumba le da incierta,
-
 cuerno hueco, rabo mustio.
 Había igualado su zampoña
 la sangre con el vino,
@@ -11824,7 +11789,6 @@ y el que se iba tuvo tiempo de oír: piérdete.
 ### V {.verse}
 
 Con la inopinada mariposa, oscuros trazos,
-
 un rápido norte le acomete las pestañas,
 una corriente de aire le aclara los brazos.
 No dejes la araña en el vitral, la dañas.
@@ -12092,7 +12056,6 @@ Me dicen siempre que no está.
 Había guardado un pulpo dentro de una redoma,
 hundiéndose le había dado clavo al centro
 en la verja de la ventana. Así, cuando se secó,
-
 tenía algo de araña y algo también de estrella de mar.
 pasó frente al relato,
 cállese dijo al rastrillar su fósforo.
@@ -12136,7 +12099,6 @@ perseguido por el frac del trombón de vara,
 feliz al salir de las termas,
 cisneando un vals vienés.
 Después de un día cabezón,
-
 picaflor en el agua del armadillo,
 sudando la montura para parir la siesta.
 
@@ -12722,7 +12684,6 @@ Sin pedirme consejo en una esquina,
 soy el aire soplado,
 en un cornetín de Navidad.
 Me puse en la fila de las langostas,
-
 pero ahora estoy en el tinajón tapado por la noche.
 Caramba, rodé desde el tejado
 y enseño el hociquillo con yerbajos
@@ -13226,7 +13187,6 @@ La cinta
 del aire todo lo machuca,
 todo lo convierte en hueso.
 Asciende en panal y frutas,
-
 en innumerables fiestas subterráneas.
 La luz también es secreto,
 anda sumergida,
@@ -13270,7 +13230,6 @@ Preparemos, el fuego trae.
 El tigre trepando por las piedras,
 ascendiendo, innumerables escenas fálicas,
 lianas, cabezas entrelazadas,
-
 y el niño absorto, pero pegando en las ancas.
 Tiaras y belfos caídos,
 pamelones y sorbetes napolitanos,
@@ -13314,7 +13273,6 @@ oecera del tiburón cantante.
 La espiral del tiburón, primer réquiem.
 
 Se descubría el rumor, se afincaba el gallo,
-
 en su pico crecía la gota de agua.
 Se descubrían coordenadas de silencio,
 mareas del vacío que penetran.
@@ -13429,7 +13387,6 @@ de oro granulado.
 
 Redondea una conchilla,
 enlaza rúbricas en la brisa,
-
 guarda resquemor la toronja
 por su piel ancestral.
 Su punteado amarillo viejo
@@ -14025,7 +13982,6 @@ se desliza sobre un cordel de seda.
 Los pájaros descansan
 en el cobre tibio de la proa,
 uno de ellos, el más provocativo,
-
 aletea y canta.
 Encantada cola de delfín
 muestra la torrecilla en su creciente.
@@ -14580,7 +14536,6 @@ con el plumaje de Leda.
 
 Con la vejiga nadante
 digo la respiración,
-
 recupera ya el andante,
 y no suda en el balcón
 sueños de un febricitante
@@ -14624,7 +14579,6 @@ terso y plano caracol
 caminando contra el viento.
 Risotas para un lamento
 mueve su cola al revés,
-
 es paradoja tal vez
 ver un cielo en la bombilla.
 Gracias de la cochinilla
@@ -14711,7 +14665,6 @@ la más triste bacanal.
 ### XVII {.verse}
 
 En la roca desespera,
-
 cortada por el helecho,
 allí solitario impera
 la espuma de un blanco lecho
@@ -15110,7 +15063,6 @@ Yo quería rescatar los fragmentos de la noche
 y formaba una sustancia universal,
 comencé entonces a sumergir
 los dedos y los ojos en la noche,
-
 le soltaba todas las amarras a la barcaza.
 Era un combate sin término,
 entre lo que yo le quería quitar a la noche
@@ -15253,7 +15205,6 @@ a la Simiente Metálica.
 La luz buscando la raíz
 de las encinas.
 Buscando la resina como un óleo,
-
 tocado por la respiración manifestada
 con la luz manifiesta.
 La Simiente Metálica buscada por Licario.
@@ -15479,7 +15430,6 @@ dormidos. Y nos van diciendo
 quiénes son los vencidos
 y los que siembran maíz,
 polvos de arroz,
-
 confundidos con la grasa de la mula
 en la coronación.
 
@@ -15990,7 +15940,6 @@ se reproduce más allá de las torres imantadas.
 Todo tiende a entreabrir sus ojos
 en el empíreo del destierro.
 Podían decir volver, no resucitar,
-
 no se sumergían en la tierra dividida.
 El cuerpo se escondía en la casa de las imágenes
 y luego reaparecía idéntico y semejante
@@ -16078,7 +16027,6 @@ se hace más allá del tejado,
 asciende y desciende como el mercurio.
 Todo hilo del papalote fantasmal
 quiere ascender hasta el padre,
-
 saltando en la cuerda entre los dos oídos.
 El zumbido tensa la cuerda del padre.
 El padre sufre la maldición y la ve
@@ -16166,7 +16114,6 @@ en el océano estelar, donde ya somos peces.
 Brisas que comienzan a unir lo invisible
 y a separar los desterrados fragmentos
 homogéneos, las piedras piramidales,
-
 la diorita mortecina con sus húmedos huesos.
 Brisas que en el sueño nos dais otro cuerpo
 que ha podido asimilar las ambrosías prohibidas
@@ -16348,7 +16295,6 @@ que se devuelve.
 la pureza que se recibe
 y la siniestra semilla que se hunde.
 Después de las estridentes canciones báquicas,
-
 su voz le fue arrancada por los gnomos,
 arrancándole la lengua con sus barbas
 y tiraban y tiraban apoyados en los árboles.
@@ -17044,7 +16990,6 @@ con un silencio lleno de luces.
 
 Tener cerca de lo que nos rodea
 y cerca de nuestro cuerpo,
-
 la idea fija de que nuestra alma
 y su envoltura caben
 en un pequeño vacío en la pared
