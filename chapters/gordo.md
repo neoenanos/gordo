@@ -1,524 +1,3 @@
-# POEMAS
-
-## DÉCIMAS
-
-### I {.verse}
-
-La mañana que no es mía
-se quedaba en mí, mas,
-nieve tuya estudiarás
-en la frente que huía
-formas de mundos; derretía
-un despierto tacto impar,
-que presagiaba quedar
-sobre la seda inconfesa
-perdido ya sin sorpresa,
-laberinto del jardín sin desear.
-
-### II {.verse}
-
-Gotas de cortesía, risa.
-En puntillas, desleídas
-en arco, tarde y luna enlevecidas,
-mosaicos de coral desliza,
-que no se puede decir que pisa
-labios, río de ángeles, amor.
-En toda pulsera el claror
-que va hacia ningún delirio.
-Verde mío, dueño mío, alivio
-en el contorno del nardo y del flechador.
-
-### III {.verse}
-
-Garza, junco en salto, semilla
-de agua en giro de amatista.
-Que el aire se desvista
-en los espejos. Arquitectura sencilla
-en doble hastío, brilla
-en su presencia, no resbala, queda.
-Perfil concéntrico veda
-suspiro neutro, hielo galán,
-en su esquina o marfil recurvarán
-en retorno hacia la seda.
-
-### IV {.verse}
-
-Luz violada ya se aleja,
-serenamente sin fin,
-del lirio blando que deja
-sin temblor hasta el confín
-verde-hendido en nube y queja.
-Borrando el temblor nevaba
-sobre el labio que cegaba
-aprisionado en sus gritos.
-Diamantes saltan, añicos
-vuelan del papel que no volaba.
-
-### V {.verse}
-
-Escondido se apresura
-—firmando el marfil que brota
-destruyendo su figura—
-a redondearse en la ignota
-fuga de su blancura.
-Ciñe el metal olvidado
-el frutero más nevado
-que declina sin surgir
-de su intocable dormir,
-ya trébol, pecera ya, relumbre resucitado.
-
-### VI {.verse}
-
-Gira morosamente en el gusto
-la mirada ya secreta.
-Escultura de la hoja busco
-la palabra en el aire quieta
-hasta ahuecar el blancuzco
-perfil de la sal canora.
-Después de procaz demora
-se vuelve a perder marinero,
-pues mi aire fue el primero
-que flechó la exacta hora.
-
-### VII {.verse}
-
-Papel en el agua va
-destrenzando su sigilo,
-se extiende, se acabará
-voluptuoso hilo a hilo,
-negándose se afirmará
-en salino ímpetu helado,
-recobrará su olvidado
-plumón, su túmulo vago,
-hasta llevar nuevo halago,
-no al ojo, al ojo que ha escuchado.
-
-### VIII {.verse}
-
-Aduerme jauría tan verde
-que el mármol no se recuerda
-si su memoria se pierde
-en algas, si en limón concuerda
-con hielo que no se muerda
-la risa en guante dorado;
-si en el bambú nacarado
-ilesa queda una mancha
-que el aire niega y ensancha
-en el bambú destronado.
-
-### IX {.verse}
-
-No ya la gota afinada
-deslíe su obra cruel,
-quedando ya en la enramada
-olvidada del doncel;
-no ya en la risa peinada
-la gota cuaja y deslíe
-al nácar que me sonríe
-retractándose al ocaso,
-siempre que al mimbre o al paso
-plácidamente se fíe.
-
-### X {.verse}
-
-Carbonizadas las plumas
-levantan; islas suaves
-se pasean soplando alas
-tersas encalladas; figuras
-no recordadas exhalas
-trazando vueltas en humo.
-
-¿Se pierde presto si aludo
-al coral que el hilo enreda,
-paseando perfil de seda,
-creciendo nieve y desnudo?
-
-### XI {.verse}
-
-Añil, escama de porcelana,
-fronda de atril y bandadas
-si geométricas, cuidadas.
-Flechado aire dimana,
-luna y amistas robadas,
-de espada que nunca alisa
-la mansión de la sonrisa.
-Pirámide de agua trunca
-la sonrisa no se junta
-al aire que muere en brisa.
-
-### XII {.verse}
-
-Galantísimo en el arco mudo
-su lisonja se mecía,
-inútil labio y escudo
-en que siempre se perdía;
-hielo cansado se hastía
-al ir refluyendo impar
-formando la piel del mar
-perdida en rubios tormentos,
-se va cerrando de acentos,
-sin ganas de oír hablar.
-
-### XIII {.verse}
-
-La curva de mi deseo niego.
-Arión a los delfines persigue,
-extravío ya sin éxtasis y frutos puedo.
-En rocío o en acantos se desligue
-del clavel, huella del eco
-sonrosado en la nevera, de su tristísimo hueco
-de vuelo alto en teorema. Clavel, brisa
-de giros claros no es escarcha. Traspasada
-cabellera, pez espada de la nada,
-clavel alcanzado no se desliza.
-
-### XIV {.verse}
-
-Y las rosas en los cuchillos. Girador
-pájaro muere fríamente. Nivelado
-del absoluto diedro no es dolor
-en gris o en verde. Ya nimbado
-se fija más, mas en definición
-no muere. Rosa-Luna es la invención
-que va ciñendo en el frío
-y sed de la limonada es vuelo lento
-impulsado en su dormir. Lamido estío
-desteñida Rosa-Luna se va enterrando en el viento.
-
-### XV {.verse}
-
-Final de curvadas plumas. Rumorado
-oído cruje, vuela sin verano,
-vano espejo al margen congelado
-desdoblar, decaído desdibujo de la mano
-se cierra más, letra al frío,
-vena helada, amor lejos, mustio estío
-caído de huidas frentes, no llevando
-nácar al humo, deslizada oscuridad
-va quedando su abril, canarios, deidad
-cansada, abril pautado en humo deseando.
-
-### XVI {.verse}
-
-Olvidando una esquina ilusa
-tiñe el mantel revolado,
-ronda plumas, vuela excusa.
-Volando va trasnochado,
-su lengua, fiel a la suma,
-advierte que cuando apura
-la primavera se hiela
-o en vano pulso concierta
-escama al mantel que vuela,
-suplicio de alfombra muerta.
-
-### XVII {.verse}
-
-El girasol avisado
-envía su sangre al río.
-Sí por girasol tan girado
-fácilmente el sí envío.
-Se adelanta en el vaivén del estío
-demorado. Su transparente falsía
-reduce sus tres colores, exquisita en demasía
-vuelca su llama clavada
-en la brisa ya llamada
-para olvidar que moría.
-
-### XVIII {.verse}
-
-Punta del largo guante, pez vertical
-al viento, Ganimedes, maduras recitaciones
-se derriten al escalar
-el paisaje desleído en sus dolores
-olvidados, cansados de congelar
-la fruición del frenesí distendido
-en recurva hacia el oído
-que deslíe el ademán más borrado
-del vuelo del sumergido
-en junco y sueño, en jaspe destrozado.
-
-## CATEDRAL {.verse}
-
-::: center
-(Motivo)
-:::
-
-[Los cinco dedos,]{.inline-indent}
-por la sombra impulsados,
-en la pared se agrandan,
-pulpo de la noche cegada.
-
-[En los rincones,]{.inline-indent}
-entre pardos yerbales,
-apócrifos infantes, con la cruz
-de sus dedos, trazan cruces
-en la flor del agua.
-
-[Viene el mar, más caracol que sal.]{.inline-indent}
-No llegan los bandoleros.
-
-## CATEDRAL {.verse}
-
-(Noche y gritería)
-
-> Para Ángel Gaztelu
-
-Se llamaban.
-Llaman. Intercalaba el viento
-la sombra que no se oía,
-que pasaba su seda
-para abrir las ventanas.
-La seda y su juego,
-su juego en la noche;
-en las largas pestañas de ayer.
-Que no se oía la sombra
-y la seda se hundía.
-Se llamaban.
-Llaman. El viento entre la noche
-y la jerigonza pura de su crótalo
-entre la noche que llega
-y el viento que se la lleva.
-Se llamaban. / Llaman.
-Noche decepcionada,
-de ventanas sin gatos,
-sin perfil de barajas.
-Que hieren.
-Noche de viento / sin cielo.
-Noche.
-Sobrenadan sus ojos
-en espumas de alfombras.
-Noche,
-en su prisa el corcel
-de la niebla se tiende.
-De la mano en la niebla
-a la niebla en la mano.
-Se llamaban. / Llaman.
-En la noche sin viento
-bajo el cielo tropiezan
-la noche y las barajas.
-
-[¡Que hieren!]{.inline-indent}
-
-En el sur de la roca se ha quedado un pájaro detenido.
-
-[Atardecer,]{.inline-indent}
-la tarde en cigüeña de aquí para allí.
-
-[Atardecer,]{.inline-indent}
-en el paladar una danza de cuchillos olvidados.
-
-[Atardecer,]{.inline-indent}
-las naranjas resbalan sopladas por la luna.
-
-[Atardecer,]{.inline-indent}
-los muslos guerreaban (arco luna feroz) con dos olitas.
-
-[Atardecer,]{.inline-indent}
-piel de letra y nardo en el abanico al romper la motera.
-
-En la nieve sin nieve, caballeros plomizos, blandas algas,
-sin nieve.
-
-## NACIMIENTO DE LA HABANA {.verse}
-
-¡Qué aire!
-Camino de las playas, el aire
-ciego.
-¡Qué aire!
-¡Pero mira qué aire!
-Puñales, jacintos de torso acribillado,
-de torsos embistiendo las estatuas
-y de toros nadando por las fuentes
-y por el halago del aire.
-¡Pero mira qué aire!
-¡Míralo. Enciérralo.
-Discúlpalo!
-Que el aire pesa como plata
-hacia arriba.
-Como brazos de nieve
-hacia arriba.
-Oye la nieve. Chupa el aire.
-Avispa en una botella bajo el agua.
-El aire bajo el agua.
-Sobre el agua las estrellas
-y el aire.
-El aire ciego colocando su lengua
-en el mármol.
-Los peces ciegos.
-Como peces y agujas en el aire.
-El aire ciego.
-¡Qué aire!
-¡Pero mira qué aire,
-con sus dedos y peces
-y sus arpas dobladas!
-El aire mirándolo clavado,
-chillando en todos los ojos.
-Sin que nadie coloque,
-entre el cuerpo y el aire,
-el aire intacto sin colores.
-Ahora sí que todos estamos comprometidos
-con el aire.
-Mira qué aire y aire liso.
-Aire de pedernal.
-Aterido recuerdo en el aire sin frente.
-Olas de ciega acampan
-inexorables en el aire.
-Ya para siempre, silencio,
-pájaros amarillos bajo el agua,
-silencio, grises pájaros recuerdan
-el aire.
-
-## SE ESCONDE {.verse}
-
-Se esconde triunfal en su cuerpo.
-De él me separa su voz
-que voy sintiendo en la mía
-navegando sus brazos ya cristales.
-Menta que nieva del cielo a la garganta
-hasta el sueño veloz si distraído,
-tú por el alto cuello disfrazado
-y destrozado por el blanco rielar de las espaldas;
-tú en contraluz de barco gobernando,
-guarnecido tumulto sin perderte,
-en toros blancos pasas a otros ríos.
-Lejos, sopladas conchas sobre sueños,
-malos sueños chocando en los jardines,
-sobre el mismo nivel de los hastíos.
-Lejos, pluma entre islas, solo de jazmines,
-girar de las sombrillas a la luna,
-inclinarse girándulas besadas.
-Patinados espejos entre islas
-alzan tu frente en cielo navegable
-por sirenas de añil que mortecinas
-(entretejida lumbre de inmóvil océano)
-saltan de la prisión desvaída de las manos
-al exacto lamento de sus ojos.
-Triunfal su cuerpo se esconde.
-
-## PLAYA DE MARIANAO {.verse}
-
-Una ola
-aleja la amistad creadora.
-Lysis se sonríe
-deibujando letras
-en los anillos que cuelgan de sus alas.
-Lysis, luchando entre las olas,
-grita desesperado.
-Lysis detiene los remos
-de ritmo y oro.
-Lysis se alegra con las conchas
-frías del amanecer, y lo tapan las olas.
-Entreabre los párpados
-dentro de la sonrisa,
-picado por el pez
-más fino del oído.
-Entre arenas se estira,
-no respira dormido.
-
-## HERIDA FRONDA {.verse}
-
-Herida fronda
-se desfigura en redondez
-encendida y ponientes
-sobre álamos apagados.
-Mañanera deidad rehúsa,
-el recuerdo y el humo pulsan hilos
-de láminas que tiemblan,
-o me escuchan y se recortan fríos
-en cristal sobre arenas.
-Dioses altos, borrosos.
-El perfil de tu mano
-entre dioses perdidos.
-¡Claridad descompuesta! Se cierne
-en mimbres agitados, en peldaños
-huidos marchita nube en verde
-cabecea sus hebras más delgadas,
-cernidas tan heridas,
-me recorren, me olvidan,
-me despedazan, huyen.
-Tus esquinas unidas,
-perfección nadadora.
-Palidez de los libros
-en bostezo y velamen.
-Curva fragante, chorro
-de delfines cruzados.
-Cielo en fiesta. Resbalan
-blanduras hasta perderse
-en anillos ceñidos.
-Dulce luz acompasa
-al raptor enguantado,
-y el herido blancor
-frunce su frenesí.
-Se desdobla el soneto,
-la arboleda y el raso,
-sus galantes excesos
-miro, regusto, palpo.
-Mimbres encendidos.
-Las almohadas tan fieles
-a la fiel claridad,
-alabastros acampan.
-Redondez pasajera
-prisionera en sus viajes
-de inútiles mandatos,
-alabanza a la fábula
-del riesgo marginal.
-Y las fresas reforman
-los olvidos más puros.
-Pureza del dormido.
-Pereza del sonido.
-Más allá de la aurora
-dormidas hojas oyen.
-
-## ERRANTE {.verse}
-
-Errante de colores,
-nadar sin existir, respiración de brisas congeladas,
-agua vuela al castillo que pasa sin cesar.
-Frío de nácar muy picado
-(las torres crecen y el agua no recuerda)
-crece enterrado en los alcances del teorema rosa.
-Versátiles jaulas siderales,
-bandada de anillos pesaban sobre la luna
-inclinándola hacia la izquierda.
-¿Por qué la danza frente al humo,
-vino en el corazón del agua,
-es tan extensa que piensa por segundos
-y deshoja un polvo que suena en las columnas?
-Jaspe que abre su nudo de verano,
-niño que exprime franjas de diván,
-girasol sin sentido al lado de la tarde.
-Saeta, heráldica del agua,
-árboles amanecidos, pluma cobarde,
-cola y ciempiés no acantos influyen desvariando.
-Peregrino del humo,
-nieve por la piel de la naranja, siente
-las sienes estirarse alcanzando trigales,
-pasos de delirio se oprimen en las puertas,
-encerrados en el aire se erizan los cuchillos.
-Relumbres que vuelan sobre la fila de tanques
-las rosas brincan picadas por los segundos.
-Monumentos imprecisos, nervios despacios,
-séquito de enjambres rectilíneos si abren tallos no acombran,
-fuego de halcón, sonámbulo arenado.
-Peinan su irresponsable gradación de espumas,
-quietos, prendidos a las manos
-entre el tacto despierto y la risa marina
-queman querencias, reducen delicias
-y dejan a la luna cabecear en el barco.
-Sobrado día de anteriores extensiones,
-memoria desvalida,
-en la cristalería que reflorece despertada
-por el concierto despierto
-de mandolinas y teoremas reavivados.
-Cierto, robado
-al negar el calor del intacto moemnto,
-sucesivas siestas ladeadas,
-ya caído en el humo,
-la estatua sepultada en el agua
-y la franja sepultada en el agua
-y la franja exprimida es la sangre y la sien
-que se hundan dormidas.
-
 # MUERTE DE NARCISO
 
 ## MUERTE DE NARCISO {.verse}
@@ -1074,7 +553,7 @@ de bambú que no se mueve,
 ni sueña,
 ni en el sueño oscila.
 
-### V {.verse}
+#### V {.verse}
 
 Ni el rostro pregunta
 ni el espejo contesta.
@@ -1092,7 +571,7 @@ La curva de su brazo,
 planicie de sus espaldas
 y los más lentos trineos.
 
-### VI {.verse}
+#### VI {.verse}
 
 No era que ya el ritmo
 del almendro fuera cítara al sonido.
@@ -1123,7 +602,7 @@ y que vuelve opulento
 a un ritmo de hojas
 sin cesar encontradas.
 
-### VII {.verse}
+#### VII {.verse}
 
 Bajaba las escalas
 del poniente,
@@ -1862,7 +1341,7 @@ Que cuanto más las voces se destruyen,
 ondas de vihuelas restituyen
 y el extraño silbo se mantiene.
 
-### V {.verse}
+#### V {.verse}
 
 Si con tus cautelas sólo muerte,
 
@@ -1883,7 +1362,7 @@ Otoño en dulces pasos prevalece
 en ese mundo que no suma ni decrece
 la embriaguez viciosa del conocimiento.
 
-### VI {.verse}
+#### VI {.verse}
 
 > La selva hizo navegar, y el viento al
 > cáñamo en sus velas respetaba.
@@ -1923,7 +1402,7 @@ El verdadero rey forma la estatua del humo
 para colocarla en el recodo más frío de la perfección
 caída y vuelta a levantar, ya nada entre márgenes
 sueltas que le persiguen y no le invaden;
-le ciegan y le despiertan por la mañana
+le ciegan y le despiertan por la mañanam
 creyendo que es cobardía llamarse Nadie como Ulises.
 La ordenación o clasificación impensada:
 hacen escuadras los delfines,
@@ -13282,6 +12761,749 @@ la mica de Micaela, apoyándose;
 equivalencias del escarabajo pelotero,
 tonto Toto, Toto total.
 
+## POSTAL SIN FECHA {.verse}
+
+papaíto
+tengo muchas ganas de verte
+pues me parece que hace un año que no te veo
+te echa la bendición
+
+JOSÉ LEZAMA
+
+## CATEDRAL (PASEO DE DOMINGO) {.verse}
+
+En un pie la alondra.
+Ronda el aire las fresas.
+Entra el mar por una flauta,
+serpiente de la sabiduría.
+En el aire en las fresas, labios;
+dúctiles islas ilesas levantan la sonrisa
+hasta el asma de la sonrisa ilesa.
+El viento, gallo, ramazón
+de proverbios y espadas,
+de nariz a la luna,
+ahuyenta a la madrugada
+en los caminos polvosos.
+Sobre la piedra sangrante,
+flechas y cornetines,
+ahuytenta a los bandoleros
+y atrae la pleamar.
+Pericia del despertar,
+ni su cuerpo, ni su sombra,
+noche para noche casta,
+sin suspiro y luna amarga
+al desvanecerse herida,
+espéran sin despertar,
+entre las hojas de piedras.
+
+Lengua de azúc ar y junco
+sobre otro junco esperando.
+Está la torre durmiendo
+sobre el agua sin sombra
+que la moleste ni viento que la despeine.
+Illeso. Pluma del cuerpo vaga,
+las pisacinas arden riéndole a la luna.
+Pavo real es la vida de jardines sin amor.
+
+Estrella traspasada
+es la sien latiendo en corcel liberada.
+
+Qué lenta viene la noche por de´tras de las espadas.
+
+[1934]
+
+## BAHÍA DE LA HABANA {.verse}
+
+I 
+
+Al pie de las murallas
+el aire tartamudo
+desliza sus sirenas,
+plata mansa sin hoy
+mana sus lunares
+entre lunas cansadas
+sin balcones. ¿Qué será,
+qué será? Bajo el arco
+y pestañas, la tarde,
+—codorniz de Ceilán—
+rompe en flechas sus colores.
+Descuida las islas
+pie ligero y concha reciente,
+de sonrisas y flautas,
+sobre faldas tan lindas
+pasajeros con cintas
+y mañanas redondas.
+Verdinegros incógnitos
+los celos de la noche.
+¿Qué será, qué será?
+El alfiler del rocío
+redobles del aire tierno,
+se extingue en ay, ay, ay.
+La sorpresa de la rosa en el agua,
+vida entre vidas,
+la rechazan las olas
+con heridas sin gritos.
+Las estrellas mecen
+al compás que no existe
+del agua amanecida,
+y así puede mecer
+a los niños de Arabia,
+con heridas y gritos.
+Y loca entre balcones
+la tarde recurvando,
+empina entre algodones
+su voz que ni se escucha
+perdida entre latidos:
+¿Qué será, qué será?
+
+[Abril 1934]
+
+## PASEO DEL PRADRO. SOMBRILLAS DE MEDIANOCHE {.verse}
+
+La rabia del sol
+araña las palmeras
+como un gato de seda.
+
+La galga rusa y el tapiz,
+inelegante diálogo
+en la mudez del guante.
+Y el buzo sacando de las aguas
+un pez de cinco colas
+por el arco raptor
+de sedas destrozadas.
+
+Doncel serafinado
+en la conche sin eco
+opulentos asisten,
+entre enjambres de flechas,
+esculpen sus suspiros
+en cuerpo de coral
+con el oído el chopo
+huyendo al disputar.
+
+La sombra se doraba,
+su aljaba se ha llenado
+de insectos trastornados;
+ocre rosado y polvos de arroz,
+locura de los adornos
+sedientos de cristal
+afina sus muchos dedos,
+labor de la mañana;
+en la noche
+larga plata en pereza,
+balanceando sus risas
+tornasol de aguas iris
+sonrisa voladora
+de la alondra a la estrella
+por el césped o mañanas
+de azul desnivelado.
+
+Sombrillas de Medianoche
+
+[1934]
+
+## PUSO LA CAPA... {.verse}
+
+Puso la capa sobre las ramas.
+Penetró más en otro cuerpo,
+sus oídos le sirven como resina.
+Si se llora dentro de la torre,
+la torre mira delicadamente al río.
+
+«No puedo saltar, tengo que llorar,
+la torre impulsa al mar,
+como naddie me oye, tengo que cantar».
+
+La caballería ya no se extingue en el río,
+ni nos encierran en la torre para llorar.
+No habla más con su caballo.
+
+Descansa de las espuelas y la plata pesada.
+Lentamente, un árbol.
+La sombra de ese árbol le extiende los brazos,
+azulea en sus párpados
+y dispara un halcón tonto, concéntrico.
+
+Con exquisita sombra, en torno de ese árbol
+cada uno va exclamando la lección de su muerte.
+Acarician su muerte
+antes de caer en el sueño, alrdededor de un árbol.
+Relatan, pero el se aleja
+antes de oír la evidente claridad de su muerte.
+
+El jabalí extiende el grito
+de su boca torcida.
+Ha entreoído el envío de su muerte,
+pero envía las doce flechas de sus horas
+sobre la piel que no se encoge
+y unos dientes que mastian la raíz
+del río y de la torre.
+
+[Oct. y 1994]
+
+## (LA COSTUMBRE) {.verse}
+
+Si lo descubre para siempre el uso,
+si con golondrina una cornisa gime
+malbaratando su pensar [.......] intruso
+de la nube y no de la noche que persigue.
+
+Si del uso entra iluminar difuso
+un acordeón dormido que pámpanos desligue
+del arco vegetal, del marisco infuso
+que sin cabellos su girar prosigue.
+
+Qué altanería, su topete el cuello
+desinfla un olor que vierte oscuro,
+caminando hacia el polvo y remolinos.
+
+Mientras la grulla en valva de entrecielo
+prepara en nido hueco por maduro
+la desazón de nuestros inquilinos.
+
+[Enero 1945]
+
+## PARA LYDIA CABRERA, REGALÁNDOLE UN LIBRO {.verse}
+
+Dentro del sueño, rapidísima,
+sabías colocar la médula del cocotero
+en la raíz de la _révolte des frondeurs_ o en la _révolte_
+_des anges_, o las amistosas tarjetas
+del origen que curan el beri-beri;
+junto con los estudiantiles pájaros de Bombay,
+sudorosos por las pesadillas de su transmigración.
+Rapidísima, apuntabas:
+«la llama oscura del primer lagunajo».
+La ociosa conspiración que transcurre
+por los peldaños de la casa, olorosa
+al marfil erudito del abanico en la silla romana,
+dictaba la lección inaugural de una piel
+recorrida por las lloviznadas variantes de la sabiduría criolla.
+Los reidores ejercicios del ceremonial
+dictaban la entrada y despedida de los coperos,
+pues ya tú habías adquirido
+«la poza de aguas preparadas». [^lydia]
+
+[1951]
+
+
+[^lydia]: Las frases destacadas son de Lydia, en su libro _Por qué... cuentos negros de Cuba_, Eds. C.R., La Habana, 1948, p. 243.
+
+
+## PARA LAS DÉCIMAS DE NICOLÁS GUILLÉN
+
+Sin aumentar su poder,
+Júpiter ya no merienda,
+y que el instante comprenda
+la lucidez sin ceder
+el rasguño de la venda.
+La naturaleza fascina
+la escama que se inclina
+tanto al aire que al cristal,
+cuando hiende el calamar
+a la cipriota divina.
+
+Pregunta, deja el reverso
+el cumpleaños del verso,
+sonrisa de la toronja
+la amarilla luz esponja.
+Fiesta y final de la luz,
+brillan los huesos en cruz.
+Azul oscuro la trampa,
+la tapa sopla y levanta.
+Salta hasta los mismos ojos,
+clásicos ya sus antojos.
+
+Viene como los cantores,
+taburete, compás y fines.
+Silenciosa la sitiería,
+cumple la orden día por día.
+Felizmente su papeleta
+tiene la fecha y la glorieta
+de los cantores en la noche,
+condecorando va en un coche.
+Las mulas son cascabeles
+mascan mosquitos y papeles. [^dng]
+
+[1961]
+
+[^dng]: A continuación, se lee: «Hacer uatro déimas más», y el comienzo de una: «La muerte por los caminos».
+
+<!-- ## POEMILLA {.verse}
+
+> Para Nicolás Guillén, al cumplir 64 años
+
+El tatuaje de un pescado [^amanecerenviñales]
+o los castigos de un _yes_,
+Nicolás sigue encaramado
+en el pitagórico tres.
+Fiesta, llegó el convidado.
+Síncopas del Papá Montero.
+el ¡ay! del melonero,
+el matiz del amarillo
+desde el escolar sencillo
+a la onda del río primero.
+
+El espíritu sin libro
+y el libro con su espíritu
+¡con el _daimon_ me libro,
+y los manes de Manitú!
+El romance sin peligro
+sigue la serventía.
+Se pronuncia como el día
+el nublo de dos jinetes,
+el cortado en jarretes
+y el triunfante Mediodía.
+
+Nicolás, qué buena luz.
+¿Sin sierpe hay mediodía?
+No es el farol, es el día
+sin antifaz ni capuz.
+Su antifaz, la celosía,
+su capuz, la noche grata.
+La hormiga de cada mata
+acrece como un frijol,
+ancha como el guarandol
+de un girasol escarlata.
+
+En la reunión nocturna,
+pidan la palabra, señores,
+no hay lechuza ni embadurna,
+sí lautines, ruiseñores,
+collares de cundiamores
+y el baño de azul turquí.
+De San Antonio a Maisí
+Nicolás traza su Eros,
+el chino de los santeros
+con la sabiduría del anís.
+
+El queso con la guayaba
+o virreyes del rocío,
+la palabra deslizada
+en las escaramuzas sin frío
+de la granja aljamiada.
+Muelle plumón y ventana,
+el verdor de la rana
+en la madera pulida,
+asalta la entrometida
+de la noche a la mañana.
+
+De la noche a la mañana
+se interpone la neblina,
+pero este pez serafina
+con anchura de campana
+ya trasuda arena fina.
+Derriba como Anfión,
+_con larghetto_ de acordeón,
+como no tenemos invierno
+ni descenso al
+infierno
+del no, topo, al yo, llorón.
+
+Bisiestos del caracol,
+chupa tierra y suelta hilo,
+no peluca en coliflor,
+el arcoíris en vilo
+sabe rezumir en la flor.
+Robando los melocotones,
+son la más sabias lecciones,
+de la elástica longevidad
+y el filósofo Ting San Fo.
+Un palmeral y mi yo,
+repite con la eternidad.
+
+[16 de julio, 1961]
+
+[^amanecerenviñales]: Este poema sí fue publicado... bajo el titulo de «Amanecer en viñales» en _Fragmentos a su imán_, con ciertas modificaciones.  -->
+
+
+## LÍQUIDAS ESENCIAS... {.verse}
+
+Líquidas esencias
+y el sin fin diamantino,
+el reloj matutino
+fantasmea las ausencias.
+Corporiza el minimo
+el espacio del salto,
+de diorita en basalto
+perdurable sorpresa.
+Es la misma represa,
+y nueva voz de contralto.
+
+Ahí la poesía, ya no está,
+se divisa o se irisa,
+se borra en la sonrisa,
+o anchurosa en el más.
+Lo oscuro se precisa
+en la noche de acanto,
+desconcierta en el canto,
+o el gallo del silencio
+en ráfagas presencio
+y dobla mi quebranto.
+
+[21 de agosto, 1966]
+
+
+## FÁBULA DE APOLO Y NARCISO [^narcisodos]
+
+::: {.verse}
+Narciso aparta juncos. 
+Está lejos y helado. 
+Bebe juncos en el sueño, 
+como llamada de azúcar 
+y lengua que se estira 
+acariciando galgos. 
+Quicto, sudado cristal, 
+líneas empaña en las lunulas 
+torcidas en plumón soplado. 
+Vienen o se apresuran dolidos 
+venéreos planetas, juncos 
+quemados ya en el sueño sudoroso.
+Suenan planetas zumbantes. 
+Juncos se estiran y el cuello 
+entra en un hálito helado. 
+Júpiter, mesa de hierro 
+y un barco que si marca 
+hirientes barcos salpica, 
+trenzando su flor mordida. 
+Narciso, de los espejos hastiados, 
+fabricante de mil espejos, 
+hila tres mil espejos demás. 
+Jacinto, insecto muerde azucenas, 
+Júpiter olvida 
+el carmín de los delfines, 
+improvisando las flautas 
+pechazo de caracoles. 
+Flauta sembrada en mis sienes 
+resucita en las arenas 
+de los labios, llamando al amor 
+errante, asustado marinero 
+pidiendo agua y azúcar 
+y cola azul de delfín, 
+Narciso, fósforo y raya de nieve. 
+Jacinto, diminuto río en la alcoba, 
+jardín con flecha enterrada, 
+jardín sin hojas ni manos, jardín en blanco
+Blando chisme se Apresura, 
+rueda el insecto por mantas tibias 
+y piel de azucena charolada. 
+Teje una red en el aire 
+y en el aire saltan peces. 
+Del oído nace la plata
+y baila el agua entre las ramas. 
+(Estatuas corren buscando
+nubes enjutas y caracol ablandado, 
+y en el jardín no dormitan, 
+ni el agua verde en oro, 
+oro muerto, las protege). 
+Muele el oro, tasa el vidrio. 
+Vidrio, ojo de la destreza. 
+Cortan los dedos el fuego 
+cantando en la torre muerta. 
+Júpiter, una sandalia de hierro. 
+Jacinto, algodón mojado 
+en glacial saliva. 
+Jacinto, el planeta entre los juncos 
+se incendia de amor 
+tan breve, geométrico en errante 
+luna, busca a Hermes Trimegisto. 
+Caracol o caderas errantes 
+por el aire que entra por los labios 
+de los juncos, por el cuello cerrado 
+del pez que solloza junto al junco 
+de mármol. 
+:::
+
+Servido el mantel que es una nube rectísima, tiesa para impresionar fuertemente y hacer pensar que el cristianismo no está cercano, Júpiter habla, un poco distraido, con Minerva, Diana, Venus, Urania. Entre la risas ha saltado una frase cruel acerca de la conducta y el fiel espejo de Narciso.
+
+Pocos días después Júpiter le cuenta a Narciso lo oido de sobremesa en el mantel de una nube, atribuyéndoselo falsamente a Minerva. Jacinto hace escueta referencia a la traición de Minerva, pues si esta tiene sus claros ojos es gracias a Jacinto, que tenía que peinarse, y mientras tanto le prestó su espejo a la diosa durante una sola noche, ésta fue acercando a sus oídos el espejo de Narciso a quien pertenecía en realidad y al ponerse en contacto con el espejo mayor de Selene, surgió el secreto de Hermatenea, diosa de los gimnasion. Narciso le recomienda a Júpiter que convierta la nieve en artículo de lujo y luego se vuelve a pasear entre los juncos.
+
+::: {.verse}
+Van paseando por los juncos, 
+pasean sus manos tiesas 
+por el cristal que acomete 
+y embiste entre dos olvidos, 
+cien lenguas sin pies ligeros. 
+Si el junco no se apartaba 
+se alejaba su cintura, 
+pertenencia fiel del aire, 
+del castillo y remadores. 
+¿Quién pregunta al cristal 
+que se enterró, malogrando 
+testa y verano crecido? 
+¿Quién es el manjar salobre 
+que en subterráneo asciende 
+como un lebrel que en el cielo 
+adelgaza sus recuerdos? 
+Aparta juncos de juncos 
+muertos, en el borde de la tierra 
+recostados, ya se inclina 
+mandando que se doblegue 
+al primer vuelo cansado. 
+Al insecto de tres franjas 
+resbalando al respirar, 
+manda que se doblegue, 
+y manda también enterrar 
+testas por el oblicuo ruido 
+y por la palpitación capaz 
+de colocar a los chopos, 
+tersos y mal dirigidos, 
+a resbalar entre crudas 
+rocas y diminutos relámpagos. 
+¿Quién pregunta por los labios, 
+por las bandurrias que acuestan 
+cuchillos y niñas ciegas y por la gangrena 
+en la cola que se fugó 
+a las estatuas y a la risa enamorada? 
+¿Quién pasa entre mi mano y las chispas 
+del vuelo que se posaba 
+en las agrestes cenizas y en las jarras 
+doblegadas por un insulto extendido, 
+por un río de coronas? 
+¿Quién persiste por los labios 
+y entre giróvagos mapas, 
+en apuntalar a la sombra 
+del cuerpo que se perdía 
+entre pisadas y sirenas 
+que van doblando hilanderas 
+muertas y sus delgadas 
+hojas sin otoño, sin donaire, 
+en vuelo recto, manso y trío? 
+Un junco roza los labios. 
+Entreabiertos los latidos 
+en la almendra y en la abeja, 
+penetrando en el espejo 
+los cabellos encendidos. 
+Negado ya paso al río, 
+se extiende raíz del agua 
+creciendo en una playa de niños, 
+en un olvido desnudo. 
+Mustios gusanos fabrican 
+frío borde de la hojas. 
+Entre chopo y oído, entre lebrel 
+y cabellera partida 
+sin zócalo o río herido. 
+¿Quién devuelve en la marea 
+una palabra escondida 
+y un rumor que se apresura 
+a no saltar su perfil, 
+a no destrozar las torres 
+o agitar sus preferencias? 
+La tarde se inclina 
+ya enrollada en la marea, 
+prefijado su perfil. 
+Narciso aparta juncos. 
+Está lejos y helado, 
+muchachillo que chilla 
+entre los juncos, hundiéndose 
+en la yerba que mira, 
+en la arena del tacto.
+:::
+
+[^narcisodos]: De acuerdo con una carta de Lezama a Gastón Baquero, que figura en la Colección José Lezama Lima de la Biblioteca Nacional José Martí, es un poema escrito poco después de “Muerte de Narciso” (1936). [Nota de Cintio Vitier.]
+
+## PARA MIS DOS HERMANAS, QUE ME REGALARON UN PAR DE ZAPATOS {.verse}
+
+Ahora mis ojos lo cercan
+y mis manos lo pueden recorrer, apretar.
+Es una navegación para la tierra y la escarcha, un zapato.
+Toco la piel, el brillo de los clavos la penetra
+alegre como un dios con la cara mojada,
+todo tan evidente como mis hermanas
+en la lejanía, como la mañana con su llegada
+para el despertar. No vienen al teléfono,
+no está el almuerzo dominical con su cine,
+la llegada de Eloy al atardecer,
+y la llegada de todos los familiares de antaño
+y la tribu de nuestra sangre,
+con sus mujeres altas y su prole bien guardada.
+Veo a mis dos hermanas dentro de los zapatos,
+como en una barca de juncos,
+saludar con un abanico habanero, saludar
+para reaparecer detrás de las costas
+con los mismos zapatos, la misma barca,
+llenos de conchas, las bromas de nuestra infancia,
+lo que todos los días nos regalaron como si nos tirásemos
+arena al rostro, con el recuerdo del Coronel
+que fue nuestro padre y cuya muerte
+profundizará siempre nuestros recuerdos, como un anticipo del destierro.
+Es el mismo zapato de Jacksonville, de Pensacola,
+de los primeros años de huérfanos,
+es el zapato que siempre espera
+para que lo conviertan en barca de junco,
+es el zapato siempre esperado,
+es el ucello, la carroza, el gran pájaro.
+Veo ahora y comprendo desde la raíz que no es el cuarto sostenido
+por los tirantes del que se cortó la oreja.
+Veo el billar tropezado por las boinas azulear,
+y al centro, el par de zapatos como una fruta,
+pues ambos están apolismados por el uso
+y la crueldad que se rehúsa,
+pues las arrugas de esos zapatos parecen las carcajadas de un pescador viejo.
+La cama del mesón en la aldea,
+que guarda en su centro el par de zapatos,
+mientras el sueño sale como una guadaña
+para degollar a los espantapájaros.
+El par de zapatos del hombre que se cortó
+la oreja —los pitagóricos, con sus casas propicias
+a los incendios del Este, creían en un muslo de oro—,
+y que ahora exigen el centro de su cuarto,
+las apoyadas equivalencias estelares,
+entre la nada y el grillo que raspa sus sienes.
+Mi hermana mayor ¿recuerdas la última Navidad
+que pasamos con nuestro padre?;
+Eloísa, ¿recuerdas los Reyes en las madrugadas
+de Prado, en el recuerdo como los ras de mar,
+con sus colecciones coralinas y sus algas rayadas?
+La ausencia, la ausencia del que se había ido en el mes de enero,
+estremecía nuestra casa,
+desde el silbato del cartero hasta la visita de las tías.
+Todo eso volviendo como las nubes que tropiezan
+en los barandales retorcidos,
+reapareciendo en el par de zapatos,
+besados por una ardilla de nieve
+en el círculo de su retorno infinito.
+Ustedes por las tiendas, con las medidas, buscando,
+yo apretando esos cordones, abrillantándolos,
+pasándoles la mano al par de zapatos,
+lentamente, como dos animalejos que salen de la consola de ébano.
+Ascendiendo en el manantial de las aguas del espejo,
+se sientan esas ardillas sobre su cola, con aquellos muebles
+color de aceituna de nuestra casona
+infantil de Prado, que iban de la sala al comedor,
+los días de ras de mar y el día del velorio de Horacio.
+Antes de que me rectifiquen: eran los muebles
+que pasaron del campamento a Prado,
+no los de color caoba, que eran los de Abuela,
+con sus banqueticas para los pies,
+donde ahora veo el par de zapatos
+que ustedes me han enviado desde las Navidades
+del destierro, con su ardilla de nieve al teléfono.
+¡Dios mío, qué acoplamiento en torno del zapato viejo,
+el Can, la Osa Mayor, la Lira,
+el Tercer Rey fundador con su hocico de buey,
+y sobre su cabeza de diorita egipcia, el Gavilán!
+Los pasos, los verdaderos pasos en la espalda
+del cielo, el eco de cada paso,
+es una medida que se prolonga en una huella,
+y en una penetración que nos regala
+la ceguera de la marcha.
+¿Qué medimos en cada una de nuestras pisadas,
+las hojas sonrientes en el ondular de la mañana,
+o la penetración invisible en la balanza de Proserpina?
+Sé que mis hermanas me han regalado
+un par de zapatos, sé que cuidan
+mis pisadas alrededor de las hojas,
+sé que cuando yo duermo,
+ellas cuidan mis pasos, los preparan y los miden.
+Estoy entrando en la noche,
+oigo suavemente mis pasos preparados
+por mis dos hermanas. Oigo
+la ardilla de nieve al teléfono,
+escucho el ruido de los muebles
+que retroceden de la sala al comedor. Miro mis zapatos, estoy tan
+alegre como cuando veíamos extenderse la fila de árboles del Prado al día
+siguiente de un ras de mar.
+
+[Mecanuscrito sin fecha. C. S.]
+
+# SOBRE EL CREPÚSCULO Y MONSTRUOS DEL AGUA [^sobreelcre]
+
+[^sobreelcre]: Sección de _Fascinación de la memoria_. Editorial Letras Cubanas. La Habana, 1993. Textos inéditos de José Lezama Lima. Selección y prólogo de Iván González Cruz.
+
+## FASCINACIÓN DE LA MEMORIA [^fascinación] {.verse}
+
+Esta sombra que me confiere la luna, como
+        [una tinta inmaterial.]{.big-indent}
+Rojez de la sangre que penetra el cordel 
+        [y el espíritu que penetra el alma.]{.big-indent}
+Sólo la rosa es bastante frágil para
+        [exprimir la eternidad.]{.big-indent}
+Cierta rosa, que es menos un color,
+        [que una respiración.]{.big-indent}
+Cerramos los ojos y la rosa dice: Soy
+        [yo.]{.big-indent}
+Viajero, aproxímate y al fin respira
+        [este olor que carece de todo monumento.]{.big-indent}
+Abrimos los ojos y la rosa ha
+        [desaparecido: todos hemos respirado.]{.big-indent}
+A través de la cascada, un largo
+        [fuego horizontal, verde y rosa, juega la flauta.]{.big-indent}
+
+[^fascinación]: Las aclaraciones de «tachado», «variante», «al margen», etcétera, que en Albur aparecen insertadas dentro de paréntesis o corchetes, a continuación de los textos aclarados, el lector las encontrará ahora como notas al pie de página. Hemos respetado la versión original de las transcripciones. Tachado: «Un poema de Samuel Feijó». Al margen: «Ver capítulo X de las Confesiones».
+
+## LA RESPUESTA DE GUILLÉN A LA MUERTE
+
+A la canción popular:
+
+> _La muerte me está buscando,_ \
+> _y como me puse serio,_ \
+> _me dijo que era jugando._
+
+Respuesta de Guillén a esa canción:
+
+> _Iba yo por un camino,_ \
+> _iba yo por un camino,_ \
+> _cuando con la muerte di,_ \
+> _pero no le respondí._ 
+
+Pero después se muestra cortés con la muerte, la llama amiga, le regala un lirio. ¿Cómo Guillén ha hecho sus sesenta años? Paseando, hablando, sonriendo, oyendo la raíz y la copa del árbol, oyendo, acariciando la corteza del árbol.
+
+El malicioso a quien yo le subrayaba la espumosa cordialidad de Guillén, me decía: es cordial por táctica. Y yo le respondi, magnífico si existe una táctica de la fineza, qué más se puede apetecer.
+
+La táctica de la fineza, algo semejante a la razón musical, de que nos hablaba Martí.
+
+Todo cubano siente a Guillén como una penetración en el misterio de su ritmo, en nuevos y ancestrales pasos de danza. Una penetración en la casa del árbol y en el árbol de su casa.
+
+En la consumación de los tiempos, se oirá la voz de un cubano trepando a la palma real, gritando:
+
+¡Sólo hombre yo!
+
+## PARA MI GRAN AMIGO LORENZO GARCÍA VEGA [^lgv] {.verse}
+
+_Laberinto, verbo que ve;_
+_flauta, acento que da._
+_Lorenzo ¿A dónde usted_
+_mira? Si ya no está_
+_Lupa de Swann y Albertina_
+_dan su aroma a la cafeína_
+_de una noche que empieza_
+_suave en su aurora._
+_Chilla el mueble, busca otra pieza:_
+_es el Jagüey, chilla y añora._
+
+[^lgv]: La dedicatoria entera reza así: «Para mi gran amigo Lorenzo García Vega, en las Navidades de 1947». 
+
+## PRIMERA DÉCIMA PARA ELISEO DIEGO [^eliseod] {.verse}
+
+_Zumo y volante pliego,_
+_con un cordel anudado,_
+_henchido trazo de Diego_
+_grave apesadumbrado._
+_Envuelto lleva en el brazo_
+_por el bosque perderse_
+_y desafiar un hombrazo_
+_que sueña en entreverse._
+_Su pestaña es una araña,_
+_la araña nutre su pestaña._
+
+[^eliseod]: Estas décimas aparecen escritas a mano por Lezama en el ejemplar de la _Antología de la poesía cubana_ perteneciente a Eliseo Diego. La dedicatoria completa reza en el tomo I: «Para Maese Diego, salud y obras bellas: sus himnos a las calles que van desde el mar hasta el bosque, su llegada al entreabierto castillo, con las letras y las viñetas hechizadas de Boloña, su medida mágica del arco del brazo cuando deposita el oro de las barajas sobre el tapete verde, por esos dones y esas adivinaciones, todos lo amamos y lo admiramos. Dígalo ahora el verso: (Viaje al tomo II)»; en el tomo II, al final de la décima, se lee: «Termina en el tomo III». Y en el tomo III, al final de la «Segunda décima para Eliseo Diego», a la izquierda, dice: «También para Bellita, para Fefé, Eliseo (hijo) y Constante»; a la derecha: «Es su amigo, J. Lezama Lima, febrero 1966», y más abajo: «Mano en la mano. Dios por testigo. Vale J.L.L».
+
+
+## SEGUNDA DÉCIMA PARA ELISEO DIEGO
+
+
+Esferas de tres colores, 
+que el juglar va escarmentando, 
+como si fueran nombrando 
+ricas telas de amadores, 
+en cambiantes surtidores. 
+Casandra y su profecía 
+mueren con la luz del día, 
+transparentándose el vino. 
+Llega Elí, secular en su refino, 
+quema vino al mediodía. 
+
 # FRAGMENTOS A SU IMÁN
 
 ## DESEMBARCO AL MEDIODÍA 
@@ -16939,6 +17161,525 @@ evaporo el otro que sigue caminando.
 
 # OTROS POEMAS
 
+## DÉCIMAS
+
+### I {.verse}
+
+La mañana que no es mía
+se quedaba en mí, mas,
+nieve tuya estudiarás
+en la frente que huía
+formas de mundos; derretía
+un despierto tacto impar,
+que presagiaba quedar
+sobre la seda inconfesa
+perdido ya sin sorpresa,
+laberinto del jardín sin desear.
+
+### II {.verse}
+
+Gotas de cortesía, risa.
+En puntillas, desleídas
+en arco, tarde y luna enlevecidas,
+mosaicos de coral desliza,
+que no se puede decir que pisa
+labios, río de ángeles, amor.
+En toda pulsera el claror
+que va hacia ningún delirio.
+Verde mío, dueño mío, alivio
+en el contorno del nardo y del flechador.
+
+### III {.verse}
+
+Garza, junco en salto, semilla
+de agua en giro de amatista.
+Que el aire se desvista
+en los espejos. Arquitectura sencilla
+en doble hastío, brilla
+en su presencia, no resbala, queda.
+Perfil concéntrico veda
+suspiro neutro, hielo galán,
+en su esquina o marfil recurvarán
+en retorno hacia la seda.
+
+### IV {.verse}
+
+Luz violada ya se aleja,
+serenamente sin fin,
+del lirio blando que deja
+sin temblor hasta el confín
+verde-hendido en nube y queja.
+Borrando el temblor nevaba
+sobre el labio que cegaba
+aprisionado en sus gritos.
+Diamantes saltan, añicos
+vuelan del papel que no volaba.
+
+### V {.verse}
+
+Escondido se apresura
+—firmando el marfil que brota
+destruyendo su figura—
+a redondearse en la ignota
+fuga de su blancura.
+Ciñe el metal olvidado
+el frutero más nevado
+que declina sin surgir
+de su intocable dormir,
+ya trébol, pecera ya, relumbre resucitado.
+
+### VI {.verse}
+
+Gira morosamente en el gusto
+la mirada ya secreta.
+Escultura de la hoja busco
+la palabra en el aire quieta
+hasta ahuecar el blancuzco
+perfil de la sal canora.
+Después de procaz demora
+se vuelve a perder marinero,
+pues mi aire fue el primero
+que flechó la exacta hora.
+
+### VII {.verse}
+
+Papel en el agua va
+destrenzando su sigilo,
+se extiende, se acabará
+voluptuoso hilo a hilo,
+negándose se afirmará
+en salino ímpetu helado,
+recobrará su olvidado
+plumón, su túmulo vago,
+hasta llevar nuevo halago,
+no al ojo, al ojo que ha escuchado.
+
+### VIII {.verse}
+
+Aduerme jauría tan verde
+que el mármol no se recuerda
+si su memoria se pierde
+en algas, si en limón concuerda
+con hielo que no se muerda
+la risa en guante dorado;
+si en el bambú nacarado
+ilesa queda una mancha
+que el aire niega y ensancha
+en el bambú destronado.
+
+### IX {.verse}
+
+No ya la gota afinada
+deslíe su obra cruel,
+quedando ya en la enramada
+olvidada del doncel;
+no ya en la risa peinada
+la gota cuaja y deslíe
+al nácar que me sonríe
+retractándose al ocaso,
+siempre que al mimbre o al paso
+plácidamente se fíe.
+
+### X {.verse}
+
+Carbonizadas las plumas
+levantan; islas suaves
+se pasean soplando alas
+tersas encalladas; figuras
+no recordadas exhalas
+trazando vueltas en humo.
+
+¿Se pierde presto si aludo
+al coral que el hilo enreda,
+paseando perfil de seda,
+creciendo nieve y desnudo?
+
+### XI {.verse}
+
+Añil, escama de porcelana,
+fronda de atril y bandadas
+si geométricas, cuidadas.
+Flechado aire dimana,
+luna y amistas robadas,
+de espada que nunca alisa
+la mansión de la sonrisa.
+Pirámide de agua trunca
+la sonrisa no se junta
+al aire que muere en brisa.
+
+### XII {.verse}
+
+Galantísimo en el arco mudo
+su lisonja se mecía,
+inútil labio y escudo
+en que siempre se perdía;
+hielo cansado se hastía
+al ir refluyendo impar
+formando la piel del mar
+perdida en rubios tormentos,
+se va cerrando de acentos,
+sin ganas de oír hablar.
+
+### XIII {.verse}
+
+La curva de mi deseo niego.
+Arión a los delfines persigue,
+extravío ya sin éxtasis y frutos puedo.
+En rocío o en acantos se desligue
+del clavel, huella del eco
+sonrosado en la nevera, de su tristísimo hueco
+de vuelo alto en teorema. Clavel, brisa
+de giros claros no es escarcha. Traspasada
+cabellera, pez espada de la nada,
+clavel alcanzado no se desliza.
+
+### XIV {.verse}
+
+Y las rosas en los cuchillos. Girador
+pájaro muere fríamente. Nivelado
+del absoluto diedro no es dolor
+en gris o en verde. Ya nimbado
+se fija más, mas en definición
+no muere. Rosa-Luna es la invención
+que va ciñendo en el frío
+y sed de la limonada es vuelo lento
+impulsado en su dormir. Lamido estío
+desteñida Rosa-Luna se va enterrando en el viento.
+
+### XV {.verse}
+
+Final de curvadas plumas. Rumorado
+oído cruje, vuela sin verano,
+vano espejo al margen congelado
+desdoblar, decaído desdibujo de la mano
+se cierra más, letra al frío,
+vena helada, amor lejos, mustio estío
+caído de huidas frentes, no llevando
+nácar al humo, deslizada oscuridad
+va quedando su abril, canarios, deidad
+cansada, abril pautado en humo deseando.
+
+### XVI {.verse}
+
+Olvidando una esquina ilusa
+tiñe el mantel revolado,
+ronda plumas, vuela excusa.
+Volando va trasnochado,
+su lengua, fiel a la suma,
+advierte que cuando apura
+la primavera se hiela
+o en vano pulso concierta
+escama al mantel que vuela,
+suplicio de alfombra muerta.
+
+### XVII {.verse}
+
+El girasol avisado
+envía su sangre al río.
+Sí por girasol tan girado
+fácilmente el sí envío.
+Se adelanta en el vaivén del estío
+demorado. Su transparente falsía
+reduce sus tres colores, exquisita en demasía
+vuelca su llama clavada
+en la brisa ya llamada
+para olvidar que moría.
+
+### XVIII {.verse}
+
+Punta del largo guante, pez vertical
+al viento, Ganimedes, maduras recitaciones
+se derriten al escalar
+el paisaje desleído en sus dolores
+olvidados, cansados de congelar
+la fruición del frenesí distendido
+en recurva hacia el oído
+que deslíe el ademán más borrado
+del vuelo del sumergido
+en junco y sueño, en jaspe destrozado.
+
+## CATEDRAL {.verse}
+
+::: center
+(Motivo)
+:::
+
+[Los cinco dedos,]{.inline-indent}
+por la sombra impulsados,
+en la pared se agrandan,
+pulpo de la noche cegada.
+
+[En los rincones,]{.inline-indent}
+entre pardos yerbales,
+apócrifos infantes, con la cruz
+de sus dedos, trazan cruces
+en la flor del agua.
+
+[Viene el mar, más caracol que sal.]{.inline-indent}
+No llegan los bandoleros.
+
+## CATEDRAL {.verse}
+
+(Noche y gritería)
+
+> Para Ángel Gaztelu
+
+Se llamaban.
+Llaman. Intercalaba el viento
+la sombra que no se oía,
+que pasaba su seda
+para abrir las ventanas.
+La seda y su juego,
+su juego en la noche;
+en las largas pestañas de ayer.
+Que no se oía la sombra
+y la seda se hundía.
+Se llamaban.
+Llaman. El viento entre la noche
+y la jerigonza pura de su crótalo
+entre la noche que llega
+y el viento que se la lleva.
+Se llamaban. / Llaman.
+Noche decepcionada,
+de ventanas sin gatos,
+sin perfil de barajas.
+Que hieren.
+Noche de viento / sin cielo.
+Noche.
+Sobrenadan sus ojos
+en espumas de alfombras.
+Noche,
+en su prisa el corcel
+de la niebla se tiende.
+De la mano en la niebla
+a la niebla en la mano.
+Se llamaban. / Llaman.
+En la noche sin viento
+bajo el cielo tropiezan
+la noche y las barajas.
+
+[¡Que hieren!]{.inline-indent}
+
+En el sur de la roca se ha quedado un pájaro detenido.
+
+[Atardecer,]{.inline-indent}
+la tarde en cigüeña de aquí para allí.
+
+[Atardecer,]{.inline-indent}
+en el paladar una danza de cuchillos olvidados.
+
+[Atardecer,]{.inline-indent}
+las naranjas resbalan sopladas por la luna.
+
+[Atardecer,]{.inline-indent}
+los muslos guerreaban (arco luna feroz) con dos olitas.
+
+[Atardecer,]{.inline-indent}
+piel de letra y nardo en el abanico al romper la motera.
+
+En la nieve sin nieve, caballeros plomizos, blandas algas,
+sin nieve.
+
+## NACIMIENTO DE LA HABANA {.verse}
+
+¡Qué aire!
+Camino de las playas, el aire
+ciego.
+¡Qué aire!
+¡Pero mira qué aire!
+Puñales, jacintos de torso acribillado,
+de torsos embistiendo las estatuas
+y de toros nadando por las fuentes
+y por el halago del aire.
+¡Pero mira qué aire!
+¡Míralo. Enciérralo.
+Discúlpalo!
+Que el aire pesa como plata
+hacia arriba.
+Como brazos de nieve
+hacia arriba.
+Oye la nieve. Chupa el aire.
+Avispa en una botella bajo el agua.
+El aire bajo el agua.
+Sobre el agua las estrellas
+y el aire.
+El aire ciego colocando su lengua
+en el mármol.
+Los peces ciegos.
+Como peces y agujas en el aire.
+El aire ciego.
+¡Qué aire!
+¡Pero mira qué aire,
+con sus dedos y peces
+y sus arpas dobladas!
+El aire mirándolo clavado,
+chillando en todos los ojos.
+Sin que nadie coloque,
+entre el cuerpo y el aire,
+el aire intacto sin colores.
+Ahora sí que todos estamos comprometidos
+con el aire.
+Mira qué aire y aire liso.
+Aire de pedernal.
+Aterido recuerdo en el aire sin frente.
+Olas de ciega acampan
+inexorables en el aire.
+Ya para siempre, silencio,
+pájaros amarillos bajo el agua,
+silencio, grises pájaros recuerdan
+el aire.
+
+## SE ESCONDE {.verse}
+
+Se esconde triunfal en su cuerpo.
+De él me separa su voz
+que voy sintiendo en la mía
+navegando sus brazos ya cristales.
+Menta que nieva del cielo a la garganta
+hasta el sueño veloz si distraído,
+tú por el alto cuello disfrazado
+y destrozado por el blanco rielar de las espaldas;
+tú en contraluz de barco gobernando,
+guarnecido tumulto sin perderte,
+en toros blancos pasas a otros ríos.
+Lejos, sopladas conchas sobre sueños,
+malos sueños chocando en los jardines,
+sobre el mismo nivel de los hastíos.
+Lejos, pluma entre islas, solo de jazmines,
+girar de las sombrillas a la luna,
+inclinarse girándulas besadas.
+Patinados espejos entre islas
+alzan tu frente en cielo navegable
+por sirenas de añil que mortecinas
+(entretejida lumbre de inmóvil océano)
+saltan de la prisión desvaída de las manos
+al exacto lamento de sus ojos.
+Triunfal su cuerpo se esconde.
+
+## PLAYA DE MARIANAO {.verse}
+
+Una ola
+aleja la amistad creadora.
+Lysis se sonríe
+deibujando letras
+en los anillos que cuelgan de sus alas.
+Lysis, luchando entre las olas,
+grita desesperado.
+Lysis detiene los remos
+de ritmo y oro.
+Lysis se alegra con las conchas
+frías del amanecer, y lo tapan las olas.
+Entreabre los párpados
+dentro de la sonrisa,
+picado por el pez
+más fino del oído.
+Entre arenas se estira,
+no respira dormido.
+
+## HERIDA FRONDA {.verse}
+
+Herida fronda
+se desfigura en redondez
+encendida y ponientes
+sobre álamos apagados.
+Mañanera deidad rehúsa,
+el recuerdo y el humo pulsan hilos
+de láminas que tiemblan,
+o me escuchan y se recortan fríos
+en cristal sobre arenas.
+Dioses altos, borrosos.
+El perfil de tu mano
+entre dioses perdidos.
+¡Claridad descompuesta! Se cierne
+en mimbres agitados, en peldaños
+huidos marchita nube en verde
+cabecea sus hebras más delgadas,
+cernidas tan heridas,
+me recorren, me olvidan,
+me despedazan, huyen.
+Tus esquinas unidas,
+perfección nadadora.
+Palidez de los libros
+en bostezo y velamen.
+Curva fragante, chorro
+de delfines cruzados.
+Cielo en fiesta. Resbalan
+blanduras hasta perderse
+en anillos ceñidos.
+Dulce luz acompasa
+al raptor enguantado,
+y el herido blancor
+frunce su frenesí.
+Se desdobla el soneto,
+la arboleda y el raso,
+sus galantes excesos
+miro, regusto, palpo.
+Mimbres encendidos.
+Las almohadas tan fieles
+a la fiel claridad,
+alabastros acampan.
+Redondez pasajera
+prisionera en sus viajes
+de inútiles mandatos,
+alabanza a la fábula
+del riesgo marginal.
+Y las fresas reforman
+los olvidos más puros.
+Pureza del dormido.
+Pereza del sonido.
+Más allá de la aurora
+dormidas hojas oyen.
+
+## ERRANTE {.verse}
+
+Errante de colores,
+nadar sin existir, respiración de brisas congeladas,
+agua vuela al castillo que pasa sin cesar.
+Frío de nácar muy picado
+(las torres crecen y el agua no recuerda)
+crece enterrado en los alcances del teorema rosa.
+Versátiles jaulas siderales,
+bandada de anillos pesaban sobre la luna
+inclinándola hacia la izquierda.
+¿Por qué la danza frente al humo,
+vino en el corazón del agua,
+es tan extensa que piensa por segundos
+y deshoja un polvo que suena en las columnas?
+Jaspe que abre su nudo de verano,
+niño que exprime franjas de diván,
+girasol sin sentido al lado de la tarde.
+Saeta, heráldica del agua,
+árboles amanecidos, pluma cobarde,
+cola y ciempiés no acantos influyen desvariando.
+Peregrino del humo,
+nieve por la piel de la naranja, siente
+las sienes estirarse alcanzando trigales,
+pasos de delirio se oprimen en las puertas,
+encerrados en el aire se erizan los cuchillos.
+Relumbres que vuelan sobre la fila de tanques
+las rosas brincan picadas por los segundos.
+Monumentos imprecisos, nervios despacios,
+séquito de enjambres rectilíneos si abren tallos no acombran,
+fuego de halcón, sonámbulo arenado.
+Peinan su irresponsable gradación de espumas,
+quietos, prendidos a las manos
+entre el tacto despierto y la risa marina
+queman querencias, reducen delicias
+y dejan a la luna cabecear en el barco.
+Sobrado día de anteriores extensiones,
+memoria desvalida,
+en la cristalería que reflorece despertada
+por el concierto despierto
+de mandolinas y teoremas reavivados.
+Cierto, robado
+al negar el calor del intacto moemnto,
+sucesivas siestas ladeadas,
+ya caído en el humo,
+la estatua sepultada en el agua
+y la franja sepultada en el agua
+y la franja exprimida es la sangre y la sien
+que se hundan dormidas.
+
 ## POEMA {.verse}
 
 Mi dolor no es el arco de la luna
@@ -16995,137 +17736,7 @@ La noche marinera ni rapta el tiempo ni la muerte nos trae.
 Severo el fuego construyendo adormece
 al hombre y al ángel de la llave entregada.
 
-## PARA MIS DOS HERMANAS, QUE ME REGALARON UN PAR DE ZAPATOS {.verse}
-
-Ahora mis ojos lo cercan
-y mis manos lo pueden recorrer, apretar.
-Es una navegación para la tierra y la escarcha, un zapato.
-Toco la piel, el brillo de los clavos la penetra
-alegre como un dios con la cara mojada,
-todo tan evidente como mis hermanas
-en la lejanía, como la mañana con su llegada
-para el despertar. No vienen al teléfono,
-no está el almuerzo dominical con su cine,
-la llegada de Eloy al atardecer,
-y la llegada de todos los familiares de antaño
-y la tribu de nuestra sangre,
-con sus mujeres altas y su prole bien guardada.
-Veo a mis dos hermanas dentro de los zapatos,
-como en una barca de juncos,
-saludar con un abanico habanero, saludar
-para reaparecer detrás de las costas
-con los mismos zapatos, la misma barca,
-llenos de conchas, las bromas de nuestra infancia,
-lo que todos los días nos regalaron como si nos tirásemos
-arena al rostro, con el recuerdo del Coronel
-que fue nuestro padre y cuya muerte
-profundizará siempre nuestros recuerdos, como un anticipo del destierro.
-Es el mismo zapato de Jacksonville, de Pensacola,
-de los primeros años de huérfanos,
-es el zapato que siempre espera
-para que lo conviertan en barca de junco,
-es el zapato siempre esperado,
-es el ucello, la carroza, el gran pájaro.
-Veo ahora y comprendo desde la raíz que no es el cuarto sostenido
-por los tirantes del que se cortó la oreja.
-Veo el billar tropezado por las boinas azulear,
-y al centro, el par de zapatos como una fruta,
-pues ambos están apolismados por el uso
-y la crueldad que se rehúsa,
-pues las arrugas de esos zapatos parecen las carcajadas de un pescador viejo.
-La cama del mesón en la aldea,
-que guarda en su centro el par de zapatos,
-mientras el sueño sale como una guadaña
-para degollar a los espantapájaros.
-El par de zapatos del hombre que se cortó
-la oreja —los pitagóricos, con sus casas propicias
-a los incendios del Este, creían en un muslo de oro—,
-y que ahora exigen el centro de su cuarto,
-las apoyadas equivalencias estelares,
-entre la nada y el grillo que raspa sus sienes.
-Mi hermana mayor ¿recuerdas la última Navidad
-que pasamos con nuestro padre?;
-Eloísa, ¿recuerdas los Reyes en las madrugadas
-de Prado, en el recuerdo como los ras de mar,
-con sus colecciones coralinas y sus algas rayadas?
-La ausencia, la ausencia del que se había ido en el mes de enero,
-estremecía nuestra casa,
-desde el silbato del cartero hasta la visita de las tías.
-Todo eso volviendo como las nubes que tropiezan
-en los barandales retorcidos,
-reapareciendo en el par de zapatos,
-besados por una ardilla de nieve
-en el círculo de su retorno infinito.
-Ustedes por las tiendas, con las medidas, buscando,
-yo apretando esos cordones, abrillantándolos,
-pasándoles la mano al par de zapatos,
-lentamente, como dos animalejos que salen de la consola de ébano.
-Ascendiendo en el manantial de las aguas del espejo,
-se sientan esas ardillas sobre su cola, con aquellos muebles
-color de aceituna de nuestra casona
-infantil de Prado, que iban de la sala al comedor,
-los días de ras de mar y el día del velorio de Horacio.
-Antes de que me rectifiquen: eran los muebles
-que pasaron del campamento a Prado,
-no los de color caoba, que eran los de Abuela,
-con sus banqueticas para los pies,
-donde ahora veo el par de zapatos
-que ustedes me han enviado desde las Navidades
-del destierro, con su ardilla de nieve al teléfono.
-¡Dios mío, qué acoplamiento en torno del zapato viejo,
-el Can, la Osa Mayor, la Lira,
-el Tercer Rey fundador con su hocico de buey,
-y sobre su cabeza de diorita egipcia, el Gavilán!
-Los pasos, los verdaderos pasos en la espalda
-del cielo, el eco de cada paso,
-es una medida que se prolonga en una huella,
-y en una penetración que nos regala
-la ceguera de la marcha.
-¿Qué medimos en cada una de nuestras pisadas,
-las hojas sonrientes en el ondular de la mañana,
-o la penetración invisible en la balanza de Proserpina?
-Sé que mis hermanas me han regalado
-un par de zapatos, sé que cuidan
-mis pisadas alrededor de las hojas,
-sé que cuando yo duermo,
-ellas cuidan mis pasos, los preparan y los miden.
-Estoy entrando en la noche,
-oigo suavemente mis pasos preparados
-por mis dos hermanas. Oigo
-la ardilla de nieve al teléfono,
-escucho el ruido de los muebles
-que retroceden de la sala al comedor. Miro mis zapatos, estoy tan
-alegre como cuando veíamos extenderse la fila de árboles del Prado al día
-siguiente de un ras de mar.
-
-## RETRATO DE JOSÉ CEMÍ {.verse}
-
-No libró ningún combate, pues jadear
-fue la costumbre establecida entre su hálito
-y la brisa o la tempestad.
-Su nombre es también Thelema Semi,
-su voluntad puede buscar un cuerpo
-en la sombra, la sombra de un árbol
-y el árbol que está a la entrada del Infierno.
-Fue fiel a Orfeo y a Proserpina.
-Reverenció a sus amigos, a la melodía,
-ya la que se oculta, o la que hace temblar
-en el estío a las hojas.
-El arte lo acompañó todos los días,
-la naturaleza le regaló su calma y su fiebre.
-Calmosos como la noche,
-la fiebre le hizo agotar la sed
-en ríos sumergidos,
-pues él buscaba un río y no un camino.
-Tiempo le fue dado para alcanzar la dicha,
-pudo oírle a Pascal:
-los ríos son caminos que andan.
-Así todo lo que creyó en la fiebre,
-lo comprendió después calmosamente.
-Es en lo que cree, está donde conoce,
-entre una columna de aire y la piedra del sacrificio.
-
-## LA CASA DEL ALIBI {.verse}
+## LA CASA DEL ALIBI [^casadelalibi_src] {.verse}
 
 Respondedme, ¿está reciente, recién sacudida y recién nacida la casa del alibi?
 
@@ -17136,7 +17747,7 @@ La casa del alibi, donde el saludo apretando el hombro se iguala con la puerta a
 Y la fulminante crecida de los clavos por el paredón tiene el ceremonial de la
 capa que allí se cuelga y el bulto traído por el viento que le presta sus piedras.
 
-Pues José Martí fue para todos nosotros la última casa del alibi,
+Pues José Martí fue para todos nosotros la última casa del alibi,[^casadelalibi_1]
 que está en la séptima luna de las mareas, y la penetran los ejércitos y se deshace penetrándonos.
 
 No le arredra ver la suntuosa pesadumbre del primer signo del cadmeo, que significa buey,
@@ -17166,9 +17777,9 @@ Pero sabe que quien huye de la escarcha se encuentra con la nieve,
 y sabe que él tiene que llegar hasta allí, y que el cenital
 de la casa se alcanzará en su vaciedad con lunas bajamar.
 
-El primer desierto es el del rasguño en la piedra, se toca así la primera risueña absurdidad,
-la mano toca el armonio de inapresable pequeñez y el vuelco de sus sones y ojos
-cae como la cascada que el pez desaloja para enterrarse en el movimiento.
+El primer desierto es el del rasguño en la piedra,[^casadelalibi_2] se toca así la primera risueña absurdidad,
+la mano toca el armonio[^casadelalibi_3] de inapresable pequeñez y el vuelco de sus sones y ojos
+cae como la cascada que el pez desaloja para enterrarse en el movimiento. [^casadelalibi_dador]
 
 Es la desmandada risa ante el zumbante sombrero planetario y el consejo
 que llega: colocarse los hijos gatunos en el sombrero.
@@ -17177,7 +17788,7 @@ El segundo desierto es la vuelta para alcanzar la cámara,
 donde el rey y la reina sonámbulos hierven sus semillas,
 y el encorvado suspicaz proclama su insensatez de testigo
 y el risueño cumplido que cumple su delicadeza con el amarrado caballo,
-pagándola en muerte cercana, poniéndose en sitio de palma que arrebata
+pagándola en muerte cercana, poniéndose en sitio de palma que arrebata[^casadelalibi_4]
 al caballo, ahora los tres enigmas vuelan y embiste Nadión.
 
 En el desierto el tercer método es la cascada congelada,
@@ -17201,3 +17812,65 @@ el que resguarda sus sílabas de violín y el nadismo de su cabellera bermeja,
 y el espejo de cartón acariciado por los estiramientos del humo retomado y volcado,
 tienen ya que saber que el mejor está allí y en el claro desdén de las previas
 antologías órficas.
+
+[^casadelalibi_1]: “José Martí fue para todos nosotros el único que logró penetrar en la casa del alibi. El estado místico, el alibi, donde la imaginación puede engendrar el sucedido y cada hecho se transfigura en el espejo de los enigmas”. (José Lezama Lima: “Secularidad de José Martí”, Orígenes. Revista de Arte y Literatura, La Habana, 1953, año X, no. 33, p. 3).
+\
+En José Martí culminaron todas las tradiciones cubanas de la palabra […]. Su figura recuerda lo que los místicos orientales llaman el alibi, capaz de crear por la imagen la realidad. Su importancia rebasa los límites de nuestra frontera, para ser una figura universal en las perspectivas que proyecta”. (José Lezama Lima: “[En José Martí culminaron…]”, “Prólogo”, Antología de la poesía cubana, 3 t., La Habana, Consejo Nacional de Cultura, 1965, t. II, p. 1036).
+
+[^casadelalibi_2]: “Al cumplimentar esos primeros diez años de ORÍGENES, podemos ofrecer el primer método para operar en nuestra circunstancia: el rasguño en la piedra. Pero en esa hendidura podrá deslizarse, tal vez, el soplo del Espíritu, ordenando el posible nacimiento de una nueva modulación. Después, otra vez el silencio”. (José Lezama Lima: “Diez años en Orígenes. Advertencia”, Orígenes. Revista de Arte y Literatura, La Habana, 1954, año XI, no. 35, pp. 65-66).
+
+[^casadelalibi_3]: Primera versión: “un órgano”.
+
+[^casadelalibi_4]: Lectura dudosa.
+
+[^casadelalibi_src]: Tomado de “La casa del alibi”, Obras 4. Crítica 2, La Habana, Editorial Letras Cubanas, 2001, pp. 441-444. Notas por Casa Vitier García Marruz.
+
+[^casadelalibi_dador]: Versos aparecidos en la sexta entrada del poema inicial de _Dador_.
+
+## RETRATO DE JOSÉ CEMÍ [^retratodejc] {.verse}
+
+No libró ningún combate, pues jadear
+fue la costumbre establecida entre su hálito
+y la brisa o la tempestad.
+Su nombre es también Thelema Semi,
+su voluntad puede buscar un cuerpo
+en la sombra, la sombra de un árbol
+y el árbol que está a la entrada del Infierno.
+Fue fiel a Orfeo y a Proserpina.
+Reverenció a sus amigos, a la melodía,
+ya la que se oculta, o la que hace temblar
+en el estío a las hojas.
+El arte lo acompañó todos los días,
+la naturaleza le regaló su calma y su fiebre.
+Calmosos como la noche,
+la fiebre le hizo agotar la sed
+en ríos sumergidos,
+pues él buscaba un río y no un camino.
+Tiempo le fue dado para alcanzar la dicha,
+pudo oírle a Pascal:
+los ríos son caminos que andan.
+Así todo lo que creyó en la fiebre,
+lo comprendió después calmosamente.
+Es en lo que cree, está donde conoce,
+entre una columna de aire y la piedra del sacrificio.
+
+[^retratodejc]: Poema consignaod en el capítulo XI de Paradiso.
+
+# INICIO Y ESCAPE [^inicioyescape]
+
+[^inicioyescape]: Escrito el título «Poesías», que aparece tachado. En el encabezamiento de la página «José Lezama: Poesía / MCMXXVII—?». En la mitad inferior a lápiz: «Poesía, de su autor José Lezama». Hay un cuño: «Colección / José Lezama Lima / La Habana. La transcripción y las notas corresponden a la poesía contenida en la libreta, con exclusión del texto Sueño, sexo y cloaca» (p. 23-25), tachado completamente. Se omiten, asimismo, los borrones, fragmentos y apuntes en prosa, cuyas transcripciones aparecerían en otros apartados de las obras completas de su autor.
+
+> «Cuando ella se ha ido, \
+> es cuando yo la miro. \
+> Luego cuando ella viene \
+> ella desaparece». 
+
+Juan Ramón Jiménez [^citajuanramón]
+
+[^citajuanramón]: «Cuando la mujer está, / todo es, tranquilo, lo que es / —la llama, la flor, la música—. / Cuando la mujer se fue, / —La luz, la canción, la llama—, / ¡todo! es, loco, la mujer». Juan Ramón Jiménez, _Jardines lejanos_ (1903-1904)
+
+\newpage
+
+(Lo que aquí se dice únicamente flota ascendente amaparado en la virtualidad de un ejercicio de clase. Sobre otros momentos, claveteados, prefijos, unitivos, se han ido centrando estos momentos. La arquitectura intenta rezar sus juegos de agua, y se ve el salto y el brazo del nadador; pero después queda la orilla fragmentada, fláccido el brazo; el cinturón de lo exacto, recio, raudo, sólo ha anillado un trozo de Junco. Sólo existen como materia de elaboraciones y de faenas y de márgenes. Después la larga cola nívea de abejas).
+
+J.L.L

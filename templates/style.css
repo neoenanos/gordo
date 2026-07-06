@@ -15,7 +15,7 @@ html {
 body {
     color: #444;
     font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
-    font-size: 16px;
+    /* font-size: 16px; */
     line-height: 1.7;
     padding: 1em;
     margin: auto;
@@ -98,6 +98,12 @@ h1 {
 
 h2 {
     font-size: 2em;
+}
+
+/* Ensure colophon starts on a new page in paged media / EPUB reading systems */
+.colophon {
+    page-break-before: always;
+    break-before: always;
 }
 
 h3 {
@@ -266,10 +272,9 @@ table td {
 
 .author {
     font-size: 1.2em;
-    text-align: center;
 }
 
-@media only screen and (min-width: 480px) {
+/* @media only screen and (min-width: 480px) {
     body {
         font-size: 18px;
     }
@@ -279,7 +284,7 @@ table td {
     body {
         font-size: 20px;
     }
-}
+} */
 
 @media print {
     * {
@@ -289,7 +294,7 @@ table td {
         -ms-filter: none !important;
     }
     body {
-        font-size: 16pt;
+        /* font-size: 16pt; */
         max-width: 100%;
     }
     a,

@@ -5,12 +5,13 @@ rights: CC-BY-SA-4.0
 lang: es-CL
 mainlang: spanish
 otherlang: spanish
-tags: [pandoc, book, memoirs, etc]
+tags: [pandoc, book, poetry, cuba]
 documentclass: extbook
 fontsize: 14pt
 top-level-division: chapter
 header-includes:
 - \input{templates/geometry.tex}
+- \input{templates/titlepage.tex}
 - \usepackage{emptypage}
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
@@ -23,9 +24,9 @@ header-includes:
 - \usepackage{verse}
 #- \let\cleardoublepage\clearpage
 - \setlength{\leftmargini}{0em}
-# abstract: |
-#   Las memorias del abuelete.
 mainfont: IM FELL English
+mainfontoptions:
+  - AutoFakeBold=0.1
 mainfontfallback:
   - "Takao Mincho:script=cjk"
   - "Noto Sans Batak:Renderer=Harfbuzz"

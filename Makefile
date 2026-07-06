@@ -12,14 +12,14 @@ MAKEFILE = Makefile
 OUTPUT_FILENAME = book
 METADATA = metadata.yml
 CHAPTERS += $(addprefix ./chapters/,\
-s/POEMAS.md \
 s/MUERTE_DE_NARCISO.md \
 s/ENEMIGO_RUMOR.md \
 s/AVENTURAS_SIGILOSAS.md \
 s/LA_FIJEZA.md \
 s/DADOR.md \
-s/POEMAS_NO_PUBLICADOS_EN_LIBRO.md \
 s/FRAGMENTOS_A_SU_IMÁN.md \
+s/SOBRE_EL_CREPÚSCULO_Y_MONSTRUOS_DEL_AGUA_[^sobreelcre].md \
+s/POEMAS_NO_PUBLICADOS_EN_LIBRO.md \
 s/OTROS_POEMAS.md \
 )
 
@@ -27,7 +27,7 @@ TOC = --toc --toc-depth 5
 METADATA_ARGS = --metadata-file $(METADATA)
 IMAGES = $(shell find images -type f)
 TEMPLATES = $(shell find templates/ -type f)
-COVER_IMAGE = images/image.png
+COVER_IMAGE = images/cover.jpg
 MATH_FORMULAS = --webtex
 
 # Chapters content
@@ -41,7 +41,7 @@ BOOK_PDF := build/pdf/book.pdf
 
 # Debugging
 
-DEBUG_ARGS = --verbose
+DEBUG_ARGS = # --verbose
 
 # Pandoc filtes - uncomment the following variable to enable cross references filter. For more
 # information, check the "Cross references" section on the README.md file.
@@ -100,7 +100,7 @@ RENAME_CHAPTERS = rename -f 's/ /_/g' chapters/*
 
 all:	split book
 
-book:	epub html pdf docx
+book:	split epub html pdf docx
 
 clean:
 	$(RMDIR_CMD) $(BUILD)

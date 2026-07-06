@@ -96,5 +96,11 @@ function Span(el)
       el
     }
   end
+  if el.classes:includes("big-indent") then
+    return {
+      pandoc.RawInline("latex", "\\hspace{6em}"),
+      el
+    }
+  end
 end
 
