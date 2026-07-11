@@ -1,3 +1,58 @@
+local function hardbreaks(block)
+  return pandoc.walk_block(block, {
+    SoftBreak = function()
+      return pandoc.LineBreak()
+    end
+  })
+end
+
+local function process_quotes(block, inside_quote)
+  if block.t ~= "BlockQuote" then
+    return block
+  end
+
+  -- First process children
+  local newcontent = {}
+
+  for _, child in ipairs(block.content) do
+    local result = process_quotes(child, true)
+
+    if result.t then
+      table.insert(newcontent, result)
+    else
+      for _, b in ipairs(result) do
+        table.insert(newcontent, b)
+      end
+    end
+  end
+
+  block.content = newcontent
+
+  -- This blockquote is the attribution (nested quote)
+  if inside_quote and #block.content == 1 and block.content[1].t == "Para" then
+    if FORMAT:match("latex") then
+      return {
+        pandoc.RawBlock("latex", "\\begin{flushright}\\upshape"),
+        block.content[1],
+        pandoc.RawBlock("latex", "\\end{flushright}")
+      }
+    end
+
+    return block
+  end
+
+  -- This is a normal quote
+  if FORMAT:match("latex") then
+    return {
+      pandoc.RawBlock("latex", "\\begin{itshape}"),
+      block,
+      pandoc.RawBlock("latex", "\\end{itshape}")
+    }
+  end
+
+  return block
+end
+
 function Pandoc(doc)
   local newblocks = {}
   local i = 1
@@ -31,17 +86,7 @@ function Pandoc(doc)
         local nextel = blocks[i]
 
         -- Convert soft breaks inside paragraphs
-        if nextel.t == "Para" then
-          local newcontent = {}
-          for _, inline in ipairs(nextel.content) do
-            if inline.t == "SoftBreak" then
-              table.insert(newcontent, pandoc.LineBreak())
-            else
-              table.insert(newcontent, inline)
-            end
-          end
-          nextel.content = newcontent
-        end
+        nextel = hardbreaks(nextel)
 
         table.insert(newblocks, nextel)
         i = i + 1
@@ -56,51 +101,90 @@ function Pandoc(doc)
     end
   end
 
+  local processed = {}
+
+  for _, block in ipairs(newblocks) do
+    local result = process_quotes(block, false)
+
+    if result.t then
+      table.insert(processed, result)
+    else
+      for _, b in ipairs(result) do
+        table.insert(processed, b)
+      end
+    end
+  end
+
+  newblocks = processed
+
   return pandoc.Pandoc(newblocks, doc.meta)
 end
 
 function Div(el)
+
   if el.classes:includes("verse") then
     local blocks = {}
 
-    table.insert(blocks, pandoc.RawBlock("latex", "\\begin{verse}"))
+    table.insert(
+      blocks,
+      pandoc.RawBlock("latex", "\\begin{verse}")
+    )
 
     for _, block in ipairs(el.content) do
-      if block.t == "Para" then
-        local newcontent = {}
-
-        for _, inline in ipairs(block.content) do
-          if inline.t == "SoftBreak" then
-            table.insert(newcontent, pandoc.LineBreak())
-          else
-            table.insert(newcontent, inline)
-          end
-        end
-
-        block.content = newcontent
-      end
-
-      table.insert(blocks, block)
+      table.insert(blocks, hardbreaks(block))
     end
 
-    table.insert(blocks, pandoc.RawBlock("latex", "\\end{verse}"))
+    table.insert(
+      blocks,
+      pandoc.RawBlock("latex", "\\end{verse}")
+    )
 
     return blocks
   end
+
+
+  if FORMAT:match("latex") and el.classes:includes("indent") then
+    local blocks = {}
+
+    table.insert(
+      blocks,
+      pandoc.RawBlock("latex", "{\\leftskip=2em")
+    )
+
+    for _, block in ipairs(el.content) do
+      table.insert(blocks, hardbreaks(block))
+    end
+
+    table.insert(
+      blocks,
+      pandoc.RawBlock("latex", "}")
+    )
+
+    return blocks
+  end
+
+  return el
 end
 
 function Span(el)
-  if el.classes:includes("inline-indent") then
-    return {
-      pandoc.RawInline("latex", "\\hspace{2em}"),
-      el
-    }
+  local indent = nil
+
+  for _, class in ipairs(el.classes) do
+    if class == "inline-indent" then
+      indent = "2"   -- default
+      break
+    end
+
+    indent = class:match("^inline%-indent%-(%d+)$")
+    if indent then
+      break
+    end
   end
-  if el.classes:includes("big-indent") then
+
+  if indent then
     return {
-      pandoc.RawInline("latex", "\\hspace{6em}"),
-      el
+      pandoc.RawInline("latex", "\\hspace{" .. indent .. "em}"),
+      pandoc.Span(el.content)
     }
   end
 end
-

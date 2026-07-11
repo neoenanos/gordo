@@ -347,3 +347,28 @@ table td {
         page-break-after: avoid;
     }
 }
+
+.indent {
+    margin-left: 2em;
+}
+
+.inline-indent {
+    margin-left: 2em;
+}
+
+.inline-indent-3 {
+    margin-left: 3em;
+}
+
+.align-right {
+    text-align: right;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+blockquote blockquote {
+    font-style: normal;
+    text-align: right;
+}

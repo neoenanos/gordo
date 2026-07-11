@@ -19,6 +19,7 @@ s/LA_FIJEZA.md \
 s/DADOR.md \
 s/FRAGMENTOS_A_SU_IMÁN.md \
 s/SOBRE_EL_CREPÚSCULO_Y_MONSTRUOS_DEL_AGUA_[^sobreelcre].md \
+s/INICIO_Y_ESCAPE_[^inicioyescape].md \
 s/POEMAS_NO_PUBLICADOS_EN_LIBRO.md \
 s/OTROS_POEMAS.md \
 )
@@ -98,7 +99,7 @@ RENAME_CHAPTERS = rename -f 's/ /_/g' chapters/*
 
 .PHONY: all book clean copy epub html pdf docx split
 
-all:	split book
+all:	book
 
 book:	split epub html pdf docx
 
@@ -112,13 +113,13 @@ copy:
 # File builders
 ####################################################################################################
 
-epub:	$(BUILD)/epub/$(OUTPUT_FILENAME).epub
+epub:	split $(BUILD)/epub/$(OUTPUT_FILENAME).epub
 
-html:	$(BUILD)/html/$(OUTPUT_FILENAME).html
+html:	split $(BUILD)/html/$(OUTPUT_FILENAME).html
 
-pdf:	$(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
+pdf:	split $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
 
-docx:	$(BUILD)/docx/$(OUTPUT_FILENAME).docx
+docx:	split $(BUILD)/docx/$(OUTPUT_FILENAME).docx
 
 $(BUILD)/epub/$(OUTPUT_FILENAME).epub:	$(EPUB_DEPENDENCIES)
 	$(ECHO_BUILDING)
