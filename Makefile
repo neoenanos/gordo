@@ -49,6 +49,11 @@ DEBUG_ARGS = # --verbose
 
 # FILTER_ARGS = --filter pandoc-crossref
 
+# Per-format include fragments (use format-appropriate raw snippets)
+COMPILE_DATE = $(shell date +"%Y-%m-%d")
+INCLUDE_BEFORE_PDF = --include-before-body=templates/colophon.tex
+
+
 # Combined arguments
 
 ARGS = $(TOC) $(MATH_FORMULAS) $(METADATA_ARGS) $(FILTER_ARGS) $(DEBUG_ARGS)
@@ -124,7 +129,10 @@ docx:	split $(BUILD)/docx/$(OUTPUT_FILENAME).docx
 $(BUILD)/epub/$(OUTPUT_FILENAME).epub:	$(EPUB_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/epub
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(EPUB_ARGS) -o $@
+	$(MKDIR_CMD) $(BUILD)/tmp
+	@sed 's/<!--fecha-->/'"$(COMPILE_DATE)"'/g' templates/colophon.html > $(BUILD)/tmp/colophon.html
+	@awk 'BEGIN{f="$(BUILD)/tmp/colophon.html"} {print} /<!--COLPHON_MARKER-->/ {while((getline line < f)>0) print line}' templates/epub.html > $(BUILD)/tmp/epub_template.html
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) --template=$(BUILD)/tmp/epub_template.html $(ARGS) $(EPUB_ARGS) -o $@
 	$(ECHO_BUILT)
 
 $(BUILD)/html/$(OUTPUT_FILENAME).html:	$(HTML_DEPENDENCIES)
@@ -137,7 +145,7 @@ $(BUILD)/html/$(OUTPUT_FILENAME).html:	$(HTML_DEPENDENCIES)
 $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf:	$(PDF_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/pdf
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(PDF_ARGS) -o $@
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(INCLUDE_BEFORE_PDF) $(ARGS) $(PDF_ARGS) -o $@
 	$(ECHO_BUILT)
 
 $(BUILD)/docx/$(OUTPUT_FILENAME).docx:	$(DOCX_DEPENDENCIES)
