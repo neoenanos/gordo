@@ -17794,7 +17794,7 @@ y sabe que él tiene que llegar hasta allí, y que el cenital
 de la casa se alcanzará en su vaciedad con lunas bajamar.
 
 El primer desierto es el del rasguño en la piedra,[^casadelalibi_2] se toca así la primera risueña absurdidad,
-la mano toca el armonio[^casadelalibi_3] de inapresable pequeñez y el vuelco de sus sones y ojos
+la mano toca el armonio de inapresable pequeñez y el vuelco de sus sones y ojos
 cae como la cascada que el pez desaloja para enterrarse en el movimiento. [^casadelalibi_dador]
 
 Es la desmandada risa ante el zumbante sombrero planetario y el consejo
@@ -17804,7 +17804,7 @@ El segundo desierto es la vuelta para alcanzar la cámara,
 donde el rey y la reina sonámbulos hierven sus semillas,
 y el encorvado suspicaz proclama su insensatez de testigo
 y el risueño cumplido que cumple su delicadeza con el amarrado caballo,
-pagándola en muerte cercana, poniéndose en sitio de palma que arrebata[^casadelalibi_4]
+pagándola en muerte cercana, poniéndose en sitio de palma que arrebata
 al caballo, ahora los tres enigmas vuelan y embiste Nadión.
 
 En el desierto el tercer método es la cascada congelada,
@@ -17834,10 +17834,6 @@ antologías órficas.
 En José Martí culminaron todas las tradiciones cubanas de la palabra […]. Su figura recuerda lo que los místicos orientales llaman el alibi, capaz de crear por la imagen la realidad. Su importancia rebasa los límites de nuestra frontera, para ser una figura universal en las perspectivas que proyecta”. (José Lezama Lima: “[En José Martí culminaron…]”, “Prólogo”, Antología de la poesía cubana, 3 t., La Habana, Consejo Nacional de Cultura, 1965, t. II, p. 1036).
 
 [^casadelalibi_2]: “Al cumplimentar esos primeros diez años de ORÍGENES, podemos ofrecer el primer método para operar en nuestra circunstancia: el rasguño en la piedra. Pero en esa hendidura podrá deslizarse, tal vez, el soplo del Espíritu, ordenando el posible nacimiento de una nueva modulación. Después, otra vez el silencio”. (José Lezama Lima: “Diez años en Orígenes. Advertencia”, Orígenes. Revista de Arte y Literatura, La Habana, 1954, año XI, no. 35, pp. 65-66).
-
-[^casadelalibi_3]: Primera versión: “un órgano”.
-
-[^casadelalibi_4]: Lectura dudosa.
 
 [^casadelalibi_src]: Tomado de “La casa del alibi”, Obras 4. Crítica 2, La Habana, Editorial Letras Cubanas, 2001, pp. 441-444. Notas por Casa Vitier García Marruz.
 
