@@ -43,13 +43,13 @@ IMAGES = $(shell find images -type f)
 TEMPLATES = $(shell find templates/ -type f)
 MATH_FORMULAS = --webtex
 
-# Chapters content
-CONTENT = awk 'FNR==1 && NR!=1 {print "\n\n"}{print}' $(CHAPTERS)
-CONTENT_FILTERS = tee # Use this to add sed filters or other piped commands
-
 # Debugging
-
+QUIET = @
 DEBUG_ARGS = # --verbose
+
+# Chapters content
+CONTENT = $(QUIET)awk 'FNR==1 && NR!=1 {print "\n\n"}{print}' $(CHAPTERS)
+CONTENT_FILTERS = tee # Use this to add sed filters or other piped commands
 
 # Pandoc filtes - uncomment the following variable to enable cross references filter. For more
 # information, check the "Cross references" section on the README.md file.
