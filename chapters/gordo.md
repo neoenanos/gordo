@@ -18608,7 +18608,7 @@ Labios, no de ángeles: amor.
 En toda pulsera el claror
 que va hacia ningún delirio;
 dueño mío, dueño, alivio
-en el contorno, nardo enamorador.
+en el contorno del nardo enamorador.
 
 ### III
 
