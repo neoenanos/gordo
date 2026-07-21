@@ -38,12 +38,9 @@ $for(creator)$
 $endfor$
 $if(publisher)$
   <p class="publisher">$publisher$</p>
-$endif$
-$if(date)$
-  <p class="date">$date$</p>
-$endif$
+$endif$ 
 </section>
-<!--COLPHON_MARKER-->
+${ colophon() }
 $else$
 $if(coverpage)$
 <div id="cover-image">
@@ -52,9 +49,6 @@ $if(coverpage)$
 </svg>
 </div>
 $else$
-$for(include-before)$
-$include-before$
-$endfor$
 $body$
 $for(include-after)$
 $include-after$
