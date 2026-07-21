@@ -35,6 +35,8 @@ BUILD = build
 MAKEFILE = Makefile
 METADATA = metadata.yml
 
+BOOKLET_SIGNATURE = 28
+
 TOC = --toc --toc-depth 5
 METADATA_ARGS = --metadata-file $(METADATA)
 IMAGES = $(shell find images -type f)
@@ -102,11 +104,11 @@ RENAME_CHAPTERS = rename -f 's/ /_/g' chapters/*
 # Basic actions
 ####################################################################################################
 
-.PHONY: all book clean copy epub html pdf docx split
+.PHONY: all book clean copy epub html pdf docx booklet split
 
 all:	book
 
-book:	split epub html pdf docx
+book:	split epub html pdf docx booklet
 
 clean:
 	$(RMDIR_CMD) $(BUILD)
@@ -122,6 +124,8 @@ html:	split $(BUILD)/html/$(OUTPUT_FILENAME).html
 pdf:	split $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
 
 docx:	split $(BUILD)/docx/$(OUTPUT_FILENAME).docx
+
+booklet: $(BUILD)/pdf/$(OUTPUT_FILENAME)-book.pdf
 
 $(BUILD)/epub/$(OUTPUT_FILENAME).epub:	$(EPUB_DEPENDENCIES)
 	$(ECHO_BUILDING)
@@ -146,6 +150,14 @@ $(BUILD)/docx/$(OUTPUT_FILENAME).docx:	$(DOCX_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/docx
 	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(DOCX_ARGS) -o $@
+	$(ECHO_BUILT)
+
+$(BUILD)/pdf/$(OUTPUT_FILENAME)-book.pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
+	$(ECHO_BUILDING)
+	pdfbook2 \
+		--signature $(BOOKLET_SIGNATURE) \
+		--paper=letterpaper \
+		$<
 	$(ECHO_BUILT)
 
 ####################################################################################################
