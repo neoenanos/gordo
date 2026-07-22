@@ -94,10 +94,10 @@ else # Linux
 	COPY_CMD = cp --parent
 endif
 
-MKDIR_CMD = mkdir -p
+MKDIR_CMD = $(QUIET)mkdir -p
 RMDIR_CMD = rm -r
-ECHO_BUILDING = @echo "building $@...\n\n"
-ECHO_BUILT = @echo "$@ was built\n\n"
+ECHO_BUILDING = @echo "building $@..."
+ECHO_BUILT = @echo "$@ was built"
 RENAME_CHAPTERS = rename -f 's/ /_/g' chapters/*
 
 ####################################################################################################
@@ -137,7 +137,7 @@ $(BUILD)/html/$(OUTPUT_FILENAME).html:	$(HTML_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/html
 	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(HTML_ARGS) -o $@
-	$(COPY_CMD) $(IMAGES) $(BUILD)/html/
+	$(QUIET)$(COPY_CMD) $(IMAGES) $(BUILD)/html/
 	$(ECHO_BUILT)
 
 $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf:	$(PDF_DEPENDENCIES)
