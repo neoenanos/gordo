@@ -9,6 +9,7 @@ otherlang: spanish
 tags: [pandoc, book, poetry, cuba]
 documentclass: extbook
 fontsize: 14pt
+linestretch: 1.2
 top-level-division: chapter
 header-includes:
 - \input{templates/geometry.tex}

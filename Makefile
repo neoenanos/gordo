@@ -157,6 +157,8 @@ $(BUILD)/pdf/$(OUTPUT_FILENAME)-book.pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
 	pdfbook2 \
 		--signature $(BOOKLET_SIGNATURE) \
 		--paper=letterpaper \
+		--short-edge \
+		--no-crop \
 		$<
 	$(ECHO_BUILT)
 
