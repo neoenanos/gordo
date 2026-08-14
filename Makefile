@@ -37,6 +37,10 @@ METADATA = metadata.yml
 
 BOOKLET_SIGNATURE = 28
 
+BLANK_TEMPLATE = templates/blank-empty.tex
+BLANK_PDF = $(BUILD)/pdf/blank-pages.pdf
+BOOKLET_OUTPUT = $(BUILD)/pdf/$(OUTPUT_FILENAME)-book.pdf
+
 TOC = --toc --toc-depth 5
 METADATA_ARGS = --metadata-file $(METADATA)
 IMAGES = $(shell find images -type f)
@@ -81,6 +85,7 @@ DOCX_DEPENDENCIES = $(BASE_DEPENDENCIES)
 EPUB_DEPENDENCIES = $(BASE_DEPENDENCIES)
 HTML_DEPENDENCIES = $(BASE_DEPENDENCIES)
 PDF_DEPENDENCIES = $(BASE_DEPENDENCIES)
+BOOKLET_DEPENDENCIES = $(BASE_DEPENDENCIES) $(BLANK_PDF)
 
 # Detected Operating System
 
@@ -104,14 +109,18 @@ RENAME_CHAPTERS = rename -f 's/ /_/g' chapters/*
 # Basic actions
 ####################################################################################################
 
-.PHONY: all book clean copy epub html pdf docx booklet split
+.PHONY: all book clean clean-tmp copy epub html pdf docx booklet split blank-pdf
 
 all:	book
 
-book:	split epub html pdf docx booklet
+book:	split epub html blank-pdf pdf docx booklet clean-tmp
 
 clean:
 	$(RMDIR_CMD) $(BUILD)
+
+clean-tmp:
+	rm -f $(BUILD)/pdf/$(OUTPUT_FILENAME)-with-blank.pdf $(BLANK_PDF) $(BUILD)/pdf/blank-pages.aux $(BUILD)/pdf/blank-pages.log $(BUILD)/pdf/blank-pages.out
+
 
 ####################################################################################################
 # File builders
@@ -125,7 +134,9 @@ pdf:	split $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
 
 docx:	split $(BUILD)/docx/$(OUTPUT_FILENAME).docx
 
-booklet: $(BUILD)/pdf/$(OUTPUT_FILENAME)-book.pdf
+booklet: $(BOOKLET_OUTPUT)
+
+blank-pdf: $(BLANK_PDF)
 
 $(BUILD)/epub/$(OUTPUT_FILENAME).epub:	$(EPUB_DEPENDENCIES)
 	$(ECHO_BUILDING)
@@ -152,14 +163,22 @@ $(BUILD)/docx/$(OUTPUT_FILENAME).docx:	$(DOCX_DEPENDENCIES)
 	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(DOCX_ARGS) -o $@
 	$(ECHO_BUILT)
 
-$(BUILD)/pdf/$(OUTPUT_FILENAME)-book.pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
+$(BOOKLET_OUTPUT): $(BOOKLET_DEPENDENCIES) $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
 	$(ECHO_BUILDING)
+	pdfunite $(BLANK_PDF) $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf $(BUILD)/pdf/$(OUTPUT_FILENAME)-with-blank.pdf
 	pdfbook2 \
 		--signature $(BOOKLET_SIGNATURE) \
 		--paper=letterpaper \
 		--short-edge \
 		--no-crop \
-		$<
+		$(BUILD)/pdf/$(OUTPUT_FILENAME)-with-blank.pdf
+	mv $(BUILD)/pdf/$(OUTPUT_FILENAME)-with-blank-book.pdf $@
+	$(ECHO_BUILT)
+
+$(BLANK_PDF): $(BLANK_TEMPLATE) $(TEMPLATES)
+	$(ECHO_BUILDING)
+	$(MKDIR_CMD) $(BUILD)/pdf
+	lualatex -interaction=batchmode -output-directory=$(BUILD)/pdf -jobname=blank-pages $(BLANK_TEMPLATE)
 	$(ECHO_BUILT)
 
 ####################################################################################################
