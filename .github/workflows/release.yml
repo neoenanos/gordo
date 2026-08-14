@@ -72,7 +72,7 @@ jobs:
           sudo apt-get install -y \
             make \
             rename \
-            pdfunite \
+            poppler-utils \
             texlive-luatex \
             texlive-latex-base \
             texlive-latex-recommended \
