@@ -17177,7 +17177,140 @@ evaporo el otro que sigue caminando.
 
 # OTROS POEMAS
 
+## NOCHE INSULAR
+
+Nadan los países de halos y alfrombras.
+
+Llevan adentro un musco de islas, donde escampa, pero oprime, la música perfume de tacto sin nieve, y el arcángel, delgado resuelle, de medida en media hora, va dejando caer las chimeneas, sin que nos prevenga una bocina de llamas, que es la hora de detener los aretes en la medianoche sin cisnes y sin gritos. Entonces halcón y concha, sólo entonces los teoremas y las mandolinas heladas electrizan la gruta; los vegetales y la pleamar ascienden, isla en la sorpresa de los corales espontáneos; labios que se rayan al modular un paisaje de plumas; fonógrafos que alzan la tapa de la noche y enseñan un pie o un diente; o de cítaras que despeinan una madera o un mármol, sin cicatrizar aún la fiebre con que la brisa resbaló su sueño; saltan de su dintel cartográfico, sin que los teléfonos pongan en temblor los pájaros de raso de las quimonas con humo —y son, en la esquina de la alcoba, una pantufla dormida.
+
+
+::: {.verse .indent}
+Si se desmenuza una teoría de instantes,
+escapan gotas de jacinto, surtidor, galgo verdinegro;
+clavados ruidos de hilos;
+curva de gaviotas marcadas.
+:::
+
+::: {.verse}
+Fragante de arpones; domador de flecha y son o de una fuga de abejas.
+Desmemoriado queda ese no de instantes en una piscina que vuela.
+:::
+
+## DÉCIMA QUE ES FELICITACIÓN A JUAN RAMÓN _sorprendido a fin de año, buscando Palma y Estrella._ {.verse}
+
+Querido Juan Ramón,
+en ti, solo, pulcro y buscando
+la estrella nueva cantando.
+La palma, en nuevo rincón,
+vuelve, es cola y es corazón,
+a una cierta Primavera
+de plata que reverbera
+en su centro tan oscuro
+En el puro, en el puro
+símbolo de plata rielera.
+
+## DÉCIMA FELIZ A JUAN RAMÓN _sorprendido a fin de año, buscando Palma y Estrella._ {.verse}
+
+Querido Juan Ramón,
+en ti, solo, es tarde y buscando
+la Estrella, que vas amando,
+La Palma, en nuevo rincón,
+vuelve, es cola y es corazón,
+a una cierta primavera
+de plata que reverba
+en su centro tan oscuro.
+En el puro, en el puro
+símbolo de palma flechera.
+
+## BAHÍA DE LA HABANA {.verse}
+
+### I [^bahíadelahabana]
+
+Es el secreto poner os dedos en la bola de cristal,
+sortijas que se derriten
+aplastadas por los automóviles o por la espuma
+que aquí pesa porque es el único granizo,
+las estatuas de humo
+se enrollan como alfombras.
+La ordenación que aquí se pida clasificación impensada,
+hacen escuadras los delfines,
+las pamelas tropiezan en las puertas del cine,
+y los cisnes se han esclavizado voluntariamente para ofrecer un simulacro de espera.
+Solimán piensa en la sombrilla japonesa abandonada en una planicie,
+pero el chopo se abría en un sombrero o en jardín,
+y el sabio hacia un saludo con una gran mampara blanca.
+
+### II 
+
+La costumbre se para por sentir las profecías,
+el que juega pierda, pero el que no duerme esperando nueve meses, también pierde
+y si pasan las banderas parará su máquina o seguirá cantándole a la lotería.
+Los peces de noche no dejarán pasar ningún navío,
+—agujas desojadoras con sus lunas—,
+y si llegaran a oprimir en las puertas cuando se acostumbren las doncellas
+a rendir peces y no a saber las horas por los encogimientos de las arenas.
+El trampolín no es eficaz ni vistoso,
+el anillo se presentará para unir los sexos o para enseñar los dientes de su redon[dez]
+y tendremos un circo ensangrentado o un día de lluvia.
+Los mercaderes saben que ha de llegar la princesa agraciada.
+Viva red crecida servirá de vitrina a los cuerpos,
+movible colección de sellos
+apartarán el reloj o el humo para sus juegos infieles.
+La ordenación será el roce social.
+Los automóviles han formado un anillo,
+pero el agua que cae dentro busca una playa de muslos,
+recoge con el oído la temperatura del agua.
+Los timbres han sido inútiles para encontrar el cuerpo
+y sus tesoros, pero una piscina azucarada ha reconstruido los cuerpos,
+cenizas grabadas de espadas,
+y ya aburriéndose, perdidas
+flechas con dominios por encima del lago de los suspiros
+sin perspectiva, y en turno —dolor.
+
+El revés de la sombra no el cuerpo ante el agua,
+donde los siervos han creído ver un mar de petróleo,
+helado jardín persiguiendo una rosa
+hasta la terraza donde los turistas no quieren pagar.
+Los pajes, los comunistas y los sultanes
+han desfilado provocando la inclinación de las banderas y el mes de los pendones.
+El ruiseñor tiene su cuaresma
+—los cornetines han izado una muralla sin manchar
+para que el flautido sea la hazaña que logra entrar su costa
+no se le ve porque vive frente a las ventanas,
+pero sus préstamos y cartografías
+saben que las nueve musas son hijas de Nemósine y Júpiter
+Los lunares de fósforo
+monstruos y cohetes,
+para dentro del estallido de las salutaciones galantes,
+son la vida paradojal en el derretido discurso de los cisnes.
+
+Le habían caído todas las manos como el jamás especial de los ríos,
+cuando la luna se fija para el duelo de los periodistas,
+como las abejas que recorren las estatuas
+y saben que tienen que ir a un biombo.
+Su juego de abstracción no será más que entregarlo todo en una bandeja
+y ya están corriendo todas sus manos como los ojos de las cigüeñas.
+La sombra dejará de ser ceniza y se contentará
+con la tristeza del esqueleto que mira una nube,
+para ser humo le han sobrado todos los timbres de su espalda.
+Ya no hay más que empezar a contar para sentir la alegría final,
+si empieza con un paseo acaba con una medición,
+dócil jardín y el reposo de agua,
+preclaro pecho de bocina y de miel,
+se acuesta su trabajo para el cielo,
+para establecer definitivamente el campamento del cisne.
+
+—Junio de 1932—
+José Andrés Lezama
+
+[^bahíadelahabana]: Fragmentos del mismo aparecen aparecen incorporados a «Fiesta callada» (sección «Único rumor» de _Enemigo rumor_), cuyo texto podría considerarse como una segunda versión de «Bahía de La Habana», aunque muy distante de la original.
+
 ## DÉCIMAS
+
+> «En sólo aquel cabello que en mi cuello \
+> volar consideraste»
+>
+> > S. Juan de la Cruz
 
 ### I {.verse}
 
@@ -17751,6 +17884,12 @@ Su helada blancura desdeñada sin fin.
 La noche marinera ni rapta el tiempo ni la muerte nos trae.
 Severo el fuego construyendo adormece
 al hombre y al ángel de la llave entregada.
+
+## ERNESTO GUEVARA, COMANDANTE NUESTRO
+
+Ceñido por la última prueba, piedra pelada de los comienzos para oír las inauguraciones del verbo, la muerte lo fue a buscar. Saltaba de chamusquina para árbol, de aquileida caballo hablador para hamaca donde la india, con su cántaro que coagula los sueños, lo trae y lo lleva. Hombre de todos los comienzos, de la última prueba, del quedarse con una sola muerte, de particularizarse con la muerte, piedra sobre piedra, piedra creciendo el fuego. Las citas con Tupac Amaru, las charreteras bolivarianas sobre la plata del Potosí, le despertaron los comienzos, la fiebre, los secretos de ir quedándose para siempre. Quiso hacer de los Andes deshabitados, la casa de los secretos. El huso del transcurso, el aceite amaneciendo, el carbunclo trocándose en la sopa mágica. Lo que se ocultaba y se dejaba ver era nada menos que el sol, rodeado de medialunas incaicas, de sirena del séquito de Viracocha, sirenas con sus grandes guitarras. El medialunero Viracocha transformando las piedras en guerreros y los guerreros en piedras. Levantando por el sueño y las invocaciones la ciudad de las murallas y las armaduras. Nuevo Viracocha, de él se esperaban todas las saetas de la posibilidad y ahora se esperan todos los prodigios en la ensoñación.
+
+Como Anfiareo, la muerte no interrumpe sus recuerdos. La _aristía_, la protección en el combate, la tuve siempre a la hora de los gritos y la arreciada del cuello, pero también la _aretia_, el sacrificio, el afán de holocuasto. El sacrificarse en la pirámide funeral, pero antes dio las pruebas terribles de su tamaño para transfiguración. Dondequiera que hay una piedra, decía Nietzsche, hay una imagen. Y su imagen es uno de los comienzos de los prodigios, del sembradío en la piedra, es decir, el crecimiento tal como aparece en las primeras teogonías, depositando la región de la fuerza en el espacio vacío.
 
 ## LA CASA DEL ALIBI [^casadelalibi_src] {.verse}
 
@@ -18534,7 +18673,7 @@ VI-MCMXXXI
 Su presencia se perdía, y resonaba
 girando nieve en halos de sinfines;
 sus muslos y conchitas desligaba
-en la cárcel sin redd de los delfines.
+en la cárcel sin red de los delfines.
 
 Naranjada y coral la tarde deletreaba
 dando vueltas, labios laten pieza de conines.
