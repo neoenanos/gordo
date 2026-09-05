@@ -1491,7 +1491,7 @@ su mesa de marfil, la crema de los colores llorosos.
 Como si se separara un día de otro
 —dócil jardín y el reposo del agua,
 preclaro pecho de bocina y de miel—
-se acuesta su trabjo en el cielo
+se acuesta su trabajo en el cielo
 para establecer definitivamente el campamento de los cisnes.
 
 ### CUERPO, CABALLOS 
