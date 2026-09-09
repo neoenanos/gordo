@@ -4,7 +4,7 @@
 
 # Build configuration
 
-OUTPUT_FILENAME = lezama_lima-poesía_completa
+OUTPUT_FILENAME = ACCELERATOR\ -\ trufas
 COVER_IMAGE = images/cover.jpg
 
 # If true, build directly from one markdown file.
@@ -59,7 +59,7 @@ DATE_METADATA = --metadata=date:$(COMPILE_DATE)
 
 ARGS = $(TOC) $(MATH_FORMULAS) $(METADATA_ARGS) $(DATE_METADATA) $(FILTER_ARGS) $(DEBUG_ARGS)
 	
-PANDOC_COMMAND = pandoc --lua-filter=filters/verse-sections.lua
+PANDOC_COMMAND = pandoc --lua-filter=filters/verse-sections.lua --lua-filter=filters/center.lua
 
 # Per-format options
 
