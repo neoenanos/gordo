@@ -9,24 +9,15 @@ COVER_IMAGE = images/cover.jpg
 
 # If true, build directly from one markdown file.
 # If false, split the source into chapters first.
-SINGLE_SOURCE ?= false
-SPLIT_SRC := chapters/gordo.md
+SINGLE_SOURCE ?= true
+SPLIT_SRC := chapters/trufas.md
 
 ifeq ($(SINGLE_SOURCE),true)
-CHAPTERS := ./chapters/gordo.md
+CHAPTERS := ./chapters/trufas.md
 else
 # Add many
 CHAPTERS += $(addprefix ./chapters/,\
-s/MUERTE_DE_NARCISO.md \
-s/ENEMIGO_RUMOR.md \
-s/AVENTURAS_SIGILOSAS.md \
-s/LA_FIJEZA.md \
-s/DADOR.md \
-s/FRAGMENTOS_A_SU_IMÁN.md \
-s/SOBRE_EL_CREPÚSCULO_Y_MONSTRUOS_DEL_AGUA_[^sobreelcre].md \
-s/INICIO_Y_ESCAPE_[^inicioyescape].md \
-s/POEMAS_NO_PUBLICADOS_EN_LIBRO.md \
-s/OTROS_POEMAS.md \
+s/trufas.md
 )
 endif
 
@@ -41,7 +32,7 @@ BLANK_TEMPLATE = templates/blank-empty.tex
 BLANK_PDF = $(BUILD)/pdf/blank-pages.pdf
 BOOKLET_OUTPUT = $(BUILD)/pdf/$(OUTPUT_FILENAME)-book.pdf
 
-TOC = --toc --toc-depth 5
+TOC = # --toc --toc-depth 5
 METADATA_ARGS = --metadata-file $(METADATA)
 IMAGES = $(shell find images -type f)
 TEMPLATES = $(shell find templates/ -type f)
@@ -141,26 +132,26 @@ blank-pdf: $(BLANK_PDF)
 $(BUILD)/epub/$(OUTPUT_FILENAME).epub:	$(EPUB_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/epub
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(EPUB_ARGS) -o $@
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(EPUB_ARGS) -o "$@"
 	$(ECHO_BUILT)
 
 $(BUILD)/html/$(OUTPUT_FILENAME).html:	$(HTML_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/html
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(HTML_ARGS) -o $@
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(HTML_ARGS) -o "$@"
 	$(QUIET)$(COPY_CMD) $(IMAGES) $(BUILD)/html/
 	$(ECHO_BUILT)
 
 $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf:	$(PDF_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/pdf
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(PDF_ARGS) -o $@
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(PDF_ARGS) -o "$@"
 	$(ECHO_BUILT)
 
 $(BUILD)/docx/$(OUTPUT_FILENAME).docx:	$(DOCX_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/docx
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(DOCX_ARGS) -o $@
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(DOCX_ARGS) -o "$@"
 	$(ECHO_BUILT)
 
 $(BOOKLET_OUTPUT): $(BOOKLET_DEPENDENCIES) $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
@@ -172,7 +163,7 @@ $(BOOKLET_OUTPUT): $(BOOKLET_DEPENDENCIES) $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
 		--short-edge \
 		--no-crop \
 		$(BUILD)/pdf/$(OUTPUT_FILENAME)-with-blank.pdf
-	mv $(BUILD)/pdf/$(OUTPUT_FILENAME)-with-blank-book.pdf $@
+	mv $(BUILD)/pdf/$(OUTPUT_FILENAME)-with-blank-book.pdf "$@"
 	$(ECHO_BUILT)
 
 $(BLANK_PDF): $(BLANK_TEMPLATE) $(TEMPLATES)
