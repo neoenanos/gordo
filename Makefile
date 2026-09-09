@@ -4,7 +4,7 @@
 
 # Build configuration
 
-OUTPUT_FILENAME = lezama_lima-poesía_completa
+OUTPUT_FILENAME = LEZAMA\ LIMA\ -\ Poesía\ Completa
 COVER_IMAGE = images/cover.jpg
 
 # If true, build directly from one markdown file.
@@ -141,26 +141,26 @@ blank-pdf: $(BLANK_PDF)
 $(BUILD)/epub/$(OUTPUT_FILENAME).epub:	$(EPUB_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/epub
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(EPUB_ARGS) -o $@
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(EPUB_ARGS) -o "$@"
 	$(ECHO_BUILT)
 
 $(BUILD)/html/$(OUTPUT_FILENAME).html:	$(HTML_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/html
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(HTML_ARGS) -o $@
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(HTML_ARGS) -o "$@"
 	$(QUIET)$(COPY_CMD) $(IMAGES) $(BUILD)/html/
 	$(ECHO_BUILT)
 
 $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf:	$(PDF_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/pdf
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(PDF_ARGS) -o $@
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(PDF_ARGS) -o "$@"
 	$(ECHO_BUILT)
 
 $(BUILD)/docx/$(OUTPUT_FILENAME).docx:	$(DOCX_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/docx
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(DOCX_ARGS) -o $@
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(DOCX_ARGS) -o "$@"
 	$(ECHO_BUILT)
 
 $(BOOKLET_OUTPUT): $(BOOKLET_DEPENDENCIES) $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
@@ -172,7 +172,7 @@ $(BOOKLET_OUTPUT): $(BOOKLET_DEPENDENCIES) $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
 		--short-edge \
 		--no-crop \
 		$(BUILD)/pdf/$(OUTPUT_FILENAME)-with-blank.pdf
-	mv $(BUILD)/pdf/$(OUTPUT_FILENAME)-with-blank-book.pdf $@
+	mv $(BUILD)/pdf/$(OUTPUT_FILENAME)-with-blank-book.pdf "$@"
 	$(ECHO_BUILT)
 
 $(BLANK_PDF): $(BLANK_TEMPLATE) $(TEMPLATES)
