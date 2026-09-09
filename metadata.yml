@@ -4,7 +4,7 @@ subtitle: (o de la razón diluida)
 author: Accelerator
 rights: CC-BY-SA-4.0
 lang: es-CL
-version: 1.0.0
+version: 0.1.0
 mainlang: spanish
 otherlang: spanish
 tags: [pandoc, book, poetry, cuba]
@@ -34,6 +34,7 @@ mainfontfallback:
   - "Takao Mincho:script=cjk"
   - "Noto Sans Batak:Renderer=Harfbuzz"
   - "Noto Sans Tai Viet:Renderer=Harfbuzz"
+  - "Libertinus Serif"
 # Filter preferences:
 # - pandoc-crossref
 linkReferences: true
